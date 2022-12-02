@@ -1,0 +1,4 @@
+Type: orb
+Rank: A2
+Effects: AgilityMod:2.0
+Description: 

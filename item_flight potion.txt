@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: S1
+Effects: CanFly:true
+Duration: 30 minutes
+Description: 

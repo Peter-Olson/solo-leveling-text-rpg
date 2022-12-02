@@ -1,0 +1,12 @@
+﻿Type
+Rank
+Attack
+Defense
+HP
+MP
+Strength
+Agility
+Sense
+Vitality
+Intelligence
+Description

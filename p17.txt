@@ -1,0 +1,13 @@
+You know your strength is there, you can feel it, but it almost seems to weigh you down.\n
+You hear cackling. Heat is washing over you, and you sweat profusely, falling to your knees.\n\n
+What is happening?\n\n
+The droplets of sweat splash against your desk, and the already crackling ground shatters\n
+beneath your feet. “Sung Jin-Woo!”\n\n
+Who said that?\n\n
+Was it the boss?\n\n
+The voice echoes again. The darkness surrounding you flashes out of existence\n
+as you open your eyes to be greeted by a worried expression on the face of your professor.\n\n
+Miss Chan-Ri?
+@@END
+0,1
+<continue>

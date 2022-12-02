@@ -1,0 +1,12 @@
+﻿Type: platebody
+Rank: B3
+Defense: 210
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 6
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 18
+BonusMP: 0
+Description: 

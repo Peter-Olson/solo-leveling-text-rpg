@@ -1,0 +1,13 @@
+﻿Type: scythe
+Rank: B2
+Attack: 108
+Speed: slow
+Effects: none
+BonusStrength: 20
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 22
+BonusIntelligence: 20
+BonusHP: 0
+BonusMP: 22
+Description: 

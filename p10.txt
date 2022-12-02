@@ -1,0 +1,13 @@
+You bellow with unnatural force and loudness, as you activate “Titan’s roar”. Your muscles tighten up,\n
+blood starts boiling almost immediately, and you see the world around you slow down, as everything\n
+sharply rises in contrast.\n\n
+Your eyes flash a menacing red and the approaching enemies stop in their tracks for a brief\n
+moment, clearly frightened by your display of sheer power.\n\n
+That’s all the time you need.\n\n
+In an instant, you’re already at the feet of the left squadron, your full momentum put\n
+into a sliding slice. Your longsword cuts through the scales on the mammoths’ ankles like butter,\n
+and you’re already prepared for the falling elves, as the towering beasts fall to the side. Your blade\n
+separates the small heads of falling enemies from their torsos with a whirl before they hit the ground.
+@@END
+0,1
+<continue>

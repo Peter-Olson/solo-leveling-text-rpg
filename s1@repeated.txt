@@ -1,0 +1,8 @@
+What would you like to see?\n\n@@CODE|@Class@=Hunter|1) Inventory\t\t2) Stats\t\t3) Skills\n
+4) Goals\t\t5) Equipment\t\t|@Class@=Assassin$$@Class@=Necromancer$$@Class@=Monarch of Shadows|
+1) Inventory\t\t2) Stats\t\t3) Skills\n4) Quests\t\t5) Equipment\t\t6) Shadows||
+1) Inventory\t\t2) Stats\t\t3) Skills\n4) Quests\t\t5) Equipment
+@@END
+unknown
+<textbox>
+s1

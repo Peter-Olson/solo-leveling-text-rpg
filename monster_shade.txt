@@ -1,0 +1,12 @@
+﻿Type: mage
+Rank: C2
+Attack: 30
+Defense: 9
+HP: 503
+MP: 1081
+Strength: 25
+Agility: 26
+Sense: 42
+Vitality: 23
+Intelligence: 83
+Description: 

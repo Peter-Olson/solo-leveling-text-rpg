@@ -1,0 +1,33 @@
+﻿Orb of acute aim@AgilityMod:1.5,SenseMod:1.5@B1,A3,A4,S1
+Orb of avarice@GoldMod:1.5,LuckMod:1.3@C5
+Orb of command@ReputationMod:3.0,AttackMod:1.2@B5
+Orb of confusion@StrengthMod:1.3,SenseMod:0.5,VitalityMod:1.3,IntelligenceMod:0.5@B5
+Orb of control@AgilityMod:2.0@A2,S1
+Orb of darkness@SenseMod:1.5,MPMod:1.5@C2
+Orb of death@AttackMod:2.0,StrengthMod:2.0,VitalityMod:0.1,HPMod:0.5@A2
+Orb of defense@DefenseMod:1.5@B2,A2
+Orb of demon oppression@ReductionMagicMod:2.0,ReductionFireMod:2.0,AttackMod:1.5@A1
+Orb of effect-resistance@ReductionFireMod:2.0,ReductionPoisonMod:2.0,ReductionIceMod:2.0@D5
+Orb of enhanced magic@IntelligenceMod:1.5,MPMod:2.5@C4
+Orb of flight@CanFly:true@B2
+Orb of great dexterity@AgilityMod:2.0@S1,S2
+Orb of great intelligence@IntelligenceMod:2.0@A4
+Orb of great magic@IntelligenceMod:2.0,MPMod:3.0,RegenerationMod:1.5,ReductionMagicMod:1.5@A5
+Orb of great power@StrengthMod:2.0,AttackMod:2.0@A3,A4,A5,S1,S2
+Orb of healing@RegenerationMod:5.0@A1
+Orb of intelligence@IntelligenceMod:1.5@A4
+Orb of magic@IntelligenceMod:1.3,MPMod:1.5@A5
+Orb of mana@MPMod:1.5@D3
+Orb of misery@AttackMod:2.0,DefenseMod:2.0,StrengthMod:1.5,AgilityMod:1.5,SenseMod:1.5,VitalityMod:0.5,IntelligenceMod:1.5,HPMod:0.5,ReputationMod:0.1,LuckMod:0.5,RegenerationMod:0.1@B4
+Orb of plasma@GoldMod:1.5,ReductionFireMod:2.0,RegenerationMod:1.5@C3
+Orb of poison@ReductionPoisonMod:10.0@B3
+Orb of power@StrengthMod:1.5,AttackMod:1.3@B1,B2,B3,B5,A1,A2
+Orb of rage@StrengthMod:2.5,AttackMod:1.5,SenseMod:0.3,AgilityMod:0.5@A3
+Orb of shifting defense@DefenseMod:2.5,IntelligenceMod:2.0,AgilityMod:1.5@B3,A1,A2
+Orb of silence@ReductionPiercingMod:1.5,ReductionSlashingMod:1.5,ReductionBluntMod:1.5@B1,A3,A4,S1
+Orb of slaughter@StrengthMod:1.5,AttackMod:2.5,HPMod:0.5@C4
+Orb of strength@StrengthMod:1.5@B3
+Orb of telekinetic sight@HasTelekineticSight:true@B2,A3
+Orb of the dragon flame@IsImmuneToDragonBreath:true@S1
+Orb of water-breathing@CanBreatheUnderwater:true@C5
+Orb of water movement@SwimmingSpeedMod:3.0@C5

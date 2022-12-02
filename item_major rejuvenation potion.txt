@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: C1
+Effects: MP:35%
+Duration: permanent
+Description: 

@@ -1,0 +1,4 @@
+Type: orb
+Rank: A5
+Effects: IntelligenceMod:1.3,MPMod:1.5
+Description: 

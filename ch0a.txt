@@ -1,0 +1,12 @@
+It’s a bit later in the day you’ve been indirectly diagnosed with a sudden onset of permanent inferiority complex.\n
+You sit at your desk resigned, but relaxed. You feel a lot better than usual, actually... well, at least as\n
+far as your physical body is concerned. It makes sense, since the differences between hunter power ranks are huge,\n
+it’s only natural that an E-rank would be way more resilient and capable than an ordinary human.\n\n
+You ponder what to do now, since you still have most of the day free from work. Depending on how things go for you,\n
+you might get a better one (even from the pool of non-hunter ones). You could also abandon your studies and focus\n
+more on hunter work. This will increase your chances of getting more money quickly, which in turn, will allow you\n
+to really help your mom. At least you hope it will play out that way. Getting your mom back is a goal you’re\n
+determined to accomplish, eventually.
+@@END
+7,9
+<continue>

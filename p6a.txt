@@ -1,0 +1,16 @@
+You stumble down into the kitchen to satiate your hunger. Did you get any supper yesterday?\n
+You can’t seem to be able to recall. As you enter, you notice Jin-Ah is already there,\n
+peppy as ever - enjoying some banana milk.\n\n
+“Oppa! Don’t you have class at 8:00 today? You’re going to be late!”\n
+You take out your phone and steal a glance at the clock. It shows 7:42.\n\n
+Fuck.\n\n
+The bus you usually take to the campus takes 30 minutes on average. Your adrenaline surges,\n
+as you dash to the fridge to grab an egg-sandwich. Stuffing it in your mouth, you pat your\n
+sister on the head humming “Have a good day, sis” through your nose as you rush to leave.\n\n
+You have your hand on the door handle, as you hear Jin-Ah yell “Oppa! Your backpack!”.\n
+You turn 180 degrees swiftly, and run back to your room\n
+muttering “Stupid, stupid, stupid..” with you mouth still full. Grabbing you backpack\n
+finally allows you to leave the house.
+@@END
+7,9
+<continue>

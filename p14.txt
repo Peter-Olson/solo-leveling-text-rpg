@@ -1,0 +1,12 @@
+Huh.. guess it didn’t.\n\n
+You turn around from the carnage after your bones are done rattling from the impact\n
+you’ve landed with. Through the slightly red-tinted haze you spot the boss again,\n
+a couple of mobs guarding him downed by the projectiles that your air-attack didn’t\n
+like enough to swallow up. The grin doesn’t leave your face. Time begins to speed back up.\n\n
+You turn around and deliver a shattering kick to one of the remaining hellboars that was\n
+lucky enough to not be swept away by the wind and managed to get close. Its mangled body flies back,\n
+smashing into two of its brethren, effectively stopping what remained of the pack with a chain-reaction.\n\n
+Turning towards the boss, you approach slowly, letting your muscles rest. You don’t want to risk a strain, after all.
+@@END
+0,1
+<continue>

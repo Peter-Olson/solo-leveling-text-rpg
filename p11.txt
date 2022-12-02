@@ -1,0 +1,13 @@
+The vibrations under your feet seem to grow in intensity. You glance back, disregarding\n
+the dull thuds of falling cannon fodder.\n\n
+There’s a pack of hellboars charging towards you, from where you’ve thrown one moments before.\n
+The zorcs behind them have already managed to collect themselves and seem to be readying a\n
+barrage of poison-coated spears and arrows. You allow them all to continue, taking a brief respite\n
+to imagine the upcoming looks on their faces or ...well, snouts.\n\n
+They’ve no clue what’s coming to them.\n\n
+You explosively extend your leg muscles, taking high into the air in just an instant.\n
+Nearing the apex of your jump you ready a skill appropriate for the occasion.\n\n
+“Whirlwind Slash”
+@@END
+0,1
+<continue>

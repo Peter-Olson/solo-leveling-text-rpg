@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: C2
+Effects: IsInvisible:true
+Duration: 30 minutes
+Description: 

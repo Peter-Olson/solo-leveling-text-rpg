@@ -1,0 +1,13 @@
+﻿Type: staff
+Rank: B3
+Attack: 42
+Speed: slow
+Effects: none
+BonusStrength: 10
+BonusAgility: 0
+BonusSense: 16
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 10
+BonusMP: 0
+Description: 

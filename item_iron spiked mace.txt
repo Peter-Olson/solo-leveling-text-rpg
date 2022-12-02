@@ -1,0 +1,13 @@
+﻿Type: mace
+Rank: D3
+Attack: 24
+Speed: normal
+Effects: none
+BonusStrength: 7
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 6
+BonusHP: 0
+BonusMP: 5
+Description: 

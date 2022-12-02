@@ -1,0 +1,4 @@
+Type: orb
+Rank: B2
+Effects: CanFly:true
+Description: 

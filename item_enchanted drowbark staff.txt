@@ -1,0 +1,13 @@
+﻿Type: staff
+Rank: A4
+Attack: 73
+Speed: slow
+Effects: none
+BonusStrength: 16
+BonusAgility: 11
+BonusSense: 25
+BonusVitality: 16
+BonusIntelligence: 33
+BonusHP: 16
+BonusMP: 28
+Description: 

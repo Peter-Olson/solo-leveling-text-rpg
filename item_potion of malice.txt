@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: D1
+Effects: Strength:50%,Sense:-30%
+Duration: 30 minutes
+Description: 

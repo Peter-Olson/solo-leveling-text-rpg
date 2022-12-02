@@ -1,0 +1,12 @@
+﻿Type: defensive
+Rank: B1
+Attack: 91
+Defense: 108
+HP: 1754
+MP: 594
+Strength: 22
+Agility: 25
+Sense: 25
+Vitality: 60
+Intelligence: 31
+Description: 

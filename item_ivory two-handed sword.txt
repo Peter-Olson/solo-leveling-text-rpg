@@ -1,0 +1,4 @@
+﻿Type: two-handed sword
+Rank: E5
+Attack: none
+Speed: 

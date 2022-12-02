@@ -1,0 +1,13 @@
+﻿Type: claw
+Rank: C2
+Attack: 26
+Speed: fastest
+Effects: none
+BonusStrength: 0
+BonusAgility: 12
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

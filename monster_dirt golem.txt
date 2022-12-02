@@ -1,0 +1,12 @@
+﻿Type: defensive
+Rank: D4
+Attack: 19
+Defense: 31
+HP: 332
+MP: 138
+Strength: 14
+Agility: 16
+Sense: 21
+Vitality: 33
+Intelligence: 18
+Description: 

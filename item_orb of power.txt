@@ -1,0 +1,4 @@
+Type: orb
+Rank: B1
+Effects: StrengthMod:1.5,AttackMod:1.3
+Description: 

@@ -1,0 +1,5 @@
+﻿Type: halberd
+Rank: E5
+Attack: slowest
+Speed: none
+Effects: 

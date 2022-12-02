@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: D3
+Defense: 8
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 7
+BonusIntelligence: 0
+BonusHP: 6
+BonusMP: 0
+Description: 

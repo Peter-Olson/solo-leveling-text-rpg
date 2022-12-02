@@ -1,0 +1,13 @@
+﻿Type: wand
+Rank: S1
+Attack: 160
+Speed: fast
+Effects: none
+BonusStrength: 41
+BonusAgility: 88
+BonusSense: 88
+BonusVitality: 52
+BonusIntelligence: 0
+BonusHP: 41
+BonusMP: 0
+Description: 

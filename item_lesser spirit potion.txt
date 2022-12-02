@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: E5
+Effects: HP:35%,MP:35%
+Duration: permanent
+Description: 

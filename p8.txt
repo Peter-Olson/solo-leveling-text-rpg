@@ -1,0 +1,14 @@
+Finding your desk is easy, as it is one of the only few unoccupied ones. A gaping hole in a\n
+puddle of people. You smirk at the thought. Well, there’s not nearly enough of them for an ocean..\n\n
+Before you know it, you’re sitting in your seat, feeling unusually comfortable in the hard wooden chair.\n
+Feigning interest in what the professor is currently explaining, you instead concentrate on resting\n
+your head in your hands, the most optimal way you can find, since they suddenly have never been so comfy.\n\n
+…\n\n
+…\n
+Ah! this seems to almost be it.\n\n
+Almost..\n
+Aaalmost..\n\n
+Zzzzzzzzz…
+@@END
+0,1
+<continue>

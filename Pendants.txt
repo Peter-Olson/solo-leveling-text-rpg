@@ -1,0 +1,55 @@
+﻿Aegis’ Corrupt Volcano Pendant of Erupting Magma and Malice@StrengthMod:2.5,AgilityMod:2.0,AttackMod:2.0,SenseMod:1.5,MPMod:2.5,ReductionFireMod:5.0|BonusVitality:100@S1
+Alpha wolf pendant@|BonusAttack:10,BonusHP:20,BonusSense:10,BonusAgility:10,BonusVitality:10@E5
+Conqueror of Penalties@AttackMod:3.0,DefenseMod:3.0,AgilityMod:3.0,SenseMod:3.0,LuckMod:3.0|@S3
+Crimson silken’s shadowed pendant from the Beyond@AttackMod:1.5,VitalityMod:1.5,RegenerationMod:1.5|BonusDefense:30,BonusIntelligence:30@B4
+Cursed pendant@LuckMod:0.5,RegenerationMod:0.7|BonusAttack:10,BonusDefense:10,BonusHP:10, BonusMP:10@E5
+Dark silken’s shadowed pendant from the Beyond@AttackMod:1.3,VitalityMod:1.3,RegenerationMod:1.3|BonusDefense:20,BonusIntelligence:20@B2
+Demon Aristocrat’s Sorcerer’s Cursed Pentagram Pendant of the 7th Hell@AttackMod:2.0,SenseMod:2.0,IntelligenceMod:2.0,HPMod:1.5,ReputationMod:2.0,GoldMod:1.5,ReductionFireMod:5.0|BonusAttack:30,BonusDefense:50@A4
+Demon death guarding pendant of Zthulynnh@HPMod:1.5,DefenseMod:1.3,RegenerationMod:1.5|BonusVitality:30,BonusAgility:30@A1,A2,A3
+Diamond Pendant@|BonusAttack:20,BonusDefense:20,BonusHP:20,BonusMP:20,BonusStrength:20,BonusAgility:20,BonusSense:20,BonusVitality:20,BonusIntelligence:20@C2
+Druid’s pendant@MPMod:1.2|BonusIntelligence:10,BonusMP:20@D1
+Elandrial’s Mystic Pendant of the Woods@SenseMod:1.5,AgilityMod:1.5|BonusAttack:10,BonusAgility:10,BonusSense:10@B1
+Emerald Pendant@|BonusMP:20,BonusSense:20@C2
+Enchanted Diamond Pendant@HPMod:1.5,MPMod:1.5,DefenseMod:1.3|BonusStrength:30,BonusAgility:30,BonusSense:30,BonusVitality:30,BonusIntelligence:30@C4
+Enchanted Emerald Pendant@MPMod:1.5|BonusSense:30@C4
+Enchanted Moonstone Pendant@VitalityMod:1.5,MPMod:1.5|BonusAttack:30@C4
+Enchanted Opal Pendant@HPMod:1.5|BonusIntelligence:30,BonusDefense:30@C4
+Enchanted Sapphire Pendant@MPMod:1.5|BonusVitality:30@C4
+Enchanted Turquoise Pendant@MPMod:1.5,IntelligenceMod:1.5,ReductionMagicMod:1.5|BonusDefense:20,BonusAgility:20@C4
+Enchanted Ruby Pendant@HPMod:1.5|BonusStrength:30,BonusVitality:30@C4
+Enchanter’s pendant@AttackMod:1.2,DefenseMod:1.2,StrengthMod:1.2,AgilityMod:1.2,SenseMod:1.2,VitalityMod:1.2,IntelligenceMod:1.5|@C4
+Grand Telekinter’s Enchanted Constellation Pendant of Irreducible Perplexion@IntelligenceMod:2.0,MPMod:20,SenseMod:2.0,AttackMod:1.3,ExpMod:1.1,ReductionMagicMod:1.5|BonusDefense:20,BonusMP:1000@A3
+Grotesque necklace@VitalityMod:0.5,HPMod:0.5|BonusStrength:30,BonusVitality:30@C1
+Guroktaru’s Palpable Phantasmal Pendant of Pervasive Platonicness@StrengthMod:1.3,DefenseMod:1.3|BonusAttack:20,BonusDefense:10,BonusVitality:30@B5
+Gygrututi’s Ice Pendant of Gnarled Snarls@AttackMod:1.5,DefenseMod:1.5,StrengthMod:1.5,ReductionIceMod:10.0|BonusVitality:50@A3
+Headless Horseman’s Mystic Ghost Pendant@AttackMod:1.2,StrengthMod:1.2,AgilityMod:1.2,IntelligenceMod:1.2,ReputationMod:0.7,GoldMod:1.5|BonusVitality:30@B2
+High orc war pendant@AttackMod:1.5,StrengthMod:1.5,VitalityMod:1.5,HPMod:1.3|BonusDefense:50@A4
+Horseman forest charm@AgilityMod:1.2,SenseMod:1.2|BonusAgility:10,BonusSense:10@C3
+Hyper-Poison Magic Pendant of Boiling Wrath@AttackMod:1.3,AgilityMod:1.2,ReductionPoisonMod:5.0|BonusAttack:20@B3
+Jaguar necklace@|BonusAgility:20@D2
+Jungle pendant@|BonusSense:10,BonusAgility:10@D3
+Kaisellin’s Dragon Pendant of Many Jewels@AttackMod:1.5,DefenseMod:1.5,StrengthMod:1.5,AgilityMod:1.5,SenseMod:1.5,VitalityMod:1.5,IntelligenceMod:1.5,HPMod:1.5,MPMod:1.5,ExpMod:1.2,GoldMod:1.5,LuckMod:1.5,ReputationMod:1.5,RegenerationMod:1.5|@S1
+Knight’s badge of power@DefenseMod:1.5|BonusAttack:15@C1
+Lycan necklace@|BonusAttack:5,BonusHP:10@E3,E5,D3,D4
+Magician’s Enchanted Mana Pendant@MPMod:2.0,IntelligenceMod:1.5|BonusMP:100@B2
+Mystic Puzzle Burning Galaxy Dark Soul Pendant of the Grand Arch Lich Dominion’s Lesser Beyond@AttackMod:1.5,DefenseMod:2.0,StrengthMod:2.0,IntelligenceMod:2.0,HPMod:1.5,MPMod:1.5,ReductionPiercingMod:1.5,ReductionSlashingMod:1.5,ReductionBluntMod:1.5,RegenerationMod:2.0|BonusVitality:20,BonusSense:20@A5
+Opal Pendant@|BonusIntelligence:20,BonusHP:20,BonusDefense:20@C2
+Pearl Pendant@|BonusAttack:20,BonusSense:20,BonusMP:20@C2
+Pendant of arbitration@DefenseMod:1.3,ReputationMod:2.0,ReductionPiercingMod:1.2,ReductionSlashingMod:1.2,ReductionBluntMod:1.2|BonusVitality:20@C4
+Pendant of flame@ReductionFireMod:1.5|BonusDefense:10,BonusVitality:20@C3
+Pendant of the gods@AttackMod:5.0,StrengthMod:5.0,HPMod:5.0|@S3
+Pendant of the Undead@RegenerationMod:1.5|BonusHP:15,BonusVitality:10@D5
+Royal pendant@ReputationMod:1.5,GoldMod:1.5|BonusHP:50,BonusAttack:10,BonusVitality:20@C2
+Ruby Pendant@|BonusHP:20,BonusStrength:20,BonusVitality:20@C2
+Runescale Enchanted Pendant of Asaka@SwimmingSpeedMod:1.5,AttackMod:1.2|BonusMP:100,BonusAgility:30,BonusDefense:15@C5
+Sapphire Pendant@|BonusMP:20,BonusVitality:20@C2
+Silkworm pendant@|BonusDefense:30,BonusVitality:20@C3
+Soul Stone Pendant@StrengthMod:0.01,ReputationMod:0.1,IntelligenceMod:2.5,MPMod:1.5|@A4
+Stocky Pendant of Gargantua@DefenseMod:2.0,VitalityMod:2.0,HPMod:1.5|@A1
+Sylven Wooden Pendant of Loneliness@ReputationMod:0.3,MPMod:2.0,AttackMod:1.3,RegenerationMod:2.0,ReductionPiercingMod:0.1,ReductionSlashingMod:0.1,ReductionBluntMod:0.1|BonusDefense:30,BonusStrength:30,BonusAttack:50@A1
+Tarantzilla’s Webbed Pendant@AgilityMod:0.5,StrengthMod:1.5,SenseMod:1.5|BonusStrength:20,BonusDefense:20@C5
+The Beast’s Ancient Jungle Force Pendant of Ivania@AttackMod:1.5,AgilityMod:3.0,SenseMod:2.0,StrengthMod:1.5,RegenerationMod:2.0,SwimmingSpeedMod:2.0|BonusHP:5000,BonusMP:5000@S1
+The Demon King Baran’s Controlling Pendant Over the 7th Hell@AttackMod:2.0,DefenseMod:2.0,StrengthMod:2.0,AgilityMod:2.0,VitalityMod:2.0,IntelligenceMod:2.0,HPMod:2.0,MPMod:2.0,ReputationMod:2.0|@S2
+The Grand Monolith Pendant of Hell’s Circle@DefenseMod:3.0,StrengthMod:2.0,VitalityMod:2.0,HPMod:2.0|@S1
+Turquoise Pendant@|BonusMP:20,BonusIntelligence:20,BonusDefense:20,BonusAgility:20@B1
+Unchained Mighty Ant Queen Pendant of Reborn Life@HPMod:2.0,RegenerationMod:2.0,StrengthMod:1.5,ReductionSlashingMod:1.5,ReductionBluntMod:2.0|BonusAttack:30,BonusDefense:100@A3

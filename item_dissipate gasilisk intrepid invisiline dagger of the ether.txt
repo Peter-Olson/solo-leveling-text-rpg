@@ -1,0 +1,13 @@
+﻿Type: dagger
+Rank: A2
+Attack: 68
+Speed: fastest
+Effects: none
+BonusStrength: 0
+BonusAgility: 52
+BonusSense: 35
+BonusVitality: 0
+BonusIntelligence: 35
+BonusHP: 35
+BonusMP: 45
+Description: 

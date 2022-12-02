@@ -1,0 +1,9 @@
+You angrily throw your fist on top of your alarm clock. Your hand bounces off, but the\n
+clock still manages to make a chirping sound and fall off your desk. Jin-Ah appears in\n
+the doorway with her hands on her hips, frowning disapprovingly at you. “Oppa!”\n
+You lift your head and dazedly force a weak smile. “You have to get to school! No time to sleep!”\n
+Jin-Ah grabs you by your arm and tries to pull you to your feet. You relent and grab your\n
+backpack as Jin-Ah pushes you out the door.
+@@END
+7,9
+<continue>

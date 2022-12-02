@@ -1,0 +1,94 @@
+﻿Bat Hide Coif E1
+Wolf hood E3
+Kobold Hide Coif E3
+Woodboar Hide Coif E3
+Wolf Hide Coif E3
+Fur Coif E4
+Jawlmet E5
+Jelly crown E5
+Wolf hood E5
+Casaka’s Emerald-Pointed Helmet E5
+Alpha Wolf Head of Strength E5
+Ivory Helmet E5
+Jellyhide Coif E5
+Orc spiked helmet D1
+Spiked cap D1
+Goblin top hat D1
+Gnomestone Helmet D1
+Jackal hood D2
+Jackal Hide Coif D2
+Iron Helmet D3
+Jungle toad battle helmet D3
+Jungle toad leather coif D3
+Wolf hood D3
+Blood steel wool hide coif D4
+Zhelmet of Tarsh D5
+Ironsteel helmet C1
+Magic Rock Helmet C1
+Multi-Jeweled Jewlgre Crown C2
+Multi-jeweled helmet of strength C2
+Steel-engraved plumed full-helm C2
+Bronze Helmet C2
+Iron Helmet C2
+Silver Helmet C2
+Gold Helmet C2
+Steel Helmet C2
+Jade Helmet C2
+Obsidian Helmet C2
+Platinum Helmet C2
+Mammoth ivory helmet C3
+Silken’s magician hood C3
+Lava helmet C3
+Lava helmet C3
+Lava helmet C3
+Centipede helmet C3
+Magma Rock Helmet C3
+Horseman Hide Coif C3
+Mammoth Fur Coif C3
+Puppetter’s hat C4
+Enchanter’s wizard hat C4
+Enchanted Jade Helmet C4
+Enchanted Obsidian Helmet C4
+Frigate Timberock Helmet C4
+Merhelmet of the Trident C5
+Tarantzilla Spiked Helmet C5
+Elven Forest Helmet B1
+Ogre’s shoddy greathelm B1
+Dark silken’s magician hood B2
+Troll’s shoddy greathelm B2
+Foreboding White Mask Acid Helmet of the Ether B2
+Sleek Hyper-Poison Basilisk Skin Coif of Just Malice B3
+Grand Ice Bear Helmet of Excellence B3
+Magic Iron Helmet B3
+Dragonstone Helmet B3
+Enchanted Dragonstone Helmet B3
+Enchanted Magmastone Helmet B3
+Crimson silken’s magician hood B4
+Tentacle demon hat B4
+Guroktaru’s Heavenly Horned Helmet of Hell B5
+Great Dragon Snake Tsuryiaia’s Horned Mystic Helmet A1
+Anti-Sylven Helmet of Nyell-Blessed by Nyeegi A1
+Hell’s Gate Inferno Cereberus Helmet of Undead Phantoms A1
+Ygritte’s Blood-Red Plumed Helmet A1
+Twin-Headed Ogre’s Twin Helmet of Discomfort and Unbalance A1
+Magic Steel Helmet A1
+Cereberus Demon Fur Coif A1
+Caustic Superior Mask Acid Helmet of the Ether A2
+Dissipate Gasilisk Bubble Helmet of the Ether A2
+Mighty Ant Helmet of Durability A2
+Elandrial Illusive Ice Elf Frozen Enchanted Helmet of the Third Wind A3
+Centipede helmet A3
+Demon Knight’s Full-Helm of Blood-Arithmetic A3
+Mighty Ant Helmet of Durability A3
+Yeti Fur Coif A3
+The Great Forest Shadow Elf Jeweled Enchanted Drowbark Mystic Tiara of the Shadowlord’s Blessing A4
+Abernythian Mystic Metal Headress of the Great Sphinx from the Beyond A4
+Demon Aristocrat’s Enchanted Horned Dragon-Plated Helmet of the 7th Hell A4
+Death knight helmet A4
+Magmastone Helemt A4
+Abernythian Stone Helmet A4
+Magical Animated Stone Helmet A5
+Hecka Hot Helf Hood of Hellish Hubris S1
+Ancient Mystic Jungle Jaguar Head Hood of the Beast S1
+Jaguar Hide Coif S1
+The Demon King Baran’s Consummate Jeweled Dragonstone Crown of Absolute Dominion S2

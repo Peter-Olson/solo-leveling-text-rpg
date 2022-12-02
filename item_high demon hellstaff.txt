@@ -1,0 +1,13 @@
+﻿Type: staff
+Rank: A2
+Attack: 65
+Speed: slow
+Effects: none
+BonusStrength: 15
+BonusAgility: 0
+BonusSense: 23
+BonusVitality: 15
+BonusIntelligence: 0
+BonusHP: 15
+BonusMP: 0
+Description: 

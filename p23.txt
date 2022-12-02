@@ -1,0 +1,8 @@
+Each passing second seems to be longer than the last. Finally, feeling the whirring inside\n
+the sphere steadily slow down and hearing a few beeps from a nearby terminal, manned by\n
+a young scientist, you brace yourself for the fateful words that will define the rest of your life.\n\n
+“Basic enhancement type, minor magic affinity, E-rank, low threshold tendency.”\n\n
+What?
+@@END
+5,2
+<continue>

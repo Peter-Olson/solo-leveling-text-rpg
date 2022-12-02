@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: S1
+Effects: AttackMod:1.5,AgilityMod:3.0,SenseMod:2.0,StrengthMod:1.5,RegenerationMod:2.0,SwimmingSpeedMod:2.0
+Bonus Attack: 0
+Bonus Defense: 0
+Bonus HP: 5000
+Bonus MP: 5000
+Bonus Strength: 0
+Bonus Agility: 0
+Bonus Sense: 0
+Bonus Vitality: 0
+Bonus Intelligence: 0
+Description: 

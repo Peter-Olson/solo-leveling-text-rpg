@@ -1,0 +1,4 @@
+Type: orb
+Rank: C5
+Effects: GoldMod:1.5,LuckMod:1.3
+Description: 

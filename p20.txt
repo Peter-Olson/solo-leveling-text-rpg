@@ -1,0 +1,12 @@
+You don’t even dare to imagine what an S-rank would mean.\n\n
+Even if you don’t feel like an S-rank at the moment, you reason that there might be\n
+quirks and layers to your power, that have yet to be teased out, properly utilized and\n
+let loose. You remain hopefully optimistic, as if being anything other than that was\n
+even possible for you today.\n\n
+You decide not to alert your sister yet, she’ll be over the moon once you show her your\n
+official papers, signaling the beginning of a new life for both of you.\n\n
+Once the class is over there’s already a black-suit clad official waiting for you\n
+in the hallway. She escorts you out of the campus and into a black, well-maintained SUV.
+@@END
+0,1
+<continue>

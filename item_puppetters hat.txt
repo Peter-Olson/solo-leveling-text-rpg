@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: C4
+Defense: 24
+Effects: none
+BonusStrength: 10
+BonusAgility: 6
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 10
+BonusHP: 10
+BonusMP: 8
+Description: 

@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: A4
+Defense: 420
+Effects: none
+BonusStrength: 0
+BonusAgility: 57
+BonusSense: 43
+BonusVitality: 36
+BonusIntelligence: 50
+BonusHP: 0
+BonusMP: 0
+Description: 

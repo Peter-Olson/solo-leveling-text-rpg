@@ -1,0 +1,14 @@
+You try to be mad at her. You really do. She gave you quite a scare, and then\n
+a startle to boot, but maybe that’s what you needed. You don’t feel a shred of\n
+sleep on your eyelids, and skipping the morning coffee will let you save some\n
+time, you reason, trying to look on the bright side of things.\n\n
+You smile at Jin-Ah and head to the kitchen, giving her a pat on the head as\n
+you pass, shaking your head. You ponder your breakfast options, approaching the\n
+fridge, and then you hear your sister again.\n\n
+“Oppa! Don’t you have class at 8:00 today? You’re going to be late!”\n\n
+You hope she’s just trying to raise your blood pressure again, as you take\n
+your phone out and steal a glance at the clock.\n\n
+“7:46”
+@@END
+7,9
+<continue>

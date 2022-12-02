@@ -1,0 +1,12 @@
+﻿Type: tank
+Rank: D5
+Attack: 37
+Defense: 27
+HP: 317
+MP: 170
+Strength: 32
+Agility: 9
+Sense: 17
+Vitality: 100
+Intelligence: 20
+Description: 

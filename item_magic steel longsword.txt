@@ -1,0 +1,13 @@
+﻿Type: longsword
+Rank: A1
+Attack: 72
+Speed: normal
+Effects: none
+BonusStrength: 17
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 16
+BonusIntelligence: 14
+BonusHP: 14
+BonusMP: 11
+Description: 

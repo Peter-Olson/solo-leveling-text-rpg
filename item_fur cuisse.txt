@@ -1,0 +1,4 @@
+﻿Type: platelegs
+Rank: E4
+Defense: none
+Effects: 

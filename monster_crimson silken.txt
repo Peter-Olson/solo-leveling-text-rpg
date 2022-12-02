@@ -1,0 +1,12 @@
+﻿Type: dark
+Rank: B4
+Attack: 976
+Defense: 179
+HP: 6286
+MP: 8178
+Strength: 80
+Agility: 130
+Sense: 61
+Vitality: 40
+Intelligence: 91
+Description: 

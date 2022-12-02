@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: B2
+Defense: 30
+Effects: none
+BonusStrength: 5
+BonusAgility: 0
+BonusSense: 22
+BonusVitality: 18
+BonusIntelligence: 25
+BonusHP: 5
+BonusMP: 0
+Description: 

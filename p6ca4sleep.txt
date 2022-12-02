@@ -1,0 +1,15 @@
+Now that you’ve accepted the inevitable, getting a few more “z”s in doesn’t seem like\n
+a bad idea. After all, you’re perpetually exhausted. Maybe one missed class could make\n
+a difference in your overall frame-of-mind?\n\n
+You make a decision to prioritize your mental health and well being, getting back under\n
+the still-warm and ever-so comfy covers. You close your eyes, and before you can drink\n
+in the sweet feeling of being irresponsible, you’re shaken awake by your little sister.\n\n
+“OPPA! It’s almost 8 o’clock, you’re going to be SO late!” She does her best,\n
+trying to pull you out of the sweet embrace of your bed.\n\n
+Not feeling the tiniest bit more rested than you were before, you resign yourself\n
+to what the messenger of fate,  Jin-Ah is urging you to do. She hands you your backpack,\n
+now full of books and notes, and waves you out of the room, as you give her a pat on the head.\n
+She smiles in approval, although still maintaining a posture of mocking anger.
+@@END
+7,9
+<continue>

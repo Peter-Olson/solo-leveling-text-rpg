@@ -1,0 +1,12 @@
+You grin, admiring the spectacle, and decide it’s enough.\n\n 
+Raising your hand, you disengage the skill and call back your blade. The hairs on the back\n
+of your neck raise as you feel the mental link between the weapon and its wielder\n
+hum with anticipation. The longsword instantly stops spinning and launches itself straight\n
+at you, hilt-first. You wonder whether or not it will come back slowly enough to\n
+earn you some style points.\n\n
+Moments pass.\n\n
+Your hand closes around the ornate hilt that invites itself back into your rough, but loving grip.\n\n
+You land, raising a cloud of bloody mist around you.
+@@END
+0,1
+<continue>

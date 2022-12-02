@@ -1,0 +1,17 @@
+The irregular vibrations and sways of the bus make it hard to keep your eyes open.\n
+It starts to feel like your tear ducts are producing glue. Despite your rush to get\n
+to the bus stop, your ever-accumulating exhaustion catches up with you once again.\n
+An abrupt change in momentum, as well as a few loud choice words uttered about the driver\n
+that just violated a few traffic laws jolt you back into the world of the living.\n
+“Keep in mind, an adventure awaits!”, you think to yourself. Masquerading your painfully\n
+underwhelming life as an exciting adventure  gives you almost as much cynical pleasure as\n
+daydreaming about being a hunter.\n\n
+You don’t even register as you arrive at your destination. Leaving the bus and booking it\n
+to your current classroom on this expansive campus is done by your body, separately from\n
+your conscious mind. You’re fully on autopilot. This would make the ease with which you\n
+ignore your professor’s stern glare seem almost nonchalant, if not for the sweat dripping\n
+from your head, and your shortness of breath. You decide you’ll start exercising tomorrow.\n
+It’s the fourth time this month you’ve made this particular oath with yourself.
+@@END
+0,1
+<continue>

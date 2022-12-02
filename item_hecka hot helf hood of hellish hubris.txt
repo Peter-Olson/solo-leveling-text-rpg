@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: S1
+Defense: 1889
+Effects: none
+BonusStrength: 43
+BonusAgility: 0
+BonusSense: 29
+BonusVitality: 54
+BonusIntelligence: 43
+BonusHP: 0
+BonusMP: 36
+Description: 

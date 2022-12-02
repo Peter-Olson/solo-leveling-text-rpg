@@ -1,0 +1,13 @@
+﻿Type: spear
+Rank: B3
+Attack: 265
+Speed: slow
+Effects: none
+BonusStrength: 56
+BonusAgility: 0
+BonusSense: 21
+BonusVitality: 51
+BonusIntelligence: 0
+BonusHP: 51
+BonusMP: 34
+Description: 

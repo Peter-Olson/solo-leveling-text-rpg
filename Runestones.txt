@@ -1,0 +1,93 @@
+﻿Acid exfoliating runestone B2,A2
+Aura of the jungle runestone S1,S2
+Barrier runestone A5
+Blindness runestone A5
+Blood letting runestone B4
+Bloodlust strike runestone E5
+Blood rain runestone B4
+Bullrush runestone C3
+Caustic touch runestone D5
+Chasm bolt runestone C2
+Cone of silence runestone B1,A3,A4,S1,S2
+Constrict runestone B3
+Darkness burst runestone A5
+Death riddle runestone A4
+Defense curl runestone A1
+Desire of the weak runestone S2
+Detect blood runestone E4
+Dissipation runestone A2
+Dragon breath runestone S1
+Dual-wielding expertise runestone A1
+Echoing call runestone A5
+Electric slash runestone S2
+Enchant runestone C4,S1
+Enrage runestone B1,B2,B3,B5,A1,A3,A4,A5,S1,S2
+Envigorate runestone C4
+Exact air runestone B1
+Fear spell runestone C2
+Fireball runestone C3
+Fire bolt runestone C2
+Flame arrow runestone C3
+Flight runestone B2,S1
+Harden runestone B3,A1,A2,A5,S3
+Healing water runestone A1,S1
+Hell arrow runestone S1
+Hell wind runestone S1
+Hymn of agony runestone A5
+Hymn of blazing fire runestone A5
+Hymn of combustion runestone A5
+Hymn of frenzy runestone A5
+Hymn of giants runestone A5
+Hymn of lethargy runestone A5
+Hymn of protection runestone A5
+Hymn of rage runestone A5
+Hymn of slumber runestone A5
+Hymn of strengthening runestone A5
+Hymn of the fire dragon runestone A5
+Icestorm runestone A3,S1
+Illusion runestone A4
+Imitate runestone A2,S1
+Inverse speed runestone A3,S1,S2
+Invisibility runestone S1
+Invisiblate object runestone A2
+Jewelcrafting runestone C2
+Jungle beam runestone D3
+Kobold shout runestone D5
+Life drain runestone A1
+Lightening strike runestone C5
+Lightening sweep runestone A1
+Mach punch runestone B1,B2,A1,A3,S1,S2
+Magma-breath runestone C3
+Mana transfer runestone A1
+Master crafting runestone A2,A3,S2
+Mind puppet runestone C4,C5
+Mirror image runestone C4
+Paralysis runestone A5
+Ray of hell runestone S3
+Realm of the demons runestone A5
+Realm of the sorcerer runestone A5
+Regrowth runestone B3,B4,A1,A2,A5,S3
+Ruler’s authority runestone A3
+Ruler’s reach runestone B2,A5
+Running mark runestone C3
+Sand burrowing runestone C3,A3,S3
+Shadow arrow runestone A4
+Shadow melt runestone A1,A2,A3,A5,S1,S2
+Silent step runestone B1,A3,A4,S1,S2
+Soul transfer runestone A1
+Sprout runestone A2
+Stealth runestone B1,B2,A4,S1,S2
+Stone freeze runestone B3
+Strike of silence runestone B1,S1,S2
+Stunning screech runestone C5
+Summon ants runestone A3
+Summon demon runestone A5,S1
+Sylvian leech runestone B4,A4,A5
+Undead invigoration runestone A1
+Vicious bite runestone D4,B3
+Violent slash runestone A4
+Violent smash runestone C1,C5,B1,B2,A1,A3,S1,S2
+Viper strike runestone D5
+Water-breathing runestone C5,A1
+Water-breath runestone D4,C5,A1
+Webshot runestone C5

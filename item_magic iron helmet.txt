@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: B3
+Defense: 105
+Effects: none
+BonusStrength: 0
+BonusAgility: 10
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 15
+BonusHP: 16
+BonusMP: 0
+Description: 

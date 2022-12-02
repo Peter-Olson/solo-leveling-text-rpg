@@ -1,0 +1,12 @@
+﻿Type: two-handed sword
+Rank: B3
+Attack: 130
+Speed: none
+Effects: 27
+BonusStrength: 0
+BonusAgility: 18
+BonusSense: 23
+BonusVitality: 14
+BonusIntelligence: 23
+BonusHP: 0
+BonusMP: 

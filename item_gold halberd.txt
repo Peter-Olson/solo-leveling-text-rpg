@@ -1,0 +1,13 @@
+﻿Type: halberd
+Rank: C2
+Attack: 40
+Speed: slowest
+Effects: none
+BonusStrength: 10
+BonusAgility: 0
+BonusSense: 7
+BonusVitality: 9
+BonusIntelligence: 3
+BonusHP: 0
+BonusMP: 6
+Description: 

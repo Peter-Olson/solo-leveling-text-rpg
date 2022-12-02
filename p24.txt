@@ -1,0 +1,11 @@
+You didn’t hear that right, just now, did you?\n\n
+Did he say you were B-rank?\n\n
+“So-sorry, wha-at?” You ask, stumbling over your words.\n\n
+The scientist repeats himself.\n\n
+You feel as if a wall of icy water slammed into you from above, enveloping your whole\n
+body as your blood runs cold. Your ears start ringing, and you feel weak to your legs,\n
+as you realise they’re shaking. You barely register the scientist saying something about\n
+waiting for processing and him going to get your badge for you, and you watch him leave the room.
+@@END
+5,2
+<continue>

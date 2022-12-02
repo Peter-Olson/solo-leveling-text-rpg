@@ -1,0 +1,12 @@
+﻿Type: tank
+Rank: B1
+Attack: 162
+Defense: 83
+HP: 1108
+MP: 465
+Strength: 43
+Agility: 11
+Sense: 17
+Vitality: 137
+Intelligence: 33
+Description: 

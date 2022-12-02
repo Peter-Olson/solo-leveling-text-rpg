@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: A3
+Effects: Intelligence:50%
+Duration: 30 minutes
+Description: 

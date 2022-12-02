@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: E5
+Effects: Strength:30%
+Duration: 30 minutes
+Description: 

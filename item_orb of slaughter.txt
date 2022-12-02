@@ -1,0 +1,4 @@
+Type: orb
+Rank: C4
+Effects: StrengthMod:1.5,AttackMod:2.5,HPMod:0.5
+Description: 

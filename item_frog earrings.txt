@@ -1,0 +1,13 @@
+﻿Type: earring
+Rank: D3
+Effects: none
+Bonus Attack: 0
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 0
+Bonus Agility: 10
+Bonus Sense: 0
+Bonus Vitality: 0
+Bonus Intelligence: 0
+Description: 

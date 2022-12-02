@@ -1,0 +1,13 @@
+@@CODE|@job@=mage&&@rank@>=B&&@CurrentDungeon@=None|
+Paying out 20m won, cores, and drops for a rank B or higher mage type hunter.\n
+Looking for some strong cover and aoe. If interested, please send a private message\n
+to Jo Myung-Gi. The raid will take place as soon as we fill this position. The gate is\n
+located at 14:1, just west of Daesung Tower.\n\n
+@SET:CurrentDungeon:dg1@
+@SET:OptionNumber:1@
+||
+I’m not so sure that would be a good idea… I feel like they would see I’m not qualified right away.
+@@CODE
+@@END
+7,9
+<continue>

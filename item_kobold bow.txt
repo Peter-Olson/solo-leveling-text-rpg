@@ -1,0 +1,5 @@
+﻿Type: bow
+Rank: E3
+Attack: normal
+Speed: none
+Effects: 

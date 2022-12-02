@@ -1,0 +1,12 @@
+This has to be a mistake, right?\n\n
+You decide there’s no way that’s what he actually said. Driven by desperation you approach the\n
+terminal, its screen facing away from you. You’re probably not supposed to go there, but no one\n
+is here to stop you. You take a close look at the screen.\n\n
+At its edges, there’s a lot of weird-looking lists, progress bars (all filled), and some diagrams,\n
+all displaying values that seem to be worryingly low. What immediately grabs your attention,\n
+however - is a very long sequence of numbers placed right in the middle.\n\n
+“It’s a lot of zeroes..” you think to yourself.\n\n
+And all of them are on the left in the sequence.
+@@END
+5,2
+<continue>

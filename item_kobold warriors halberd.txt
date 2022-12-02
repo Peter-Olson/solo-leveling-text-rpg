@@ -1,0 +1,13 @@
+﻿Type: halberd
+Rank: D5
+Attack: 41
+Speed: slowest
+Effects: none
+BonusStrength: 10
+BonusAgility: 7
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 3
+BonusHP: 0
+BonusMP: 0
+Description: 

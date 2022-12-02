@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: C5
+Defense: 35
+Effects: none
+BonusStrength: 0
+BonusAgility: 8
+BonusSense: 8
+BonusVitality: 0
+BonusIntelligence: 12
+BonusHP: 0
+BonusMP: 10
+Description: 

@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: A1
+Defense: 315
+Effects: none
+BonusStrength: 24
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 14
+BonusHP: 0
+BonusMP: 0
+Description: 

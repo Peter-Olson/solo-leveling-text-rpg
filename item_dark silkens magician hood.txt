@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: B2
+Defense: 80
+Effects: none
+BonusStrength: 0
+BonusAgility: 10
+BonusSense: 10
+BonusVitality: 0
+BonusIntelligence: 16
+BonusHP: 0
+BonusMP: 13
+Description: 

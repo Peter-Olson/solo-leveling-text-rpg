@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: B1
+Attack: 71
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 24
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 19
+BonusHP: 11
+BonusMP: 17
+Description: 

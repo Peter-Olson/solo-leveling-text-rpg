@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: S1
+Attack: 494
+Speed: normal
+Effects: none
+BonusStrength: 88
+BonusAgility: 148
+BonusSense: 128
+BonusVitality: 98
+BonusIntelligence: 118
+BonusHP: 69
+BonusMP: 108
+Description: 

@@ -1,0 +1,9 @@
+You stare longingly at the computer screen. It seems like you were\n
+playing a game last evening. You’d very much like to enjoy yourself for a bit,\n
+and forget about your responsibilities. However, you know that sitting down\n
+at the PC right now, would result in a whole-day marathon, as you feel you’d\n
+lack the self control to stop in time for you to make it to the second class.\n\n
+That’s a no, then.
+@@END
+7,9
+<continue>

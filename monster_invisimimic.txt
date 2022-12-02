@@ -1,0 +1,12 @@
+﻿Type: dark
+Rank: S1
+Attack: 5736
+Defense: 1628
+HP: 42384
+MP: 58010
+Strength: 135
+Agility: 199
+Sense: 102
+Vitality: 79
+Intelligence: 129
+Description: 

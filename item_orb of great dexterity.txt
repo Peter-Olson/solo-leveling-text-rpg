@@ -1,0 +1,4 @@
+Type: orb
+Rank: S1
+Effects: AgilityMod:2.0
+Description: 

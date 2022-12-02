@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: B2
+Effects: AttackMod:1.2,StrengthMod:1.2,AgilityMod:1.2,IntelligenceMod:1.2,ReputationMod:0.7,GoldMod:1.5
+Bonus Attack: 0
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 0
+Bonus Agility: 0
+Bonus Sense: 0
+Bonus Vitality: 30
+Bonus Intelligence: 0
+Description: 

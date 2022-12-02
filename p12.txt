@@ -1,0 +1,16 @@
+Launching your blade at the advancing forces slightly before you finish casting the ability,\n
+you observe as your longsword spins rapidly, end-to-end, gliding towards the oncoming barrage.\n
+Just as you lose enough momentum to start falling back to the ground, you see its rotation rate\n
+rise exponentially. The resulting gusts of wind swiftly form a tornado. Overwhelming wind\n
+pressure manages to pry some of the charging boars from the ground level and fling them backwards,\n
+at the bewildered zorcs, that just now started to realise their quickly approaching fate.\n\n
+Just as you aimed for, most of the flying spears and arrows either disperse to the sides, or are\n
+caught in the whirlwind created by your sword.\n\n
+Still falling down, you see the storm of projectiles decimating the force that let them loose\n
+in the first place. Your longsword comes along to play and cleaves a massive hole in the enemy\n
+squadron right after the welcoming party finishes skewering most of the zorcs. Hellboars fly through\n
+the raging air to smash the remaining survivors and splash into bloody messes against the\n
+marsh’s surface not long after.
+@@END
+0,1
+<continue>

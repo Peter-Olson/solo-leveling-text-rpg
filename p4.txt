@@ -1,0 +1,14 @@
+Even if they are vital for humanity, a random person can not simply become one of them.\n
+Lady Luck has to smile upon you, perhaps as wide as your sister just did.\n
+You need to be gifted the special abilities that make one a hunter. By pure chance.\n
+An average person can’t even kill the weakest of monsters..\n\n
+Your name is Sung Jin-Woo. You’re the son of Sung-Ilwhan and Park Gyunghae.\n\n
+You are - regrettably - not a hunter.\n\n
+More so, you seem to be the exact opposite of one.\n
+A not-at-all impressive physique greets you in the mirror every day, paired with a sickly\n
+pale complexion and a head of disheveled black hair. You’ve never really worked out,\n
+or actually properly taken care of yourself, but you wouldn’t have to, were you one of the\n
+lucky ones. A hunter. An embodiment of power and triumph.
+@@END
+7,9
+<continue>

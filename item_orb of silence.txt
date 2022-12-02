@@ -1,0 +1,4 @@
+Type: orb
+Rank: B1
+Effects: ReductionPiercingMod:1.5,ReductionSlashingMod:1.5,ReductionBluntMod:1.5
+Description: 

@@ -1,0 +1,12 @@
+﻿Type: gloves
+Rank: C3
+Defense: 10
+Effects: none
+BonusStrength: 0
+BonusAgility: 10
+BonusSense: 13
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 9
+BonusMP: 0
+Description: 

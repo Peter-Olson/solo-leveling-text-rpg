@@ -1,0 +1,190 @@
+﻿E1
+Cave Crawler@weak
+Cave Imp@mage
+Goblin@weak
+Bug@weak
+Bat@normal
+@@END
+E2
+Lungwood@defensive
+Big wasp@fighter
+Green Jelly@weak
+Imp Druid@mage
+Monkey@fighter
+Big spider@fighter
+@@END
+E3
+Wormroot@defensive
+Blue Jelly@weak
+Direwolf@fighter
+Kobold@normal
+@@END
+E4
+Woodboar@normal
+Furret@weak
+Vampire Bat@normal
+@@END
+E5
+Jawfruit Plant@fighter
+King Jelly@boss
+Alpha Direwolf@boss
+Droolung Demon@dark
+Poison-Fanged Casaka@boss
+@@END
+D1
+Cave Druid@mage
+Orc@normal
+Cave Gnome@weak
+Beebill@normal
+Vegnat@weak
+@@END
+D2
+Red-Capped Goblin@weak
+Clammer@defensive
+Dungeon Jackal@normal
+Rotting Zombie@weak
+@@END
+D3
+Zombie@normal
+Tuskman@fighter
+Jungle Frog@weak
+Jungle Toad Warrior@fighter
+Jungle Toad Archer@archer
+Jungle Toad Mage@mage
+Steel-fanged Direwolf@fighter
+@@END
+D4
+Dirt Golem@defensive
+Barracuda@fighter
+Red Direwolf@fighter
+@@END
+D5
+Kobold Warrior@fighter
+Zorc@tank
+@@END
+C1
+Rock Golem@defensive
+Lizardman@mage
+Knight@fighter
+Flying Sword@normal
+Flying Shield@normal
+Hobgoblin@normal
+@@END
+C2
+Shade@mage
+Jewlgre@boss
+Duke@fighter
+@@END
+C3
+Mammoth@tank
+Silken@dark
+Horseman@archer
+Magman@normal
+Magmage@mage
+Magarcher@archer
+Centipede@fighter
+@@END
+C4
+Puppetter@dark
+Mersnake@fighter
+Frigate@tank
+Enchanter@mage
+@@END
+C5
+Mermaid@boss
+Tarantzilla@boss
+@@END
+B1
+Iron Golem@defensive
+Wood Elf@fighter
+Ogre@tank
+Cobraman@normal
+@@END
+B2
+Dark Silken@dark
+Troll@tank
+White Mask@dark
+Headless Horseman@boss
+Telekinter@mage
+@@END
+B3
+Ent@normal
+Basilisk@normal
+Ice Bear@fighter
+@@END
+B4
+Crimson Silken@dark
+Dread@dark
+Tentacle Demon@dark
+@@END
+B5
+Guroktaru@boss
+@@END
+A1
+Steel Golem@tank
+Naga@normal
+Sylven@mage
+Cereberus@fighter
+Demon@dark
+Knight Captain, Blood-Red Ygritte@fighter
+Twin-Headed Ogre@boss
+Armored Tree@tank
+@@END
+A2
+Wizent@mage
+Superior Mask@dark
+Gasilisk@dark
+High Demon@dark
+Mimic@mage
+Ant@normal
+@@END
+A3
+Ice Elf@archer
+Giant@tank
+Yeti@boss
+Grand Telekinter@boss
+Centipede@fighter
+Demon Knight@dark
+Ant Queen@boss
+@@END
+A4
+Dark Elf@dark
+High Orc@fighter
+Sphinx@mage
+Shread@dark
+Demon Aristocrat@dark
+Death Knight@dark
+@@END
+A5
+Shaman@boss
+Arch Lich@boss
+Demon General@boss
+Statue@normal
+The Overlord of the Lower Floors, Volkhan of Avarice@boss
+@@END
+S1
+Hellf@fighter
+Monolith Demon@boss
+Rock Giant@tank
+Invisimimic@dark
+Razor-Clawed Briga@fighter
+Baruka@boss
+The Guide of Souls, Metus@boss
+Sky Dragon Kaisellin@boss
+@@END
+S2
+Black-Shadow Razan@fighter
+Demon King Baran@boss
+Beru@boss
+Boss Giant@boss
+@@END
+S3
+Statue of god@boss
+Centipede@fighter
+Kamish the Dragon@boss
+@@END
+S4
+@@END
+S5
+The Architect@boss
+@@END

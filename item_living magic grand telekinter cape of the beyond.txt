@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: A3
+Defense: 360
+Effects: none
+BonusStrength: 11
+BonusAgility: 62
+BonusSense: 47
+BonusVitality: 40
+BonusIntelligence: 55
+BonusHP: 11
+BonusMP: 47
+Description: 

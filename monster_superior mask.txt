@@ -1,0 +1,12 @@
+﻿Type: dark
+Rank: A2
+Attack: 2054
+Defense: 452
+HP: 12192
+MP: 21898
+Strength: 90
+Agility: 127
+Sense: 86
+Vitality: 57
+Intelligence: 126
+Description: 

@@ -1,0 +1,24 @@
+Fuck.\n\n
+Your initial reaction is that of grim acceptance, but then you realise you’re\n
+only 5 minutes late (for the bus), and nearly jump out of your skin, as your brain\n
+scrambles into action, the rest of your body tries to follow suit. But then you stop\n
+yourself. You’re pretty sure you’re going to be late regardless, might as well not kill\n
+yourself falling off the stairs trying to be fast. You regain your composure,\n
+recognizing that the best thing to do now is act methodically. You…
+@@END
+7,9
+<textbox>
+take,grab,get,pick|jacket,sweater@backpack,pack,notebook,notebooks@sword,weapon@clothes@videogames,console,pc,computer@clock,alarm
+take,grab,get|jacket,sweater
+take,grab,get|backpack,pack,notebook,notebooks
+take,grab,get|sword,weapon
+go,fall,|asleep,sleep,rest,nap,bed
+get,go,make,eat|breakfast,food,cereal
+clean,arrange,organize|room,clothes,stuff,junk
+play,turn|videogames,console,pc,computer
+observe|sword,weapon
+observe|computer,pc,videogames,console
+throw,toss,yeet,chuck|clock,alarm
+destroy,smash,break,hit,kick,punch,pulverize|clock,alarm
+find,look,see|Jin-Ah,JinAh,sister,Jin
+go,leave,run,walk,drive|school,college,campus,classes

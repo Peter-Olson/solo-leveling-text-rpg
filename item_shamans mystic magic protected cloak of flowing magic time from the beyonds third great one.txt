@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: A5
+Defense: 1875
+Effects: none
+BonusStrength: 37
+BonusAgility: 212
+BonusSense: 162
+BonusVitality: 137
+BonusIntelligence: 187
+BonusHP: 37
+BonusMP: 162
+Description: 

@@ -1,0 +1,10 @@
+@@CODE|@CurrentDungeon@=dg1|
+This looks perfect. Your mouth waters just at the thought of it. 20m won, plus cores and drops\n
+is a great payout. You had better jump on that message before anyone else does.\n\n
+You quickly send a message to Jo Myung-Gi. A few minutes later he replies back. You’re in.
+||
+Hello reader! This part of the code shouldn’t be reachable! Oh nooooo. Better let /u/UncleZiggy know something is wrong
+@@CODE
+@@END
+7,9
+<continue>

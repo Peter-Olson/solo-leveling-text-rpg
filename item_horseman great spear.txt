@@ -1,0 +1,13 @@
+﻿Type: spear
+Rank: C3
+Attack: 53
+Speed: slow
+Effects: none
+BonusStrength: 11
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 10
+BonusIntelligence: 0
+BonusHP: 10
+BonusMP: 7
+Description: 

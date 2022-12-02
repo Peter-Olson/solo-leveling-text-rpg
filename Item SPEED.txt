@@ -1,0 +1,6 @@
+﻿Speed
+Fastest: dagger,whip,knuckles,claws
+Fast: shortsword,wand,scimitar,cutlass
+Normal: longsword,bow,mace,club
+Slow: staff,spear,scythe,lance,trident
+Slowest: halberd,battleaxe,hammer,cannon

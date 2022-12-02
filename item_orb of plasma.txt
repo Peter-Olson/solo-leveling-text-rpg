@@ -1,0 +1,4 @@
+Type: orb
+Rank: C3
+Effects: GoldMod:1.5,ReductionFireMod:2.0,RegenerationMod:1.5
+Description: 

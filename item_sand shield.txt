@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: C3
+Defense: 33
+Effects: none
+BonusStrength: 13
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 7
+BonusHP: 9
+BonusMP: 0
+Description: 

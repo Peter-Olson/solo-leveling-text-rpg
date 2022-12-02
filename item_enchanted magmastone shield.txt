@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: B3
+Defense: 189
+Effects: none
+BonusStrength: 0
+BonusAgility: 12
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 12
+BonusHP: 15
+BonusMP: 0
+Description: 

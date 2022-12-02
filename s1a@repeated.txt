@@ -1,0 +1,10 @@
+You have @inventory@. What would you like to do?\n
+Options include observing, equipping, retrieving, and using items. Or enter 'q' to quit.
+@@END
+unknown
+<textbox>
+1,obs,observing,observe,look,see|@inventory@
+2,eq,equiping,equip,wear|@inventory@
+3,ret,retrieving,retrieve,get|@inventory@
+4,using,use,consume,eat,drink,expend,open|@inventory@
+q,quit,exit,escape,no,nah,back|,

@@ -1,0 +1,7 @@
+What would you like to do?
+@@END
+7,9
+Go on the computer
+Leave room
+Observe room
+Self

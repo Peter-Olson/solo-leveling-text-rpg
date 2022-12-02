@@ -1,0 +1,12 @@
+﻿Type: boots
+Rank: A3
+Defense: 630
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 27
+BonusIntelligence: 19
+BonusHP: 0
+BonusMP: 0
+Description: 

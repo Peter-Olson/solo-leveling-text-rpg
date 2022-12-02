@@ -1,0 +1,7 @@
+You glance around and pick up your @tempInventory@. @@CODE|@tempInventory:sword@=sword|<p6ca3takesword.txt>||@@CODE
+\n\nAs you swing into the kitchen, you see Jin-Ah sitting on a chair,\n
+happily drinking some banana milk.\n\n
+"Have a good day at school, Oppa!" she squeals out. You smile at her and wave your hand as you step out the door.
+@@END
+7,9
+<continue>

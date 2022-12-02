@@ -1,0 +1,13 @@
+﻿Type: longsword
+Rank: B5
+Attack: 136
+Speed: normal
+Effects: none
+BonusStrength: 33
+BonusAgility: 0
+BonusSense: 28
+BonusVitality: 0
+BonusIntelligence: 28
+BonusHP: 28
+BonusMP: 0
+Description: 

@@ -1,0 +1,6 @@
+You grab your backpack and hurry out your room. Jin-Ah is perched on a chair in the kitchen,\n
+contentedly drinking banana milk. She swivels around in her chair, swinging her legs back and forth.\n
+“Have a good day at school, Oppa!” You smile and pat her on the head with a smile, before running out the door.
+@@END
+7,9
+<continue>

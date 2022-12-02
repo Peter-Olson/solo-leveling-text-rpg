@@ -1,0 +1,12 @@
+﻿Type: platebody
+Rank: A3
+Defense: 1800
+Effects: none
+BonusStrength: 0
+BonusAgility: 8
+BonusSense: 13
+BonusVitality: 0
+BonusIntelligence: 8
+BonusHP: 41
+BonusMP: 8
+Description: 

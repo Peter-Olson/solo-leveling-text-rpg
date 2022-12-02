@@ -1,0 +1,13 @@
+﻿Type: halberd
+Rank: C3
+Attack: 53
+Speed: slowest
+Effects: none
+BonusStrength: 0
+BonusAgility: 10
+BonusSense: 9
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 11
+BonusMP: 0
+Description: 

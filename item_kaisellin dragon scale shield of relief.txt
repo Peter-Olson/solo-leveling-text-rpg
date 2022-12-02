@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: S1
+Defense: 2916
+Effects: none
+BonusStrength: 53
+BonusAgility: 31
+BonusSense: 37
+BonusVitality: 40
+BonusIntelligence: 31
+BonusHP: 37
+BonusMP: 0
+Description: 

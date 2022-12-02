@@ -1,0 +1,4 @@
+Type: orb
+Rank: A1
+Effects: RegenerationMod:5.0
+Description: 

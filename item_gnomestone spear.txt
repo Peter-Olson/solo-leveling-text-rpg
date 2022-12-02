@@ -1,0 +1,13 @@
+﻿Type: spear
+Rank: D1
+Attack: 15
+Speed: slow
+Effects: none
+BonusStrength: 4
+BonusAgility: 4
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

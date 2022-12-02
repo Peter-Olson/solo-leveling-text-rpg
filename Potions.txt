@@ -1,0 +1,25 @@
+﻿Effect Resistance Potion@IsImmuneToEffects:true|30 minutes@E5,D5,A1
+Fire Resistance Potion@ReductionFire:75%|30 minutes@C3
+Flight Potion@CanFly:true|30 minutes@S1
+Greater Healing Potion@HP:35%|permanent@B1,A1
+Greater Spirit Potion@HP:50%,MP:50%|permanent@S1
+Honey Potion@Regeneration:50%|30 minutes@D1
+Invisibility Potion@IsInvisible:true|30 minutes@C2,C3,B2,B4,A3
+Lesser Healing Potion@HP:25%|permanent@C1
+Lesser Spirit Potion@HP:35%,MP:35%|permanent@E5,D3,A1
+Major Rejuvenation Potion@MP:35%|permanent@C1,A1
+Monster Sight Potion@CanDetectMonsters:true|30 minutes@C2,C3
+Night Vision Potion@HasNightVision:true|30 minutes@E3,E5,D3
+Potion of Defense@Defense:30%|30 minutes@D1,D2
+Potion of Dexterity@Agility:30%|30 minutes@D3,D5,B1,B3
+Potion of Fire Resistance@ReductionFire:75%|30 minutes@C3
+Potion of Great Dexterity@Agility:50%|30 minutes@A3
+Potion of Great Intelligence@Intelligence:50%|30 minutes@A3
+Potion of Great Perception@Sense:50%|30 minutes@A3
+Potion of Great Strength@Strength:50%|30 minutes@A3,S1
+Potion of Intelligence@Intelligence:30%|30 minutes@C1,B3
+Potion of Malice@Strength:50%,Sense:-30%|30 minutes@D1,D2
+Potion of Perception@Sense:30%|30 minutes@C1,C3,B2,B3,B4
+Potion of Poison Resistance@ReductionPoison:75%|30 minutes@C3
+Potion of Refreshment@Fatigue:100%|permanent@B3,A3
+Potion of Strength@Strength:30%|30 minutes@E5,D1,D3,D5,B1,B2,B3,A1,A3

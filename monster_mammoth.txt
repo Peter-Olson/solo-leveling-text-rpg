@@ -1,0 +1,12 @@
+﻿Type: tank
+Rank: C3
+Attack: 100
+Defense: 53
+HP: 699
+MP: 378
+Strength: 39
+Agility: 11
+Sense: 14
+Vitality: 107
+Intelligence: 24
+Description: 

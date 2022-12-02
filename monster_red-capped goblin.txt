@@ -1,0 +1,12 @@
+﻿Type: weak
+Rank: D2
+Attack: 5
+Defense: 2
+HP: 64
+MP: 86
+Strength: 12
+Agility: 18
+Sense: 11
+Vitality: 24
+Intelligence: 18
+Description: 

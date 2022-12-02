@@ -1,0 +1,13 @@
+﻿Type: scimitar
+Rank: B5
+Attack: 115
+Speed: fast
+Effects: none
+BonusStrength: 33
+BonusAgility: 42
+BonusSense: 33
+BonusVitality: 30
+BonusIntelligence: 33
+BonusHP: 0
+BonusMP: 33
+Description: 

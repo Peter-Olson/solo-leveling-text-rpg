@@ -1,0 +1,13 @@
+﻿Type: club
+Rank: D2
+Attack: 15
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 5
+BonusIntelligence: 0
+BonusHP: 5
+BonusMP: 0
+Description: 

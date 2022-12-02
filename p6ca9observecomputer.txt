@@ -1,0 +1,9 @@
+You consider yourself to be a serious gamer. Your rig is armed with\n
+an Intel Core i5-8400, 16GB RAM, an Nvidia GTX 1050 Ti GPU and an ergonomic,\n
+illuminated mouse and mechanical keyboard setup. Only the best of the best\n
+for all your gaming needs! Your thoughts are interrupted by the realization that,\n
+if the worse comes to worst, you might have to sell your baby, just to keep the\n
+roof over your and your sister’s heads. You preemptively shed a single tear.
+@@END
+7,9
+<continue>

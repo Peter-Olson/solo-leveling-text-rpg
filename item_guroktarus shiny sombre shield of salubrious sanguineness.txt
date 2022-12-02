@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: B5
+Defense: 630
+Effects: none
+BonusStrength: 47
+BonusAgility: 28
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 28
+BonusHP: 33
+BonusMP: 28
+Description: 

@@ -1,0 +1,4 @@
+﻿Type: boots
+Rank: E1
+Defense: none
+Effects: 

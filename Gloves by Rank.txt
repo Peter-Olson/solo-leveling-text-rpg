@@ -1,0 +1,48 @@
+﻿Bat Hide Gloves E1
+Kobold Hide Gloves E3
+Woodboar Hide Gloves E3
+Wolf Hide Gloves E3
+Fur Gloves E4
+Jelly gloves E5
+Poison-snake gloves E5
+Jellyhide Gloves E5
+Stretchy gloves D1
+Cardinal gloves D2
+Jackal leather gloves D2
+Jackal Hide Gloves D2
+Jungle toad leather gloves D3
+Golem gloves D4
+Golem stone gloves C1
+Ironsteel plate gloves C1
+Silken wizard gloves C3
+Horseman archer gloves C3
+Molten lava archer gloves C3
+Horseman Hide Gloves C3
+Puppetter’s gloves C4
+Enchanter’s gloves C4
+Tarantzilla Sticky Spike Gloves C5
+Golem iron gloves B1
+Dark silken wizard gloves B2
+Buzzing Telekinter Slimy Magic Gloves B2
+Ice bear gloves B3
+Crimson silken wizard gloves B4
+Guroktaru’s Galactic Gimpy Gauntlets of Gingerly Gobsmacking B5
+Golem steel gloves A1
+Anti-Sylven Gloves of Nyell, Blessed by Nyeegi A1
+Ygritte’s Blood-Red Agile Gauntlets A1
+Cereberus Demon Fur Gloves A1
+Dissipate Gasilisk Invisiline Gloves of the Ether A2
+Magical mimic gloves A2
+Vehement Strangling Ice Elf Gloves of Gagging A3
+Buzzing Grand Telekinter Slimy Magic Gloves A3
+Demon Knight’s Gloves of Blood-Sewage A3
+Yeti Fur Gloves A3
+Shadow Elf Enchanted Dragonskin Gloves of Nimbleness A4
+Demon Aristocrat’s Enchanted Dragon Skin Gloves of the High Demon King Baran A4
+Death knight gauntlets A4
+Articulate Mystic Magic Imbued Dragonskin Shaman Gloves of Great Energy from the Beyond A5
+Arch Lich’s Dark Soul Imbued Grand Dragon Skin Gloves of Absolute Mana Control from the Lesser Beyond A5
+Helven Magmastone-Trimmed Dragonskin Enchanted Warlock Gauntlets of the 7th Hell S1
+Magical mimic gloves S1
+Dragonskin enchanted gloves S1
+Jaguar Hide Gloves S1

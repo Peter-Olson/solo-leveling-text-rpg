@@ -1,0 +1,13 @@
+﻿Type: battleaxe
+Rank: D2
+Attack: 21
+Speed: slowest
+Effects: none
+BonusStrength: 0
+BonusAgility: 2
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 5
+BonusMP: 3
+Description: 

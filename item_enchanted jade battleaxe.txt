@@ -1,0 +1,13 @@
+﻿Type: battleaxe
+Rank: C4
+Attack: 62
+Speed: slowest
+Effects: none
+BonusStrength: 13
+BonusAgility: 6
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 9
+BonusHP: 0
+BonusMP: 0
+Description: 

@@ -1,0 +1,13 @@
+﻿Type: longsword
+Rank: S1
+Attack: 208
+Speed: normal
+Effects: none
+BonusStrength: 49
+BonusAgility: 45
+BonusSense: 41
+BonusVitality: 45
+BonusIntelligence: 41
+BonusHP: 41
+BonusMP: 33
+Description: 

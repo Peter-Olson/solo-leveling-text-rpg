@@ -1,0 +1,4 @@
+Type: orb
+Rank: D5
+Effects: ReductionFireMod:2.0,ReductionPoisonMod:2.0,ReductionIceMod:2.0
+Description: 

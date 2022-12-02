@@ -1,0 +1,13 @@
+﻿Type: shortsword
+Rank: A2
+Attack: 47
+Speed: fast
+Effects: none
+BonusStrength: 12
+BonusAgility: 22
+BonusSense: 17
+BonusVitality: 17
+BonusIntelligence: 17
+BonusHP: 17
+BonusMP: 0
+Description: 

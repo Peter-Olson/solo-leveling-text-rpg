@@ -1,0 +1,12 @@
+﻿Type: specialty weapon
+Rank: C1
+Attack: 35
+Speed: none
+Effects: 0
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 11
+BonusMP: 

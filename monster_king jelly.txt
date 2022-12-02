@@ -1,0 +1,12 @@
+﻿Type: boss
+Rank: E5
+Attack: 8
+Defense: 3
+HP: 135
+MP: 62
+Strength: 34
+Agility: 26
+Sense: 31
+Vitality: 42
+Intelligence: 29
+Description: 

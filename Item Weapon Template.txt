@@ -1,0 +1,13 @@
+﻿Type
+Rank
+Attack
+Speed
+Effects
+BonusStrength
+BonusAgility
+BonusSense
+BonusVitality
+BonusIntelligence
+BonusHP
+BonusMP
+Description

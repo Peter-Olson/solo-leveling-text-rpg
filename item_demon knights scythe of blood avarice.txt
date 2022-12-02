@@ -1,0 +1,13 @@
+﻿Type: scythe
+Rank: A3
+Attack: 194
+Speed: slow
+Effects: none
+BonusStrength: 0
+BonusAgility: 35
+BonusSense: 0
+BonusVitality: 35
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 35
+Description: 

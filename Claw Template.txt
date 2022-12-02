@@ -1,0 +1,8 @@
+﻿AttackMod 1.1
+BonusStrengthMod 1.2
+BonusAgilityMod 1.8
+BonusSenseMod 1.5
+BonusVitalityMod 1.0
+BonusIntelligenceMod 1.2
+BonusHPMod 1.0
+BonusMPMod 1.2

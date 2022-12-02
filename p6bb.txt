@@ -1,0 +1,13 @@
+Fuck.\n\n
+The thirty-minute bus ride to campus now seems more a punishment than inevitability.\n
+You grab an egg-sandwich from the fridge and slam it shut in haste. Stuffing the sandwich\n
+in your mouth you begin to quickly leave, making sure to give your sister a pinch\n
+on the cheek on your way out.\n\n
+“Ow! Meanie!” She squeals. More out of surprise, than actual pain. Serves her right,\n
+you smirk, swiftly approaching the door. “Don’t forget your backpack, Oppa!”.\n
+You stop, feeling slightly worse about pinching her. You give her a quick “Right..” and\n
+dash back to your room to grab the backpack. Once that’s done, you’re out the door\n
+as fast as your legs can carry you.
+@@END
+7,9
+<continue>

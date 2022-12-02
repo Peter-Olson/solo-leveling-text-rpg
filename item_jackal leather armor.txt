@@ -1,0 +1,12 @@
+﻿Type: platebody
+Rank: D2
+Defense: 7
+Effects: none
+BonusStrength: 8
+BonusAgility: 0
+BonusSense: 2
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

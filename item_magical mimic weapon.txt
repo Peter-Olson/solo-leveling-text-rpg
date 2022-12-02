@@ -1,0 +1,12 @@
+﻿Type: specialty weapon
+Rank: A2
+Attack: 59
+Speed: none
+Effects: 15
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 15
+BonusVitality: 0
+BonusIntelligence: 15
+BonusHP: 15
+BonusMP: 

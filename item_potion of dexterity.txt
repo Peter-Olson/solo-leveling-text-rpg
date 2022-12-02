@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: D3
+Effects: Agility:30%
+Duration: 30 minutes
+Description: 

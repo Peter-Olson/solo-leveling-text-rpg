@@ -1,0 +1,4 @@
+Type: orb
+Rank: A3
+Effects: StrengthMod:2.5,AttackMod:1.5,SenseMod:0.3,AgilityMod:0.5
+Description: 

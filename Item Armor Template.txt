@@ -1,0 +1,12 @@
+﻿Type
+Rank
+Defense
+Effects
+BonusStrength
+BonusAgility
+BonusSense
+BonusVitality
+BonusIntelligence
+BonusHP
+BonusMP
+Description

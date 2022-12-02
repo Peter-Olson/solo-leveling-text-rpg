@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: E5
+Effects: IsImmuneToEffects:true
+Duration: 30 minutes
+Description: 

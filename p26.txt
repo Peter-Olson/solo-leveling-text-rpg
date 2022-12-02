@@ -1,0 +1,12 @@
+You go numb. Right under the center display there’s a smaller pop-up window, that clearly reads “E-rank”.\n\n
+Your hopes are crushed. Dreams - shattered. Of every possible outcome your newfound “power level” places\n
+you at E-rank. The gutter. The very bottom.\n\n
+You so desperately wish to wake up and realize you’ve been having a rather bad dream, but no.\n
+This appears to be how it is. The reality. Harsh. Cold. Unmoving. Final. Another thing your father\n
+once said plays out in your head, a distant memory:\n\n
+“Always be careful, when aiming for the top, son.” He once said. “Don’t lose sight of what’s below\n
+and on either side of you. It might come to circumstances outside of your control, that you won’t reach\n
+your goal, and instead tumble down. And the higher you are, the greater your fall will be.”
+@@END
+5,2
+<continue>

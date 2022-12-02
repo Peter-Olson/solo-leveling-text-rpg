@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: B1
+Effects: SenseMod:1.5,AgilityMod:1.5
+Bonus Attack: 10
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 0
+Bonus Agility: 10
+Bonus Sense: 10
+Bonus Vitality: 0
+Bonus Intelligence: 0
+Description: 

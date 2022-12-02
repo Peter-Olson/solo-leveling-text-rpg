@@ -1,0 +1,13 @@
+﻿Type: shortsword
+Rank: A4
+Attack: 39
+Speed: fast
+Effects: none
+BonusStrength: 10
+BonusAgility: 0
+BonusSense: 14
+BonusVitality: 14
+BonusIntelligence: 14
+BonusHP: 14
+BonusMP: 15
+Description: 

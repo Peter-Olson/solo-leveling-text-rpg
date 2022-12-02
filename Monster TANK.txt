@@ -1,0 +1,9 @@
+﻿Attack 1.2
+Defense 2.0
+HP 1.3
+MP 0.5
+Strength 1.2
+Agility 0.3
+Sense 0.5
+Vitality 3.0
+Intelligence 0.7

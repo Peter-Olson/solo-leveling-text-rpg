@@ -1,0 +1,13 @@
+﻿Type: club
+Rank: D5
+Attack: 27
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 6
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 4
+BonusHP: 0
+BonusMP: 0
+Description: 

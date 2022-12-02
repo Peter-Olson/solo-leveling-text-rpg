@@ -1,0 +1,13 @@
+﻿Type: whip
+Rank: S1
+Attack: 1680
+Speed: fastest
+Effects: none
+BonusStrength: 436
+BonusAgility: 618
+BonusSense: 546
+BonusVitality: 473
+BonusIntelligence: 546
+BonusHP: 364
+BonusMP: 473
+Description: 

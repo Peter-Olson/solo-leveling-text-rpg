@@ -1,0 +1,13 @@
+﻿Type: shortsword
+Rank: C4
+Attack: 24
+Speed: fast
+Effects: none
+BonusStrength: 6
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 9
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

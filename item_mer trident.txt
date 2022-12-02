@@ -1,0 +1,13 @@
+﻿Type: trident
+Rank: C4
+Attack: 51
+Speed: slow
+Effects: none
+BonusStrength: 0
+BonusAgility: 10
+BonusSense: 9
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 10
+BonusMP: 10
+Description: 

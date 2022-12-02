@@ -1,0 +1,4 @@
+Type: orb
+Rank: C4
+Effects: IntelligenceMod:1.5,MPMod:2.5
+Description: 

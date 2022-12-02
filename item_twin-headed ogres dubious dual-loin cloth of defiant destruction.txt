@@ -1,0 +1,12 @@
+﻿Type: pants
+Rank: A1
+Defense: 180
+Effects: none
+BonusStrength: 0
+BonusAgility: 85
+BonusSense: 75
+BonusVitality: 25
+BonusIntelligence: 85
+BonusHP: 40
+BonusMP: 0
+Description: 

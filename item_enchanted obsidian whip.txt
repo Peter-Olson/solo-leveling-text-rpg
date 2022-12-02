@@ -1,0 +1,13 @@
+﻿Type: whip
+Rank: C4
+Attack: 42
+Speed: fastest
+Effects: none
+BonusStrength: 11
+BonusAgility: 16
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 12
+Description: 

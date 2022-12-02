@@ -1,0 +1,13 @@
+﻿Type: longsword
+Rank: B3
+Attack: 101
+Speed: normal
+Effects: none
+BonusStrength: 25
+BonusAgility: 0
+BonusSense: 21
+BonusVitality: 0
+BonusIntelligence: 21
+BonusHP: 0
+BonusMP: 17
+Description: 

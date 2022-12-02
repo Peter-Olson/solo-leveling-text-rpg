@@ -1,0 +1,13 @@
+﻿Type: staff
+Rank: D1
+Attack: 11
+Speed: slow
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 6
+BonusVitality: 0
+BonusIntelligence: 8
+BonusHP: 0
+BonusMP: 7
+Description: 

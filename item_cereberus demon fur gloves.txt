@@ -1,0 +1,12 @@
+﻿Type: gloves
+Rank: A1
+Defense: 100
+Effects: none
+BonusStrength: 0
+BonusAgility: 20
+BonusSense: 25
+BonusVitality: 0
+BonusIntelligence: 21
+BonusHP: 16
+BonusMP: 21
+Description: 

@@ -1,0 +1,62 @@
+﻿Night Vision Potion E3
+Lesser Spirit Potion E5
+Effect Resistance Potion E5
+Night Vision Potion E5
+Potion of Strength E5
+Honey Potion D1
+Potion of Malice D1
+Potion of Defense D1
+Potion of Strength D1
+Potion of Malice D2
+Potion of Defense D2
+Night Vision Potion D3
+Night Vision Potion D3
+Potion of Strength D3
+Lesser Spirit Potion D3
+Potion of Dexterity D3
+Potion of Dexterity D5
+Potion of Strength D5
+Potion of Strength D5
+Effect Resistance Potion D5
+Lesser Healing Potion C1
+Minor Rejuvenation Potion C1
+Potion of Perception C1
+Potion of Intelligence C1
+Monster Sight Potion C2
+Invisibility Potion C2
+Potion of Fire Resistance C3
+Potion of Poison Resistance C3
+Monster Sight Potion C3
+Invisibility Potion C3
+Potion of Perception C3
+Fire Resistance Potion C3
+Fire Resistance Potion C3
+Fire Resistance Potion C3
+Greater Healing Potion B1
+Potion of Strength B1
+Potion of Dexterity B1
+Invisibility Potion B2
+Potion of Perception B2
+Potion of Strength B2
+Potion of Strength B3
+Potion of Dexterity B3
+Potion of Intelligence B3
+Potion of Perception B3
+Potion of Refreshment B3
+Invisibility Potion B4
+Potion of Perception B4
+Lesser Spirit Potion A1
+Greater Healing Potion A1
+Major Rejuvenation Potion A1
+Effect Resistance Potion A1
+Potion of Strength A1
+Potion of Great Strength A3
+Potion of Great Dexterity A3
+Potion of Great Intelligence A3
+Potion of Great Perception A3
+Invisibility Potion A3
+Potion of Refreshment A3
+Potion of Strength A3
+Flight Potion S1
+Greater Spirit Potion S1
+Potion of Great Strength S1

@@ -1,0 +1,13 @@
+﻿Type: staff
+Rank: C1
+Attack: 26
+Speed: slow
+Effects: none
+BonusStrength: 0
+BonusAgility: 5
+BonusSense: 0
+BonusVitality: 7
+BonusIntelligence: 0
+BonusHP: 7
+BonusMP: 0
+Description: 

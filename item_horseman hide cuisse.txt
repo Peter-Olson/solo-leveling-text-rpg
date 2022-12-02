@@ -1,0 +1,12 @@
+﻿Type: platelegs
+Rank: C3
+Defense: 36
+Effects: none
+BonusStrength: 15
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 13
+BonusIntelligence: 4
+BonusHP: 0
+BonusMP: 0
+Description: 

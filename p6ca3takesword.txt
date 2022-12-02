@@ -1,0 +1,9 @@
+You feel a sudden urge to take the sword from its hooks. You’re not sure why,\n
+maybe the weird dreams of the math-hunter life are still bouncing around in your brain.\n
+Either way - you know it’s not exactly a stellar idea. You have no use for a sword.\n
+It serves more as a reminder of your father, a memento. Besides, coming to school\n
+with it would just be asking for trouble. You might lose or damage it, and that doesn’t\n
+appeal to you at all. You abandon that line of thinking.
+@@END
+7,9
+<continue>

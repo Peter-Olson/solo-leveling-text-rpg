@@ -1,0 +1,13 @@
+﻿Type: whip
+Rank: A1
+Attack: 134
+Speed: fastest
+Effects: none
+BonusStrength: 35
+BonusAgility: 49
+BonusSense: 44
+BonusVitality: 38
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

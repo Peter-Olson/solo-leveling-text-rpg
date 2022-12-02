@@ -1,0 +1,12 @@
+﻿Type: platelegs
+Rank: A1
+Defense: 297
+Effects: none
+BonusStrength: 0
+BonusAgility: 7
+BonusSense: 0
+BonusVitality: 22
+BonusIntelligence: 0
+BonusHP: 22
+BonusMP: 7
+Description: 

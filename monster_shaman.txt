@@ -1,0 +1,12 @@
+﻿Type: boss
+Rank: A5
+Attack: 7325
+Defense: 1198
+HP: 82870
+MP: 43125
+Strength: 160
+Agility: 103
+Sense: 99
+Vitality: 173
+Intelligence: 127
+Description: 

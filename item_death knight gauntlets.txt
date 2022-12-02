@@ -1,0 +1,12 @@
+﻿Type: gloves
+Rank: A4
+Defense: 350
+Effects: none
+BonusStrength: 20
+BonusAgility: 20
+BonusSense: 0
+BonusVitality: 16
+BonusIntelligence: 0
+BonusHP: 16
+BonusMP: 21
+Description: 

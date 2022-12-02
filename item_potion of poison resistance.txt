@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: C3
+Effects: ReductionPoison:75%
+Duration: 30 minutes
+Description: 

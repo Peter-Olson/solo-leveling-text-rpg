@@ -1,0 +1,12 @@
+﻿Type: boss
+Rank: S3
+Attack: 26641
+Defense: 4445
+HP: 151144
+MP: 103899
+Strength: 237
+Agility: 151
+Sense: 162
+Vitality: 273
+Intelligence: 162
+Description: 

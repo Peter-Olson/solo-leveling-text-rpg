@@ -1,0 +1,12 @@
+﻿Type: two-handed sword
+Rank: A1
+Attack: 192
+Speed: none
+Effects: 37
+BonusStrength: 0
+BonusAgility: 25
+BonusSense: 32
+BonusVitality: 20
+BonusIntelligence: 32
+BonusHP: 0
+BonusMP: 

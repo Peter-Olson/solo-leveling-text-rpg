@@ -1,0 +1,5 @@
+﻿Type: staff
+Rank: E2
+Attack: slow
+Speed: none
+Effects: 

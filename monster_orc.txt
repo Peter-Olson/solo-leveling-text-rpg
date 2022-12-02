@@ -1,0 +1,12 @@
+﻿Type: normal
+Rank: D1
+Attack: 4
+Defense: 2
+HP: 51
+MP: 58
+Strength: 21
+Agility: 21
+Sense: 20
+Vitality: 17
+Intelligence: 17
+Description: 

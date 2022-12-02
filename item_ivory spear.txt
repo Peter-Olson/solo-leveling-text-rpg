@@ -1,0 +1,5 @@
+﻿Type: spear
+Rank: E5
+Attack: slow
+Speed: none
+Effects: 

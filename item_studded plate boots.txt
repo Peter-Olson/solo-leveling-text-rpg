@@ -1,0 +1,12 @@
+﻿Type: boots
+Rank: C2
+Defense: 10
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 10
+BonusVitality: 8
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

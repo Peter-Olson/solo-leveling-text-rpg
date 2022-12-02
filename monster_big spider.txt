@@ -1,0 +1,12 @@
+﻿Type: fighter
+Rank: E2
+Attack: 2
+Defense: 0
+HP: 26
+MP: 10
+Strength: 11
+Agility: 10
+Sense: 10
+Vitality: 9
+Intelligence: 9
+Description: 

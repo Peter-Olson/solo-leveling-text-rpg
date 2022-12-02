@@ -1,0 +1,13 @@
+﻿Type: wand
+Rank: B3
+Attack: 72
+Speed: fast
+Effects: none
+BonusStrength: 20
+BonusAgility: 42
+BonusSense: 42
+BonusVitality: 25
+BonusIntelligence: 0
+BonusHP: 20
+BonusMP: 55
+Description: 

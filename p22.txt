@@ -1,0 +1,12 @@
+Inside, there are two other officials already seated. Once the lady who brought you here gets in,\n
+the car quickly starts driving, and you try to gauge whether or not you should attempt at conversing\n
+with any of them. They don’t initiate any interaction, other than looking at you, so you figure you’d\n
+rather sit there in silent anticipation, rather than make it awkward.\n\n
+You arrive at your destination and are quickly brought to a futuristic looking lab. You are told to place\n
+your hands on a rather large metal sphere, and stay still. As the giant metal ball whirrs internally to\n
+life and cycles between feeling like different kinds of static beneath your fingers, you can barely\n
+contain yourself. The knot in your stomach seems bigger and heavier than during the whole ride here,\n
+although you’re not sure whether it’s all your excitement or just the machine’s doing.
+@@END
+5,2
+<continue>

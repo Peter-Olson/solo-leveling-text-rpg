@@ -1,0 +1,13 @@
+﻿Type: scythe
+Rank: C4
+Attack: 62
+Speed: slow
+Effects: none
+BonusStrength: 11
+BonusAgility: 12
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 12
+Description: 

@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: A5
+Effects: AttackMod:1.5,DefenseMod:2.0,StrengthMod:2.0,IntelligenceMod:2.0,HPMod:1.5,MPMod:1.5,ReductionPiercingMod:1.5,ReductionSlashingMod:1.5,ReductionBluntMod:1.5,RegenerationMod:2.0
+Bonus Attack: 0
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 0
+Bonus Agility: 0
+Bonus Sense: 20
+Bonus Vitality: 20
+Bonus Intelligence: 0
+Description: 

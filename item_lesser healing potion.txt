@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: C1
+Effects: HP:25%
+Duration: permanent
+Description: 

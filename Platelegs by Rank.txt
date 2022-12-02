@@ -1,0 +1,73 @@
+﻿Bat Hide Cuisse E1
+Kobold Hide Cuisse E3
+Woodboar Hide Cuisse E3
+Wolf Hide Cuisse E3
+Wooden leg guards E4
+Fur Cuisse E4
+Casaka’s Fine-Scaled, Poison and Jade-tipped leg armor E5
+Ivory Platelegs E5
+Jellyhide Cuisse E5
+Gnomestone Platelegs D1
+Clam platelegs D2
+Jackal Hide Cuisse D2
+Leather chaps D3
+Blood steel wood hide leg armor D4
+Ironsteel platelegs C1
+Magic Rock Platelegs C1
+Jewlgre’s jeweled plate legs C2
+Steel-engraved platelegs C2
+Bronze Platelegs C2
+Iron Platelegs C2
+Silver Platelegs C2
+Gold Platelegs C2
+Steel Platelegs C2
+Jade Platelegs C2
+Obsidian Platelegs C2
+Platinum Platelegs C2
+Molten magma legs C3
+Centipede segmented leg armor C3
+Enchanted Merscale Leggings C3
+Magma Rock Platelegs C3
+Horseman Hide Cuisse C3
+Mammoth Fur Cuisse C3
+Enchanted Jade Platelegs C4
+Enchanted Obsidian Platelegs C4
+Frigate Timberock Platelegs C4
+Hardened Tarantzilla Spiked Leg Armor C5
+Iron golem platelegs B1
+Elven Forest Enchanted Leg Armor B1
+Cobra scaled plate legs B1
+Entwood leg armor B3
+Hyper-Poisoned Super-Strength Basilisk-Scaled Platelegs of Mystic Wrath B3
+Magic Iron Platelegs B3
+Dragonstone Platelegs B3
+Enchanted Dragonstone Platelegs B3
+Enchanted Magmastone Platelegs B3
+Guroktaru’s Limitless Lacking Legs of Legendary Languidness B5
+Steel golem platelegs A1
+Sleek Nagaian Dragon Scaled Platelegs of the Third Sea of the Beyond A1
+Ygritte’s Blood-Red Steadfast Platelegs A1
+Titan Entwood Leg Armor A1
+Magic Steel Platelegs A1
+Cereberus Demon Fur Cuisse A1
+Wizent Mystic Wood Leg Armor A2
+Dissipate Gasilisk Leg Armor of the Ether A2
+Mighty Ant Leg Armor of Inconquerability A2
+Impervious Ice Elf Magical Ice-Scaled Light-Leg Armor of Frost A3
+Giant’s Colossal Leg Armor of the Beyond A3
+Centipede segmented leg armor A3
+Demon Knight’s Leg Plates of Blood-Contusions A3
+Mighty Ant Leg Armor of Inconquerability A3
+Yeti Fur Cuisse A3
+Shadow Elf Enchanted Drowbark Leg Armor A4
+High orc dragon skin leg armor A4
+Abernythian Mystic Metal Leg Armor of the Beyond A4
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Leg Armor of the 7th Hell A4
+Death knight platelegs A4
+Magmastone Platelegs A4
+Abernythian Mystic Metal Platelegs A4
+Magical Animated Stone Platelegs A5
+Helven Magmastone-Trimmed Dragonstone Enchanted Warlock Leg Armor of the 7th Hell S1
+Rock Giant’s Colossal Leg Armor of the Beyond S1
+Kaisellin Dragon Scale Rainbow Jeweled Enchanted Flame Leg Armor of the Great Beyond S1
+Jaguar Hide Cuisse S1

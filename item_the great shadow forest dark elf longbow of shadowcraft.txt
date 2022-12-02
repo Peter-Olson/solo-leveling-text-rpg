@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: A4
+Attack: 247
+Speed: normal
+Effects: none
+BonusStrength: 43
+BonusAgility: 0
+BonusSense: 62
+BonusVitality: 48
+BonusIntelligence: 57
+BonusHP: 33
+BonusMP: 52
+Description: 

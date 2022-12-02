@@ -1,0 +1,12 @@
+﻿Type: platebody
+Rank: A2
+Defense: 800
+Effects: none
+BonusStrength: 29
+BonusAgility: 5
+BonusSense: 8
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 5
+Description: 

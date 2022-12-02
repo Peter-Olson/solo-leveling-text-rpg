@@ -1,0 +1,13 @@
+You take a spare second or two to carefully observe the sword mounted on your wall.\n
+It looks simple, despite having an ornate handle adorned with various jewels.\n
+The blade seems unnaturally sharp, almost sharp enough to slice your eyeballs open,\n
+just by looking at it. You absent-mindedly reach towards the blade, but stop, once\n
+you feel the heat that always emanates from it. That’s right. Enchanted weapons.\n
+You always figured a hunter with the right tools is better than one without.\n
+Recalling your father’s words, you also consider, that one should be able to stand\n
+their ground armed only in their own strengths and skills, not to rely too much on tools\n
+and gimmicks. The sun rays glimmer approvingly in one of the smaller gemstones\n
+fitted at the base of the blade.
+@@END
+7,9
+<continue>

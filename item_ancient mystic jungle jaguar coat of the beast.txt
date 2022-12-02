@@ -1,0 +1,12 @@
+﻿Type: robe
+Rank: S1
+Defense: 1080
+Effects: none
+BonusStrength: 29
+BonusAgility: 70
+BonusSense: 0
+BonusVitality: 29
+BonusIntelligence: 83
+BonusHP: 20
+BonusMP: 95
+Description: 

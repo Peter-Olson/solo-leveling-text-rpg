@@ -1,0 +1,4 @@
+﻿Type: gloves
+Rank: E5
+Defense: none
+Effects: 

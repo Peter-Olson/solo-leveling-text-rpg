@@ -1,0 +1,4 @@
+﻿Type: shield
+Rank: E5
+Defense: none
+Effects: 

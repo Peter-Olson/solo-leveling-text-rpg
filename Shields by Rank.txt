@@ -1,0 +1,75 @@
+﻿Kobold shield E3
+Jelly shield E5
+Casaka’s scaled emerald shield E5
+Ivory Shield E5
+Orc spiked shield D1
+Rustic buckler D1
+Gnomestone Shield D1
+Clam shield D2
+Jungle shield D2
+Tuskman body shield D3
+Barracuda shield D4
+Lizardman buckler C1
+Ironsteel shield C1
+Jagged hobgoblin wooden shield C1
+Magic Rock Shield C1
+Jewlgre’s Ruby Shield of Strength C2
+Jewlgre’s Emerald Shield of Speed C2
+Jewlgre’s Sapphire Shield of Mana C2
+Jewlgre’s Diamond Shield of Defense C2
+Jewlgre’s Obsidian Shield of Constitution C2
+Jewlgre’s Throwing Shield C2
+Jewlgre’s Jade Shield of Perception C2
+Steel shield C2
+Iron shield C2
+Bronze shield C2
+Silver shield C2
+Gold shield C2
+Platinum shield C2
+Dragonscale shield C2
+Steel-Engraved Shield C2
+Bronze Shield C2
+Iron Shield C2
+Silver Shield C2
+Gold Shield C2
+Steel Shield C2
+Jade Shield C2
+Obsidian Shield C2
+Platinum Shield C2
+Sand shield C3
+Magma Rock Shield C3
+Frigate heavy shield C4
+Enchanted Jade Shield C4
+Enchanted Obsidian Shield C4
+Frigate Timberock Shield C4
+Iron golem shield B1
+Ogre’s hardened great shield B1
+Cobra scaled shield B1
+Troll’s hardened great shield B2
+Entwood great shield B3
+Basilisk Scaled Hyper Poison Shield B3
+Magic Iron Shield B3
+Dragonstone Shield B3
+Enchanted Dragonstone Shield B3
+Enchanted Magmastone Shield B3
+Guroktaru’s Shiny Sombre Shield of Salubrious Sanguineness B5
+Steel golem shield A1
+Mystic Naga Water Shield of Merlin A1
+Hell’s Gate 3-Headed Animated Demon Fire-Breathing Shield A1
+Titan Entwood Great Shield A1
+Magic Steel Shield A1
+Wizent Mystic Wood Great Shield A2
+Ant Skeleton Shield A2
+Giant’s Colossal Titan Enchanted Bricked Shield of Impregnable Strength A3
+Sand shield A3
+Ant Skeleton Shield A3
+Shadow Elf Enchanted Drowbark Shield A4
+High orc shield A4
+Death knight shield A4
+Magmastone Shield A4
+Abernythian Mystic Metal Shield A4
+Magical Animated Stone Shield A5
+Helven Jeweled Enchanted Dragonscale-Magmastone Composite Strengthened Shield of Separate Dimensions from the 7th Hell S1
+Rock Giant’s Colossal Titan Enchanted Bricked Shield of Impregnable Strength S1
+Ancient Mystic Jungle Jaguar Coated Dragonscale Shield of Unrivaled Power S1
+Kaisellin Dragon Scale Shield of Relief S1

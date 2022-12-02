@@ -1,0 +1,2322 @@
+﻿E1
+Cave Crawler:
+Mandibles 30%
+Bug guts 50%
+1-2 gold 50%
+Minor magic core 25%
+
+
+Cave Imp:
+Tiny club 30%
+Imp sandals 10%
+1-2 gold 50%
+Minor magic core 25%
+
+
+Bug:
+Bug guts 50%
+1-2 gold 20%
+Minor magic core 5%
+
+
+Goblin:
+1-2 gold 75%
+Minor magic core 75%
+Medium magic core 1%
+Silk 15%
+Gold teeth 30%
+Key 1%
+Goblin greataxe 5%
+Goblin top hat 5%
+Stretchy gloves 5%
+Goblin gruel jelly 30%
+
+
+Bat:
+1-2 gold 30%
+Minor magic core 10%
+Bat wings 30%
+Bat fangs 10%
+Bat hide 30%
+
+
+E2
+Lungwood:
+Lungs 10%
+Lungwood 50%
+1-2 gold 50%
+Minor magic core 25%
+
+
+Green Jelly:
+Green jelly 50%
+Magic paste 30%
+1-2 gold 30%
+Minor magic core 10%
+
+
+Imp Druid:
+Imp staff 30%
+Imp sandals 10%
+Magician’s robe 5%
+Imp earrings 5%
+2-3 gold 50%
+Minor magic core 50%
+
+
+Monkey:
+Monkey tail 25%
+Banana 10%
+2-3 gold 50%
+Minor magic core 30%
+
+
+Big Wasp:
+2-3 gold 50%
+Minor magic core 30%
+Wasp stinger 30%
+Wasp wing 30%
+Concentrated poison 5%
+Wasp stinger dagger 5%
+
+
+Big Spider:
+2-3 gold 50%
+Minor magic core 30%
+Spider stinger 30%
+Spider leg 30%
+Spider eye 10%
+Concentrated poison 5%
+Spider webbing 30%
+Spider wand 5%
+
+
+E3
+Wormroot:
+Worm tooth 30%
+Worm poop 75%
+Worm hide 10%
+3-5 gold 30%
+Minor magic core 50%
+
+
+Blue Jelly:
+Blue jelly 50%
+Magic paste 50%
+3-5 gold 30%
+Minor magic core 30%
+
+
+Direwolf:
+Steel teeth 30%
+Wolf hide 10%
+Lycan necklace 5%
+Steel tooth dagger 5%
+Wolf hide armor 5%
+Wolf hood 1%
+Night vision potion 5%
+3-5 gold 50%
+Minor magic core 50%
+Blood dagger 5%
+Howling Nightbow 1%
+
+
+Kobold:
+3-5 gold 50%
+Minor magic core 50%
+Kobold hide 30%
+Kobold fang 30%
+Kobold tail 20%
+Kobold dagger 5%
+Kobold bow 5%
+Kobold shield 1%
+
+
+E4
+Woodboar:
+Wood tusks 30%
+Woodboat hide 10%
+Wood 50%
+Wooden leg guards 5%
+Tree boots 5%
+Woodboar sword 1%
+5-10 gold 50%
+Minor magic core 50%
+
+
+Furret:
+Fur 30%
+Rope 25%
+Boots with the fur 5%
+5-10 gold 30%
+Minor magic core 30%
+
+
+Vampire Bat:
+5-10 gold 30%
+Minor magic core 40%
+Bat wings 30%
+Bat fangs 30%
+Bat hide 30%
+Bat blood 30%
+Vampire bat boots 5%
+Vampire blood dagger 5%
+Detect blood runestone 0.1%
+
+
+E5
+Jawfruit Plant:
+Ivory 30%
+Jawleaf 30%
+Jawlberd 5%
+Ring of toughness 5%
+Ivory Dagger 5%
+Jawknuckles 1%
+Jawlmet 1%
+Jawa Staff 1%
+Jawbreaker 1%
+Lesser spirit potion 25%
+25-50 gold 30%
+Minor magic core 75%
+Medium magic core 25%
+
+
+King Jelly:
+Green jelly 50%
+Blue jelly 30%
+Magic paste 100%
+Jelly crown 10%
+Jelly gloves 5%
+Jellyhide 5%
+King Jelly Arcbow 5%
+Effect Resistance Potion 5%
+Ring of constitution 5%
+Jelly shield 1%
+Jelly dagger 1%
+Ruby 5%
+Emerald 5%
+Diamond 1%
+25-100 gold 50%
+Minor magic core 75%
+Medium magic core 25%
+
+
+Poison-fanged casaka:
+25-100 gold 50%
+Medium magic core 30%
+Minor magic core 30%
+Concentrated super-poison 5%
+Casaka’s Poisoned-Fang Dagger 75%
+Casaka’s Venom Gland 50%
+Casaka’s Cruel Poisoned Longsword 1%
+Poison scales 30%
+Viper strike runestone 0.1%
+Potion of dexterity 1%
+Potion of strength 1%
+Effect Resistance Potion 1%
+Poison-scaled jade-trimmed halberd 1%
+Casaka’s scaled emerald shield 1%
+Poison-snake gloves 1%
+Casaka’s Fine-Scaled Poison and Jade-tipped Body Armor 1%
+Casaka’s Emerald-Pointed Helmet 1%
+Poison-Tipped Spear 5%
+Casaka’s Scaled Longbow 1%
+
+
+Alpha Direwolf:
+25-50 gold 50%
+Minor magic core 50%
+Medium magic core 20%
+Steel teeth 30%
+Wolf hide 10%
+Lycan necklace 5%
+Steel tooth dagger 5%
+Wolf hide armor 5%
+Wolf hood 1%
+Night vision potion 5%
+Alpha wolf pendant 5%
+Alpha Wolf Head of Strength 5%
+Howling Nightbow 1%
+
+
+Droolung Demon:
+25-50 gold 50%
+Minor magic core 75%
+Medium magic core 25%
+Lung 25%
+Droolung poisonous tongue 10%
+Demon blood 25%
+Cursed pendant 5%
+Cursed ring 5%
+Droolung blood bow 5%
+Droolung tongue whip 1%
+Demon Vein-Greaves 5%
+Potion of strength 1%
+Bloodlust strike runestone 0.1%
+Demon battleaxe 5%
+Droolung demon wand 1%
+
+
+D1
+Cave Druid:
+Magic vine 25%
+10-20 gold 50%
+Minor magic core 50%
+Medium magic core 1%
+Druid sandals 5%
+Druid cloak 5%
+Druid’s pendant 1%
+
+
+Orc:
+Rotting flesh 50%
+Orc scimitar 10%
+Orc shortsword 5%
+Orc spiked shield 5%
+10-20 gold 20%
+Minor magic core 20%
+Medium magic core 1%
+Orc spiked helmet 5%
+Handcuffs 0.1%
+
+
+Cave Gnome:
+Sylvian dagger 1%
+Rustic buckler 5%
+Spiked cap 5%
+Potion of strength 1%
+Vegetables 10%
+Obsidian Dagger 5%
+Shoddy shortbow 5%
+Gnomestone 30%
+10-20 gold 50%
+Minor magic core 50%
+Medium magic core 1%
+
+
+Beebill:
+Stinger 30%
+Bill 10%
+Honey 30%
+Concentrated poison 5%
+Bug guts 50%
+Bee lance 5%
+Light-weight shoes 5%
+Bee wings 10%
+10-20 gold 50%
+Minor magic core 50%
+Medium magic core 1%
+Bee dagger 5%
+Honey potion 5%
+Zubarb’s great staff 1%
+
+
+Vegnat:
+Gnat wings 30%
+Concentrated poison 5%
+Bug guts 50%
+Poisoned mace 5%
+10-20 gold 50%
+Minor magic core 50%
+Magical poison solute 1%
+
+
+D2
+Red-Capped Goblin:
+40-70 gold 75%
+Minor magic core 50%
+Medium magic core 10%
+Silk 15%
+Gold teeth 30%
+Key 1%
+Goblin greataxe 5%
+Red-cap 30%
+Cardinal gloves 5%
+Potion of malice 1%
+Goblin gruel jelly 30%
+Goblin greatsword 5%
+
+
+Clammer:
+Clammer shell 25%
+Pearl 1%
+40-70 gold 30%
+Minor magic core 50%
+Medium magic core 10%
+Clam tongue 5%
+Clam shield 5%
+Clam armor 5%
+Clam platelegs 1%
+Potion of defense 1%
+The Hammer of Clamor 1%
+
+
+Dungeon Jackal:
+Jackal hide 30%
+Jackal claws 10%
+Jackal leather armor 5%
+Jackal leather gloves 5%
+Jackal leather pants 5%
+Jackal boots 5%
+Jackal hood 1%
+Spotted cloak 5%
+Jaguar’s claw dagger 5%
+Jungle longsword 5%
+Jaguar’s jungle bow 1%
+Jungle shield 5%
+Jaguar necklace 1%
+Jungle ring 1%
+40-70 gold 30%
+Minor magic core 50%
+Medium magic core 10%
+
+
+Rotting Zombie:
+40-70 gold 5%
+Rotting flesh 100%
+Eyeball 30%
+Zombie arm 5%
+Essence of undead 1%
+Minor magic core 30%
+Medium magic core 1%
+
+
+D3
+Zombie:
+Rotting flesh 50%
+Eyeball 5%
+Zombie arm 5%
+Essence of undead 1%
+Minor magic core 30%
+Medium magic core 1%
+
+
+Tuskman:
+Tusk 25%
+Cedarwood spear 5%
+Tuskman body shield 5%
+Iron Helmet 5%
+Potion of strength 1%
+Iron spiked mace 1%
+50-100 gold 30%
+Minor magic core 30%
+Medium magic core 20%
+
+
+Jungle frog:
+Frog legs 30%
+Concentrated poison 5%
+Lesser spirit potion 5%
+Jungle frog cutlass 5%
+Spring boots 5%
+Frog spear of the jungle wind 1%
+Poison dart dagger 5%
+Potion of dexterity 1%
+Frog earrings 1%
+50-100 gold 30%
+Minor magic core 30%
+Medium magic core 30%
+
+
+Jungle toad warrior:
+Frog legs 30%
+Concentrated poison 5%
+Lesser spirit potion 5%
+Jungle toad longsword 5%
+Jungle toad spear 5%
+Jungle toad halberd 5%
+Jungle toad two-handed sword 5%
+Jungle toad battle helmet 1%
+Stretchy pants 5%
+50-100 gold 30%
+Minor magic core 30%
+Medium magic core 30%
+
+
+Jungle toad archer:
+Frog logs 30%
+Concentrated poison 5%
+Lesser spirit potion 5%
+Jungle toad longbow 5%
+Jungle toad leather armor 5%
+Jungle toad leather chaps 5%
+Jungle toad leather gloves 1%
+Jungle toad leather coif 5%
+50-100 gold 30%
+Minor magic core 30%
+Medium magic core 30%
+Ring of dexterity 1%
+
+
+Jungle toad mage:
+Frog legs 30%
+Concentrated poison 5%
+Lesser spirit potion 10%
+Jungle toad battlestaff 5%
+Jungle toad magician’s robe 5%
+Jungle pendant 1%
+Wizard toad’s mystic wand 1%
+Jungle beam runestone 0.1%
+Orb of mana 0.1%
+50-100 gold 30%
+Minor magic core 10%
+Medium magic core 50%
+
+
+Steel-Fanged Direwolf:
+50-100 gold 40%
+Minor magic core 20%
+Medium magic core 30%
+Steel teeth 30%
+Wolf hide 10%
+Lycan necklace 5%
+Steel tooth dagger 5%
+Wolf hide armor 5%
+Wolf hood 1%
+Night vision potion 5%
+Steel talon longsword 5%
+Steel-fang halberd 5%
+
+
+D4
+Dirt golem:
+Magic dirt 30%
+75-150 gold 20%
+Minor magic core 20%
+Medium magic core 30%
+Golem gloves 5%
+
+
+Barracuda:
+75-150 gold 30%
+Minor magic core 10%
+Medium magic core 30%
+Barracuda teeth 30%
+Barracuda scales 20%
+Barracuda eye 1%
+Barracuda fin 5%
+Barracuda platemail 5%
+Barracuda shield 5%
+Barracuda sheath-plate light-wear armor 1%
+Barracuda off-hand karamjar 1%
+Ultra-sharp barracuda fang dagger 1%
+Whirlwind barracuda fin dagger 1%
+Barracuda great sword 5%
+Vicious bite runestone 0.1%
+Water-breath runestone 0.1%
+
+
+Red Direwolf:
+75-150 gold 30%
+Minor magic core 20%
+Medium magic core 30%
+Steel teeth 30%
+Wolf hide 10%
+Lycan necklace 5%
+Steel tooth dagger 5%
+Wolf hide armor 5%
+Wolf hood 1%
+Night vision potion 5%
+Steel titan longsword 5%
+Steel-fang halberd 5%
+Blood steel wool hide body armor 5%
+Blood steel wool hide leg armor 5%
+Blood steel wool hide coif 5%
+Red Direwolf Howling Blood Moon Bow 5%
+
+
+D5
+Zorc:
+100-200 gold 50%
+Medium magic core 30%
+Rotting flesh 30%
+Eyeball 5%
+Zorc arm 5%
+Essence of undead 1%
+Zorbow of the undead 1%
+Zhelmet of Tarsh 1%
+Zombie darkness boots 1%
+Zorc greatsword 5%
+Zord reaper 5%
+Ring of death 1%
+Pendant of the undead 5%
+Zombidagger 5%
+Caustic touch runestone 0.1%
+
+
+Kobold Warrior:
+100-200 gold 50%
+Medium magic core 30%
+Kobold hide 30%
+Kobold fang 30%
+Kobold tail 5%
+Potion of strength 1%
+Kobold warrior’s battleaxe 5%
+Kobold warrior’s halberd 5%
+Kobold warrior’s two-handed sword 5%
+Kobold warrior’s great longsword 5%
+Kobold short runestone 0.1%
+
+
+C1
+Rock golem:
+100-150 gold 30%
+Medium magic core 30%
+Magic rock 30%
+Golem stone gloves 5%
+Emerald 5%
+Ruby 5%
+Sapphire 5%
+Diamond 1%
+Violent smash runestone 0.1%
+
+
+Lizardman:
+100-150 gold 50%
+Medium magic core 50%
+Lizard tail 10%
+Lizardman spear 5%
+Lizardman scimitar 5%
+Lizard boots 5%
+Potion of perception 1%
+Potion of intelligence 1%
+Talon dagger 5%
+Lizardman buckler 5%
+Wiz Liz Staff 5%
+Ring of power 1%
+Lizard teeth 1%
+
+
+Knight:
+100-150 gold 20%
+Medium magic core 10%
+Ironsteel platebody 5%
+Ironsteel platelegs 5%
+Ironsteel helmet 5%
+Ironsteel plate gloves 5%
+Ironsteel boots 5%
+Knight’s badge of power 1%
+Ironsteel two-handed sword 5%
+Ironsteel shield 5%
+
+
+Flying Sword:
+100-150 gold 10%
+Medium magic core 20%
+Enchanted flying sword, Elydryl’s Mark 0.1%
+
+
+Flying Shield:
+100-150 gold 10%
+Medium magic core 20%
+Enchanted flying shield, Elydryl’s Mark 0.1%
+
+
+Hobgoblin:
+100-150 gold 30%
+Medium magic core 30%
+Grotesque necklace 5%
+Rotting flesh 20%
+Hobgoblin horns 30%
+Hobgoblin heart 1%
+Hobgoblin shortsword 5%
+Jagged hobgoblin wooden shield 5%
+Cruel organ-ripping hobgoblin blood-dagger 1%
+Hobgoblin intestine-shard whip 5%
+Hobgoblin spear 5%
+
+
+C2
+Shade:
+150-300 gold 30%
+Medium magic core 50%
+Strong magic core 1%
+Shade cloak 10%
+Shadow cape 5%
+Shade claws 1%
+Emblem of darkness 5%
+Soul ring 5%
+Orb of darkness 5%
+Essence of darkness 1%
+Fire bolt runestone 0.1%
+Chasm bolt runestone 0.1%
+Fear spell runestone 0.1%
+Shadow dagger 1%
+Shadow boots 1%
+Monster-sight potion 1%
+Invisibility potion 0.1%
+
+
+Jewlgre:
+150-300 gold 50%
+Medium magic core 75%
+Strong magic core 10%
+Ruby 10%
+Emerald 10%
+Sapphire 10%
+Diamond 5%
+Obsidian 20%
+Jade 20%
+Steel 25%
+Iron 30%
+Bronze 30%
+Silver 10%
+Gold 5%
+Platinum 1%
+Dragon scales 0.1%
+Multi-Jeweled Jewlgre Crown 1%
+Multi-jeweled helmet of strength 1%
+Jewel skin 10%
+Jewlgre’s ruby shield of strength 5%
+Jewlgre’s sapphire shield of mana 5%
+Jewlgre’s diamond shield of defense 1%
+Jewlgre’s obsidian shield of constitution 5%
+Jewlgre’s throwing shield 5%
+Jewlgre’s jade shield of perception 5%
+Steel Shield 5%
+Iron Shield 15%
+Bronze Shield 20%
+Silver Shield 5%
+Gold Shield 1%
+Platinum Shield 0.1%
+Dragonscale Shield 0.01%
+Jewlgre’s jeweled plate armor 5%
+Jewlgre’s jeweled plate legs 5%
+Studded plate boots 5%
+Jewlgre’s crimson-ruby blood battleaxe 5%
+Jewlgre’s emerald-poisoned viper longsword 5%
+Jewlgre’s diamond-crested longbow 1%
+Jewlgre’s obsidian-engraved death dagger 5%
+Jewlgre’s jade halberd 5%
+Ring of jewels 1%
+Jewelcrafting runestone 0.1%
+
+
+Duke:
+150-300 gold 30%
+Medium magic core 30%
+Steel-engraved platebody 5%
+Steel-engraved platelegs 5%
+Steel-engraved plumed full-helm 1%
+Steel-engraved longsword 5%
+Steel-engraved shield 5%
+Steel-engraved two-handed sword 5%
+Royal steel-engraved dagger 1%
+Royal ring 1%
+Royal pendant 1%
+
+
+C3
+Mammoth:
+300-500 gold 30%
+Medium magic core 30%
+Mammoth fur 30%
+Mammoth tusk 20%
+Mammoth meat 30%
+Mammoth cloak 5%
+Mammoth boots with the fur 5%
+Mammoth tusk shortsword 5%
+Mammoth ivory helmet 5%
+Mammoth claws 1%
+Mammoth claw dagger 1%
+Ring of sturdiness 1%
+Bullrush runestone 0.1%
+
+
+Silken:
+Magic silk 25%
+300-500 gold 50%
+Medium magic core 50%
+Silken magician’s robe 10%
+Silken wizard gloves 5%
+Silken’s magician hood 5%
+Silken mystic rod of the Ether 1%
+Silken Wizard’s Grand Staff of the Beyond 1%
+Silken Krysalisk dagger 1%
+Invisibility Potion 1%
+Potion of Perception 5%
+Silkworm pendant 1%
+Ring of control 1%
+
+
+Horseman:
+Horseshoe 30%
+Horsetail 5%
+Horseman’s longbow 10%
+Horseman hide 10%
+300-500 gold 50%
+Medium magic core 30%
+Horseman great spear 5%
+Horseman forest charm 5%
+Archer’s ring 5%
+Horseman archer gloves 5%
+Horseman longsword 5%
+Running mark runestone 0.1%
+
+
+Magman:
+300-500 gold 10%
+Medium magic core 50%
+Magma rock 30%
+Molten lava 10%
+Orb of plasma 5%
+Magical lava 1%
+Fire Resistance Potion 5%
+Lava club 5%
+Lava walkers 1%
+Lava helmet 1%
+Lavarmor 1%
+Magical molten lavarmor 0.1%
+Great lava sword 1%
+Molten lava dagger 1%
+Molten magma legs 1%
+Pendant of flame 1%
+Molten ring 1%
+Magma-breath runestone 0.1%
+
+
+Magmage:
+300-500 gold 20%
+Medium magic core 30%
+Strong magic core 10%
+Magma rock 30%
+Molten lava 10%
+Magical lava 5%
+Orb of plasma 5%
+Fire Resistance Potion 5%
+Lava walkers 1%
+Lava helmet 1%
+Magical molten lavarmor 0.1%
+Molten lava dagger 1%
+Pendant of flame 1%
+Molten ring 1%
+Magmage fire staff 5%
+Mygargar’s burning lava wand 1%
+Magmage flowing lava robe 5%
+Magma cape 1%
+Fireball runestone 0.1%
+
+
+Magarcher:
+300-500 gold 10%
+Medium magic core 50%
+Magma rock 30%
+Molten lava 10%
+Orb of plasma 5%
+Magical lava 1%
+Fire Resistance Potion 5%
+Lava walkers 1%
+Lava helmet 1%
+Lavarmor 1%
+Magical molten lavarmor 0.1%
+Molten lava dagger 1%
+Pendant of flame 1%
+Molten ring 1%
+Molten lava longbow 5%
+Molten lava archer gloves 1%
+Magma cape 1%
+Flame arrow runestone 0.1%
+
+
+CentipedeC3:
+300-500 gold 50%
+Medium magic core 50%
+Centipede mandibles 50%
+Sword of centipede slaying 5%
+Sand shield 5%
+Sand burrowing runestone 0.1%
+Centipede helmet 5%
+Centipede segmented body armor 5%
+Centipede segmented leg armor 5%
+Bug guts 50%
+
+
+C4
+Puppetter:
+Magic string 10%
+Puppetter buttons 30%
+Puppetter’s gloves 10%
+500-750 gold 50%
+Medium magic core 50%
+Strong magic core 5%
+Puppetter’s hat 5%
+Puppetter’s pants 5%
+Puppetter’s shirt 5%
+Puppetter’s clown dagger 5%
+Puppetter’s clown sword 5%
+Pendant of arbitration 5%
+Ring of illusion 1%
+Plush puppet 20%
+Puppetter’s whistling scythe 1%
+Mind puppet runestone 0.1%
+
+
+Mersnake:
+500-750 gold 30%
+Medium magic core 30%
+Strong magic core 10%
+Merscales 30%
+Mersnake fangs 10%
+Concentrated mervenom 10%
+Mersnake guts 30%
+Mer trident 10%
+Mer cloak 5%
+Mersnake poisonous dagger 5%
+Mirror image runestone 0.1%
+
+
+Frigate:
+500-750 gold 50%
+Medium magic core 10%
+Strong magic core 50%
+Orb of slaughter 5%
+Frigate timberock 30%
+Ring of power 5%
+Ring of strength 5%
+Frigate heavy armor 1%
+Frigate heavy shield 1%
+Frigate heavy longsword 1%
+Morphstone 1%
+
+
+Enchanter:
+500-750 gold 75%
+Medium magic core 10%
+Strong magic core 50%
+Powerful magic core 10%
+Enchanter’s wizard hat 5%
+Enchanter’s robe 5%
+Enchanter’s boots 5%
+Enchanter’s gloves 5%
+Enchanter’s cloak 5%
+Enchanted wand of the sage 1%
+Enchanted mystic great staff of the sage 1%
+Ring of intelligence 5%
+Ring of control 5%
+Enchanter’s pendant 5%
+Enchanted ethereal dagger 1%
+Orb of enhanced magic 1%
+Envigorate runestone 0.1%
+Enchanted singing shortsword 1%
+Enchanted ruby 5%
+Enchanted emerald 5%
+Enchanted sapphire 5%
+Enchanted diamond 1%
+Enchanted opal 5%
+Enchanted jade 5%
+Enchanted moonstone 5%
+Enchanted obsidian 5%
+Enchanted turquoise 5%
+Enchanted dragonstone 0.1%
+Enchanted magmastone 1%
+Enchant runestone 5%
+
+
+C5
+Mermaid:
+750-1000 gold 50%
+Medium magic core 20%
+Strong magic core 50%
+Merscales 30%
+Concentrated mervenom 10%
+Mer trident 10%
+Mer cloak 5%
+Mermaid hair 5%
+Jagged Merscale Shortsword of Pain 5%
+Enchanted Resonating Jagged Merscale Dagger of Disembowelment 5%
+Enchanted Merhair Scaled Longbow 5%
+Glowing Merhair Enchanted Whip 1%
+Enchanted Merscale Leggings 5%
+Enchanted Merscale Coral-Trimmed Hybrid Armor of Dexterity 1%
+Merhelmet of the Trident 5%
+Orb of Avarice 5%
+Orb of water movement 5%
+Orb of water-breathing 5%
+Water-breathing runestone 0.1%
+Mind puppet runestone 0.1%
+Stunning screech runestone 0.1%
+Lightening strike runestone 0.1%
+Runescale Enchanted Pendant of Asaka 1%
+Ring of royalty 1%
+Ring of power 1%
+Ring of speed 1%
+Ring of cruelty 1%
+Enchanted Merscale Flipperboot Hybrid Boots 1%
+
+
+Tarantzilla:
+750-1000 gold 50%
+Medium magic core 30%
+Strong magic core 50%
+Tarantzilla leg 30%
+Tarantzilla mandibles 30%
+Tarantzilla spines 50%
+Tarantzilla eye 10%
+Tarantzilla web 50%
+Tarantzilla concentrated stickum 20%
+Tarantzilla concentrated poison 20%
+Tarantzilla Spider Leg Shortsword 10%
+Tarantzilla Deadly Poison-Fang Dagger 10%
+Tarantzilla Eye Spiked Wand of Dread 5%
+Tarantzilla Spiked Spider Leg Staff of Might 5%
+Tarantzilla Spiked Spider Leg Battleaxe of Carnage 5%
+Great Tarantzilla Spiked Spider Leg Web Bow of the Abyss 1%
+Tarantzilla Spiked Spider Leg Spear of Wrath 5%
+Hardened Tarantzilla Spiked Body Armor 5%
+Tarantzilla Spiked Helmet 10%
+Hardened Tarantzilla Spiked Leg Armor 5%
+Tarantzilla Sticky Spike Shoes 5%
+Tarantzilla Sticky Spike Gloves 1%
+Tarantzilla’s Webbed Pendant 5%
+Ring of dexterity 5%
+Ring of darksight 5%
+Ring of power 5%
+Webshot runestone 0.1%
+Violent smash runestone 0.1%
+
+
+B1
+Iron Golem:
+1000-2000 gold 30%
+Medium magic core 20%
+Strong magic core 30%
+Magic rock 30%
+Emerald 10%
+Ruby 10%
+Sapphire 10%
+Diamond 5%
+Violent smash runestone 0.1%
+Jade 5%
+Opal 5%
+Obsidian 5%
+Turquoise 5%
+Dragonstone 1%
+Magic iron 30%
+Golem iron gloves 30%
+Iron golem shield 5%
+Iron golem breastplate 5%
+Iron golem platelegs 5%
+Iron golem colossal two-handed sword 1%
+
+
+Wood Elf:
+1000-2000 gold 50%
+Medium magic core 10%
+Strong magic core 40%
+Elf ears 10%
+Elf hair 1%
+Elven Mystic Woodbow of Silence 5%
+Elandrial’s Mystic Pendant of the Woods 5%
+Ring of dexterity 5%
+Ring of the forest 5%
+Mystic Forest Sourge Dagger 5%
+Elven Mystic Forest Shortsword of the Leaf 5%
+Elandrial Whistling Elven Mystic Forest Spear of the Vine 1%
+Elven Enchanted Vine Whip of Exact Mercy 1%
+Elven Forest Enchanted Armor 5%
+Elven Forest Enchanted Leg Armor 5%
+Elven Forest Helmet 5%
+Elven Forest Boots of Silence 5%
+Elven Forest Cape of Enchanted Camoflauge 1%
+Orb of silence 1%
+Orb of acute aim 1%
+Silent steps runestone 0.1%
+Stealth runestone 0.1%
+Exact air runestone 0.1%
+Strike of silence runestone 0.1%
+Cone of silence runestone 0.1%
+
+
+Ogre:
+1000-2000 gold 30%
+Medium magic core 20%
+Strong magic core 40%
+Rotting flesh 30%
+Rotting ogre molars 10%
+Ogre’s great hammer 5%
+Ogre’s great battleaxe 5%
+Ogre’s shoddy great helm 5%
+Ogre’s hefty great two-handed sword 5%
+Ogre’s crooked great halberd 1%
+Ring of great power 5%
+Potion of strength 5%
+Ogre’s hardened great body armor 5%
+Ogre’s hardened great shield 5%
+Orb of power 5%
+Violent smash runestone 0.1%
+Enrage runestone 0.1%
+Mach punch runestone 0.1%
+
+
+Cobraman:
+1000-2000 gold 40%
+Medium magic core 10%
+Strong magic core 30%
+Cobra scales 30%
+Concentrated cobra poison 10%
+Cobra tongue 5%
+Cobra scaled body armor 5%
+Cobra scaled plate legs 5%
+Cobra scaled shield 5%
+Cobra scaled shining-poisoned shortsword 5%
+Cobra scaled super-poisoned dagger 5%
+Cobraman’s poison-tipped scale spear 5%
+Potion of dexterity 5%
+
+
+B2
+Dark Silken:
+2000-3000 gold 50%
+Strong magic core 30%
+Magic silk 25%
+Dark silken’s mystic magic robe of darkness 10%
+Dark silken wizard gloves 5%
+Dark silken’s magician hood 5%
+Dark Silken Mystic Rod of the Ether 1%
+Dark Silken’s Wizard Grand Staff of the Beyond 1%
+Dark silken Krysalisk Dagger 1%
+Invisibility Potion 1%
+Potion of perception 5%
+Dark silken’s shadowed pendant from the Beyond 5%
+Ring of control 1%
+
+
+Troll:
+2000-3000 gold 75%
+Strong magic core 50%
+Rotting flesh 30%
+Troll foot 10%
+Rotting troll molars 10%
+Troll’s great hammer 5%
+Troll’s great battleaxe 5%
+Troll’s shoddy great helmet 5%
+Troll’s hefty great two-handed sword 5%
+Troll’s crooked great halberd 1%
+Ring of great power 5%
+Potion of strength 5%
+Troll’s hardened great body armor 5%
+Troll’s hardened great shield 5%
+Orb of power 5%
+Violent smash runestone 0.1%
+Enrage runestone 0.1%
+Mach punch runestone 0.1%
+
+
+White mask:
+2000-3000 gold 20%
+Strong magic core 30%
+White mask acid 10%
+Foreboding White Mask Acid Helmet of the Ether 1%
+Haunting Enchanted Superior White Mask Acid Dagger of the Ether 0.1%
+Orb of defense 0.1%
+Acid exfoliation runestone 0.1%
+
+
+Headless horseman:
+2000-3000 gold 40%
+Strong magic core 30%
+Magic pumpkin 30%
+Shadow horse 5%
+Headless Horseman’s Flying Shadow Cape 5%
+Headless Horseman’s Study Boots of Flight 5%
+Headless Horseman’s Mystic Ghost Pendant 1%
+Ring of luck 1%
+Ring of speed 1%
+Orb of flight 1%
+Flight runestone 0.1%
+Headless Horseman’s Ghost Pumpkin Dagger of Shadows 1%
+Headless Horseman’s Mystic Shadow Scythe 5%
+Stealth runestone 0.1%
+
+
+Telekinter:
+2000-3000 gold 50%
+Strong magic core 20%
+Powerful magic core 20%
+Telekinetic essence 10%
+Telekinter head 30%
+Buzzing Telekinter Slimy Magic Gloves 5%
+Living Magic Telekinter Cape of the Beyond 1%
+Flowing Mystic Telekinter Robe of Knowledge 5%
+Magician’s Boots of Control 5%
+Familiar Powerful Buzzing Telekinter Dagger of One Mind 1%
+Ruler’s reach runestone 0.1%
+Orb of telekinetic sight 1%
+Magician’s Enchanted Mana Pendant 1%
+Ring of mana 1%
+Ring of control 1%
+Ring of perception 1%
+
+
+B3
+Ent:
+3000-5000 gold 30%
+Strong magic core 30%
+Powerful magic core 40%
+Entwood 30%
+Magical leaves 20%
+Entwood armor 10%
+Entwood leg armor 10%
+Entwood great shield 5%
+Powerful Entwood Great Staff of the Forest 5%
+Dynamic Entwood Mystic Wand of the Forest 5%
+Great Shifting Entwood Forest Dagger of Might 5%
+Great Shifting Entwood Forest Longsword of Cleaving 5%
+Resonating Entwood Battleaxe of the Beyond 5%
+Orb of power 1%
+Orb of shifting defense 1%
+Harden runestone 0.1%
+Regrowth runestone 0.1%
+
+
+Basilisk:
+3000-5000 gold 50%
+Strong magic core 20%
+Powerful magic core 40%
+Concentrated hyper-poison 10%
+Basilisk fang 20%
+Basilisk scales 30%
+Stone statue 30%
+Mystic Stinging Hyper Poison Basilisk Dagger of Blood-Boiling 5%
+Mystic Stinging Hyper Poison Basilisk Shortsword of Blood-Curdling 5%
+Basilisk Scaled Hyper Poison Shield 5%
+Hyper-Poisoned Super-Strength Basilisk-Scaled Platebody of Mystic Pain 5%
+Hyper-Poisoned Super-Strength Basilisk-Scaled Platelegs of Mystic Wrath 5%
+Sleek Hyper-Poison Basilisk Skin Boots 5%
+Sleek Hyper-Poison Basilisk Skin Coif of Just Malice 5%
+Hyper-Poison Magic-Infused Basilisk-Scaled Spear of Uncanny Acupuncture 1%
+Hyper-Poison Magic-Infused Basilisk-Scaled Halberd of Unimaginable Scourge 1%
+Hyper-Poison Magic Pendant of Boiling Wrath 1%
+Ring of fear 1%
+Ring of magic 1%
+Ring of dexterity 1%
+Orb of poison 1%
+Stone freeze runestone 0.1%
+Constrict runestone 0.1%
+Potion of refreshment 10%
+
+
+Ice Bear:
+3000-5000 gold 30%
+Strong magic core 50%
+Ice bear meat 30%
+Ice bear claws 10%
+Ice bear fang 10%
+Ice bear coat armor 5%
+Ice bear coat legs 10%
+Grand Ice Bear Helmet of Excellence 5%
+Raging Ice Bear Dagger 5%
+Grand Ice Bear Longsword of Might 5%
+Ice Bear Gloves 5%
+Ice Bear Shoes 5%
+Enrage runestone 0.1%
+Vicious bite runestone 0.1%
+Orb of strength 1%
+Grand Ice Bear’s Might Battleaxe of the Roaring Icy Wind 1%
+
+
+B4
+Crimson Silken:
+5000-7000 gold 50%
+Strong magic core 30%
+Powerful magic core 40%
+Magic silk 25%
+Crimson silken’s mystic magic robe of darkness 10%
+Crimson silken wizard gloves 5%
+Crimson silken’s magician hood 5%
+Crimson Silken Mystic Rod of the Ether 1%
+Crimson Silken’s Wizard Grand Staff of the Beyond 1%
+Crimson silken Krysalisk Dagger 1%
+Invisibility Potion 1%
+Potion of perception 5%
+Crimson silken’s shadowed pendant from the Beyond 5%
+Ring of control 1%
+Crimson Silken’s Mystic Blood-Bow of the Crimson Khan’s Seventh Hell 1%
+
+
+Dread:
+5000-7000 gold 30%
+Strong magic core 30%
+Powerful magic core 20%
+Concentrated dread essence 10%
+Sylvian darkness charm 30%
+Gaseous dark mana 5%
+Undead Ambient Mystic Cloak of Death 1%
+Shadowlord’s Unbridled Tyrantial Dagger of Chaos 0.1%
+Ring of dystopia 1%
+Sylvian leech runestone 0.1%
+
+
+Tentacle Demon:
+5000-7500 gold 30%
+Strong magic core 50%
+Powerful magic core 20%
+Demon tentacle 30%
+Demon blood 30%
+High Demon Cape of Blazing Death 5%
+High Demon Cloak of the Blazing Grave 5%
+Deathwalker boots 5%
+Blood-Demon’s Hemorrhaging Death Dagger 5%
+Tentacle demon hat 5%
+Tentacle Longsword of the Demon’s 7th Hell 5%
+Tentacle demon hallowed blood spear 1%
+Tentacle demon blood whip 1%
+Orb of misery 1%
+Blood-letting runestone 0.1%
+Blood rain runestone 0.1%
+Regrowth runestone 0.1%
+
+
+B5
+Guroktaru:
+7500-10000 gold 50%
+Strong magic core 50%
+Powerful magic core 30%
+Rotten flesh 30%
+Guroktaru’s Heavenly Horned Helmet of Hell 10%
+Guroktaru’s Burning Boastful Boots of Bashfulness 10%
+Guroktaru’s Clever Creamy Cape of Careful Confusion 10%
+Guroktaru’s Bountifully Bosomed Breastplate of Burly Brittleness 10%
+Guroktaru’s Limitless Lacking Legs of Legendary Languidness 10%
+Guroktaru’s Galactic Gimpy Gauntlets of Ginger Gobsmacking 10%
+Guroktaru’s Shiny Sombre Shield of Salubrious Sanguineness 10%
+Guroktaru’s Palpable Phantasmal Pendant of Pervasive Platonicness 10%
+Guroktaru’s Rapacious Ruminating Ring of Revelatory Reticence 10%
+Guroktaru’s Baffling Banal Bow of Beastly Blase 10%
+Guroktaru’s Damascene Dissoluble Dagger of Draconian Defenestration 10%
+Guroktaru’s Listless Lavish Longsword of Luculent Laureation 10%
+Guroktaru’s Tantalising Toxic Two-Handed Sword of Torpid Terror 10%
+Guroktaru’s Blissful Ballistic Battleaxe of Bereaved Blistery 10%
+Guroktaru’s Weightless Wieldy Whip of Whimsical Withering 10%
+Guroktaru’s Haphazard Hesitant Halberd of Humdrum Hysterics 10%
+Guroktaru’s Saintly Satanic Scimitar of Satirical Sardonics 10%
+Orb of power 1%
+Orb of confusion 1%
+Orb of command 1%
+Enrage runestone 0.1%
+
+
+A1
+Steel Golem:
+10000-15000 gold 30%
+Strong magic core 20%
+Power magic core 40%
+Magic rock 30%
+Emerald 20%
+Ruby 20%
+Sapphire 20%
+Diamond 10%
+Jade 10%
+Opal 10%
+Obisidian 10%
+Turquoise 10%
+Dragonstone 5%
+Magic iron 30%
+Violent smash runestone 0.1%
+Magic steel 30%
+Golem steel gloves 30%
+Steel golem shield 5%
+Steel golem breastplate 5%
+Steel golem platelegs 5%
+Steel golem colossal two-handed sword 1%
+Steel golem titan battleaxe 1%
+Defense curl runestone 0.1%
+
+
+Naga:
+10000-15000 gold 30%
+Strong magic core 50%
+Powerful magic core 30%
+Naga scales 30%
+Naga emerald teeth 10%
+Naga whisker 5%
+Waterlord’s Treacherous Whirlwind Dagger of the Third Sea of the Beyond 5%
+Waterlord’s Incumbent Royal Shortsword of Violent Disintegration 5%
+Mystic Naga Water Shield of Merlin 1%
+Mystic Nagaian Dragon Geyser Wand 1%
+Mystic Nagaian Dragon Geyser Staff 1%
+Sleek Nagaian Dragon-Scaled Breastplate of the Third Sea of the Beyond 1%
+Sleek Nagaian Dragon-Scaled Platelegs of the Third Sea of the Beyond 1%
+Great Dragon Snake Tsuryiaia’s Horned Mystic Helmet 1%
+Orb of healing 1%
+Healing water runestone 0.1%
+Water-breath runestone 0.1%
+Water-breathing runestone 0.1%
+
+
+Sylven:
+10000-15000 gold 10%
+Powerful magic core 30%
+Mystic magic core 30%
+Magic iron weed 30%
+Power stone 10%
+Soul stone 10%
+Major rejuvenation potion 1%
+Greater healing potion 1%
+Sylven Iron Weed Whip of Everflowing Death 5%
+Enchanted Sylven Death Dagger of Decaying Life 5%
+Anti-Sylven Gloves of Nyell, Blessed by Nyeegi 5%
+Anti-Sylven Helmet of Nyell, Blessed by Nyeegi 5%
+Sylven Wooden Pendant of Loneliness 5%
+Ring of constitution 1%
+Ring of death 1%
+Life drain runestone 0.1%
+Soul transfer runestone 0.1%
+Mana transfer runestone 0.1%
+
+
+Cereberus:
+10000-15000 gold 30%
+Strong magic core 30%
+Powerful magic core 30%
+Mystic magic core 30%
+Cereberus diamond collar 30%
+Silver cereberus teeth 30%
+Cereberus claw 10%
+Demon key 10%
+Cereberus demon fur 30%
+Hell’s Gate Burning Demon Dagger of Pulsing Blood 5%
+Hell’s Gate Burning Demon Shortsword of Pulsing Blood 5%
+Hell’s Gate Flaming Battleaxe of Demon Fury 5%
+Hell’s Gate Demonbow, The Heartseeker 1%
+Hell’s Gate Burning Demon Whip 5%
+Hell’s Gate 3-Headed Animated Demon Fire-Breathing Shield 1%
+Hell’s Gate Inferno Cereberus Helmet of Undead Phantoms 5%
+Orb of demon oppression 1%
+Regrowth runestone 0.1%
+Undead invigoration runestone 0.1%
+
+
+Demon:
+10000-15000 gold 30%
+Powerful magic core 30%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon scythe 5%
+Demon dagger of hell’s core 5%
+Demon multifarious edged shortsword 5%
+Demon hellstaff 5%
+Demon soul wand 5%
+Demon writhing cloak of anguish 5%
+Demon robe 5%
+Demon demon shadow boots 5%
+Demon death guarding pendant of Zthulynnh 1%
+Ring of death 1%
+Ring of dark souls 1%
+Shadow melt runestone 0.1%
+
+
+Knight Captain, Blood-Red Ygritte:
+10000-15000 gold 50%
+Powerful magic core 75%
+Mystic magic core 50%
+Ygritte’s Blood-Red Plumed Helmet 10%
+Ygritte’s Blood-Red Guarding Breastplate 5%
+Ygritte’s Blood-Red Steadfast Platelegs 5%
+Ygritte’s Blood-Red Stainless Dagger 5%
+Ygritte’s Blood-Red Commanding Longsword 10%
+Ygritte’s Blood-Red Quick Boots 5%
+Ygritte’s Blood-Red Agile Gauntlets 5%
+Lightening sweep runestone 0.1%
+
+
+Twin-Headed Ogre:
+10000-15000 gold 30%
+Powerful magic core 30%
+Mystic magic core 30%
+Rotting flesh 30%
+Rotting ogre molars 10%
+Ring of great power 1%
+Potion of strength 5%
+Orb of power 5%
+Violent smash runestone 0.1%
+Enrage runestone 0.1%
+Mach punch runestone 0.1%
+Twin-headed Ogre’s Broad Belligerent Body Armor of Strength 5%
+Twin-headed Ogre’s Dubious Dual-Loin Cloth of Defiant Destruction 5%
+Twin-headed Ogre’s Twin Helmet of Discomfort and Unbalance 5%
+Twin-headed Ogre’s Ultimate Greatsword of Hefty Magnificence 5%
+Twin-headed Ogre’s Decapitating Halberd of Intense Monolithicity 5%
+Twin-headed Ogre’s Monumental Spear of Rage 1%
+Stocky Pendant of Gargantua 1%
+Ring of defense 1%
+Ring of the colossal 1%
+Dual-wielding expertise runestone 0.1%
+
+
+Armored Tree:
+10000-15000 gold 20%
+Powerful magic core 20%
+Mystic magic core 50%
+Entwood 30%
+Magical leaves 20%
+Titan entwood body armor 10%
+Titan entwood leg armor 10%
+Titan entwood great shield 5%
+Powerful Titan Entwood Great Staff of the Forest 5%
+Dynamic Titan Entwood Mystic Wand of the Forest 5%
+Great Shifting Titan Entwood Forest Dagger of Might 5%
+Great Shifting Titan Entwood Forest Longsword of Cleaving 5%
+Resonating Titan Entwood Battleaxe of the Beyond 5%
+Orb of power 1%
+Orb of shifting defense 1%
+Harden runestone 0.1%
+Regrowth runestone 0.1%
+
+
+A2
+Wizant:
+15000-30000 gold 30%
+Mystic magic core 30%
+Legendary magic core 30%
+Magical leaves 20%
+Wizent Mystic Wood Body Armor 10%
+Wizent Mystic Wood Leg Armor 10%
+Wizent Mystic Wood Great Shield 5%
+Dynamo Wizent Mystic Great Staff of the Hidden Forest 5%
+Dynamo Wizent Mystic Wood Wand of the Hidden Forest 5%
+Arcane Great Shifting Mystic Wizent Hidden Forest Dagger of Cosmic Ruin 5%
+Arcane Great Shifting Mystic Wizent Hidden Forest Longsword of Galactic Sorrow 5%
+Reverberating Mystic Wizent Battleaxe of Titanic Obliteration 5%
+Orb of power 1%
+Orb of shifting defense 1%
+Harden runestone 0.1%
+Regrowth runestone 0.1%
+Sprout runestone 0.1%
+
+
+Superior Masks:
+15000-30000 gold 10%
+Powerful magic core 20%
+White mask acid 10%
+Caustic Superior Mask Acid Helmet of the Ether 1%
+Supernatural Enchanted Superior Mask Acid Dagger of Relentless Agony of the Ether 0.1%
+Orb of defense 1%
+Acid exfoliation runestone 0.1%
+
+
+Gasilisk:
+15000-30000 gold 5%
+Powerful magic core 10%
+Demon gas 30%
+Gasilisk silk 30%
+Orb of death 1%
+Dissipation runestone 0.1%
+Invisiblate object runestone 0.1%
+Dissipate Gasilisk Body Armor of the Ether 5%
+Dissipate Gasilisk Leg Armor of the Ether 5%
+Dissipate Gasilisk Bubble Helmet of the Ether 5%
+Dissipate Gasilisk Invisiline Gloves of the Ether 1%
+Dissipate Gasilisk Intrepid Invisiline Dagger of the Ether 1%
+Dissipate Gasilisk Lifeless Invisiline Longsword of the Ether 1%
+Dissipate Gasilisk Invisiline Longbow of the Ether 1%
+Dissipate Gasilisk Sudden Death Invisiline Spear of the Ether 1%
+
+
+High Demon:
+15000-30000 gold 30%
+Powerful magic core 30%
+Mystic magic core 40%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+High demon scythe 5%
+Demon dagger of Hell’s Core 5%
+Demon multifarious edged shortsword 5%
+High demon hellstaff 5%
+High demon soul wand 5%
+Demon writhing cloak of anguish 5%
+Demon robe 5%
+Demon shadow boots 5%
+Demon death guarding pendant of Zthulynnh 1%
+Ring of death 1%
+Ring of dark souls %
+Shadow melt runestone 0.1%
+
+
+Mimic:
+15000-30000 gold 50%
+Mystic magic core 30%
+Legendary magic core 10%
+Mimic flesh 20%
+Mimic eye 10%
+Magical mimic gloves 10%
+Magical mimic boots 10%
+Magical mimic weapon 1%
+Orb of control 1%
+Imitate runestone 0.1%
+
+
+Ant:
+15000-30000 gold 10%
+Powerful magic core 30%
+Ant mandibles 30%
+Ant exoskeleton 20%
+Ant antennae 20%
+Mighty Ant Helmet of Durability 5%
+Might Ant Body Armor of Indestructability 5%
+Might Ant Leg Armor of Inconquerability 5%
+Ant Sandals of Speed 5%
+Ring of constitution 1%
+Ring of power 1%
+Ant skeleton shield 5%
+Enhanced Obdurate Ant Mandible Dagger of Gutting 1%
+Enhanced Obdurate Ant Leg Longsword of Disection 1%
+Master crafting runestone 0.1%
+
+
+A3
+Ice Elf:
+30000-50000 gold 30%
+Powerful magic core 50%
+Mystic magic core 50%
+Elf ears 10%
+Elf hair 1%
+Orb of silence 1%
+Orb of acute aim 1%
+Silent steps runestone 0.1%
+Cone of silence runestone 0.1%
+Ancient Arcane Ice Elf Frostbite Longbow of the Third Wind 5%
+Vehement Strangling Ice Elf Gloves of Gagging 5%
+Snow Floater Ice Elf Boots 5%
+Impervious Ice Elf Magical Ice-Scaled Light-Body Armor of Frost 5%
+Impervious Ice Elf Magical Ice-Scaled Light-Leg Armor of Frost 5%
+Elandrial Illusive Ice Elf Frozen Enchanted Helmet of the Third Wind 5%
+The Great Imputrescible Ice Elf Blizzard Dagger of the Third Wind 5%
+The Great Impetiginous Ice Elf Blizzard Longsword of the Third Wind 5%
+The Great Impermeable Ice Elf Grand Battleaxe of the Third Wind 5%
+Elandrial’s Incarnate Ice Elf Great Staff of Superfluous Malediction 5%
+Elandrial’s Indecorous Ice Elf Enchanted Wand of Pestilent Peril 5%
+Icestorm runestone 0.1%
+
+
+Giant:
+30000-50000 gold 40%
+Mystic magic core 40%
+Legendary magic core 20%
+Ring of great power 1%
+Potion of strength 5%
+Orb of great power 1%
+Violent smash runestone 0.1%
+Enrage runestone 0.1%
+Mach punch runestone 0.1%
+Ring of defense 1%
+Ring of the colossal 1%
+Inverse speed runestone 0.1%
+Giant muscle 30%
+Giant eye 5%
+Giant toenails 30%
+Giant’s Colossal Galacticus Two-Handed Sword of Gross Malevolence 5%
+Giant’s Colossal Titan Enchanted Bricked Shield of Impregnable Strength 5%
+Giant’s Colossal Boots of Girthy Breadth 5%
+Giant’s Colossal Steak Dagger of Eternal RIP 5%
+Giant’s Colossal Body Armor of the Beyond 5%
+Giant’s Colossal Leg Armor of the Beyond 5%
+
+
+Yeti:
+30000-50000 gold 40%
+Mystic magic core 30%
+Legendary magic core 30%
+Yeti fur 30%
+Yeti magical dung 30%
+Ring of power 1%
+Ring of cold 1%
+Orb of rage 1%
+Icestom runestone 0.1%
+Gygrututi’s Ice Pendant of Gnarled Snarls 5%
+Yeti snowball earrings 5%
+Yeti Super-Muscle Snow Longsword of the Crippling Cold 5%
+Yeti Super-Muscle Snow Dagger of Incorrigible Pointiness 5%
+Yeti’s Enchanted Hell-Yeah Halberd of Hiyah 5%
+Yeti’s Yeti-Fur Cannibalistic Boots of No Tears 5%
+Yeti’s Magical Snowball Cannon 5%
+
+
+Grand Telekinter:
+30000-50000 gold 50%
+Mystic magic core 75%
+Legendary magic core 50%
+Telekinetic essence 10%
+Telekinter head 30%
+Buzzing Grand Telekinter Slimy Magic Gloves 5%
+Living Magic Grand Telekinter Cape of the Beyond 1%
+Flowing Mystic Grand Telekinter Robe of Knowledge 5%
+Grand Telekinters Omniscient Boots of Divination 5%
+Awestriking Enchanted Grand Telekinter Powerful Buzzing Sentient Dagger of Cathartic Consternations of the Third Wind 5%
+Ruler’s authority runestone 0.1%
+Orb of telekinetic sight 1%
+Grand Telekinter’s Enchanted Constellation Pendant of Irreducible Perplexion 1%
+Ring of great mana 1%
+Ring of control 1%
+Ring of perception 1%
+
+
+CentipedeA3:
+30000-50000 gold 50%
+Mystic magic core 30%
+Centipede mandibles 50%
+Sword of centipede slaying 5%
+Sand shield 5%
+Sand burrowing rune 0.1%
+Centipede helm 5%
+Centipede segmented body armor 5%
+Centipede segmented leg armor 5%
+Bug guts 50%
+
+
+Demon Knight:
+30000-50000 gold 40%
+Mystic magic core 30%
+Legendary magic core 10%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon Knight’s Scythe of Blood Avarice 5%
+Demon Knight’s Dagger of Blood-Lust Blood 5%
+Demon Knight’s Longsword of Blood-Draining 5%
+Demon Knight’s Two-Handed Sword of Blood-Clotting 5%
+Demon Knight’s Battleaxe of Blood-Boiling 5%
+Demon Knight’s Vein-Whip of Blood-Dispersal 5%
+Demon Knight’s Amputating Halberd of Bloody-Geysering 5%
+Demon Knight’s Acupuncture Spear of Blood-Poking 5%
+Demon Knight’s Breastplate of Blood-Tattooing 5%
+Demon Knight’s Legplates of Blood-Contusions 5%
+Demon Knight’s Full-Helm of Blood Arithmetic 5%
+Demon Knight’s Boots of Blood-Burdening 5%
+Demon Knight’s Gloves of Blood-Sewage 5%
+Demon Knight Writhing Cloak of Anguish and Blood-Birth 5%
+Demon death guarding pendant of Zthulynnh 1%
+Ring of death 1%
+Ring of dark souls 1%
+Shadow melt runestone 0.1%
+
+
+Ant Queen:
+30000-50000 gold 50%
+Ant mandibles 30%
+Ant exoskeleton 20%
+Ant antennae 20%
+Mighty Ant Helmet of Durability 5%
+Mighty Ant Body Armor of Indestructability 5%
+Mighty Ant Leg Armor of Inconquerability 5%
+Ant Sandals of Speed 5%
+Unchained Mighty Ant Queen Pendant of Reborn of Life 1%
+Ring of constitution 1%
+Ring of power 1%
+Ant Skeleton Shield 5%
+Enhanced Obdurate Ant Leg Longsword of Dissection 1%
+Master crafting runestone 0.1%
+Summon ants runestone 0.1%
+
+
+A4
+Dark Elf:
+50000-75000 gold 30%
+Enchanted drowbark 30%
+Mystic magic core 30%
+Legendary magic core 30%
+Elf ears 10%
+Elf hair 1%
+Orb of silence 1%
+Orb of acute aim 1%
+Silent steps runestone 0.1%
+Cone of silence runestone 0.1%
+Stealth runestone 0.1%
+The Great Shadow Forest Dark Elf Longbow of Shadowcraft 5%
+The Great Shadow Forest Dark Elf Dagger of Shadowcraft 5%
+Vylandrial’s Death-Crimson Soul-Slicing Longsword of the Great Shadow Forest 5%
+Vylandrial’s Death-Crimson Soul-Slicing Shortsword of the Great Shadow Forest 5%
+Vylandrial’s Corrupt Possessed Demon Spear of Blood-Debt 5%
+Shadow Elf Enchanted Drowbark Shield 5%
+Shadow Elf Enchanted Drowbark Body Armor 5%
+Shadow Elf Enchanted Drowbark Leg Armor 5%
+Shadow Elf Boots of Containment 5%
+Shadow Elf Enchanted Dragonskin Shadow Gloves of Nimbleness 5%
+The Great Forest Shadow Elf Jeweled Enchanted Drowbark Mystic Tiara of the Shadowlord’s Blessing 1%
+Shadow arrow runestone 0.1%
+Shadow melt runestone 0.1%
+
+
+High Orc:
+50000-75000 gold 30%
+Mystic magic core 30%
+High orc flesh 30%
+High orc fang 20%
+Enrage runestone 0.1%
+High orc scimitar 5%
+High orc battleaxe 5%
+High orc longsword 5%
+High orc dagger 5%
+High orc spear 5%
+High orc two-handed sword 5%
+High orc dragon skin leg armor 5%
+High orc blessed dragon skin camouflaged body armor 5%
+High orc shield 5%
+High orc war pendant 5%
+Ring of destruction 1%
+Ring of hate 1%
+
+
+Sphinx:
+50000-75000 gold 50%
+Legendary magic core 50%
+Abernythian mystic metal 30%
+Pure mana essence 30%
+Orb of great power 1%
+Orb of intelligence 5%
+Orb of great intelligence 1%
+Death riddle runestone 0.1%
+Illusion runestone 0.1%
+Violent slash runestone 0.1%
+Ruby 10%
+Sapphire 10%
+Emerald 10%
+Diamond 5%
+Jade 10%
+Turquoise 10%
+Obsidian 10%
+Opal 10%
+Dragonstone 1%
+Magmastone 5%
+Abernythian Mystic Metal Headress of the Great Sphinx from the Beyond 5%
+Abernythian Mystic Metal Body Armor of the Beyond 1%
+Abernythian Mystic Metal Metal Leg Armor of the Beyond 1%
+
+
+Shread:
+50000-75000 gold 30%
+Mystic magic core 30%
+Concentrated dread essence 10%
+Sylvian darkness charm 30%
+Gaseous dark mana 5%
+Undead Ambient Mystic Cloak of Death 5%
+Shadowlord’s Unbridled Tyrantial Dagger of Chaos 1%
+Ring of dystopia 1%
+Sylvian leech runestone 0.1%
+
+
+Demon Aristocrat:
+50000-70000 gold 30%
+Mystic magic core 30%
+Legendary magic core 10%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon Aristocrat Royal Grand Scepter of the 7th Hell 5%
+Demon Aristocrat Royal Infernal Wand of the 7th Hell 5%
+Demon Aristocrat’s Arcane Cursed Earrings of the 7th Hell 5%
+Demon Aristocrat’s Sorcerer’s Cursed Pentagram Pendant of the 7th Hell 1%
+Demon Aristocrat’s Flowing Hexed Cape of Isangril 1%
+Demon Aristocrat Royal Ring of Power 1%
+Demon Aristocrat Royal Ring of Curses 1%
+Demon Aristocrat’s Royal Shortsword of Enchanted Fury 5%
+Demon Aristocrat’s Royal Longsword of Enchanted Destruction 5%
+Demon Aristocrat’s Royal Longbow of Abrasive Sovereignty 5%
+Demon Aristocrat’s Bludgeoning Battleaxe of Hok-Chur the Conqueror 1%
+Demon Aristocrat’s Hellbringer Two-Handed Sword of Infernal Dismemberment 5%
+Demon Aristocrat’s Enchanted Horned Dragon-Plated Helmet of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Body Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Leg Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Dragon Skin Boots of Hell-Walking 5%
+Demon Aristocrat’s Enchanted Dragon Skin Gloves of the High Demon King Baran 1%
+Shadow melt runestone 0.1%
+
+
+Death Knight:
+50000-75000 gold 30%
+Mystic magic core 30%
+Ring of recoil 1%
+Ring of death 1%
+Ring of regeneration 1%
+Essence of death 10%
+Death knight helmet 5%
+Death knight platebody 5%
+Death knight platelegs 5%
+Death knight sabatons 5%
+Death knight gauntlets 5%
+Death knight longsword 5%
+Death knight dagger 5%
+Death knight battleaxe 5%
+Death knight shield 5%
+Death knight spear 5%
+Death knight halberd 5%
+Shadow melt runestone 0.1%
+Sylvian leech runestone 0.1%
+
+
+A5
+Shaman:
+50000-75000 gold 50%
+Legendary magic core 50%
+Resonating Magic Great Staff of the Void 10%
+Resonating Magic Power Wand of the Void 5%
+The Great Magic Articulate Enchanted Shadow Demon Blessed Dagger of the Beyond 5%
+Intuitive Guarding Enchanted Shaman Spear of Invigoration 5%
+Intensely Enchanted Magical Dragon Skin Shaman Robe of Blessed Power from the Beyond %
+Magic Imbued Shaman Boots 5%
+Articulate Mystic Magic Imbued Dragon Skin Shaman Gloves of Great Energy from the Beyond 5%
+Shaman’s Mystic Magic Protected Cloak of Flowing Magic Time from the Beyond’s Third Great One 1%
+Orb of magic 1%
+Orb of great magic 1%
+Dragon skin 1%
+Dragon scales 1%
+Blindness runestone 0.1%
+Paralysis runestone 0.1%
+Ruler’s reach runestone 0.1%
+Realm of the Sorcerer runestone 0.1%
+Barrier runestone 0.1%
+Echoing call runestone 0.1%
+Enrage runestone 0.1%
+Hymn of the fire dragon runestone 0.1%
+Hymn of protection runestone 0.1%
+Hymn of blazing fire runestone 0.1%
+Hymn of agony runestone 0.1%
+Hymn of frenzy runestone 0.1%
+Hymn of slumber runestone 0.1%
+Hymn of lethargy runestone 0.1%
+Hymn of rage runestone 0.1%
+Hymn of strengthening runestone 0.1%
+Hymn of giants runestone 0.1%
+Hymn of combustion runestone 0.1%
+
+
+Arch Lich:
+75000-100000 gold 50%
+Legendary magic 50%
+Ring of great power 1%
+Ring of death 1%
+Ring of confusion 1%
+Ring of great intelligence 1%
+Orb of great power 1%
+Orb of great magic 1%
+Mystic Puzzle Burning Galaxy Dark Soul Pendant of the Grand Arch Lich Dominion’s Lesser Beyond 1%
+Mystic Arch Lich Earrings of the Grand Arch Lich Dominion’s Lesser Beyond Blessed by Isangril 1%
+The Grand Arch Lich Demon’s Great Staff of All-Seeing Dark Mana-Imbued Power from the Lesser Beyond 5%
+The Grand Arch Lich Demon’s Mystic Wand of All-Seeing Dark Mana Imbued Power from the Lesser Beyond 5%
+The Grand Arch Lich’s Masterful Dark Soul Armored Enchanted Robe of Overwhelming Power from the Lesser Beyond Blessed by Isangril 1%
+Spell-Casting Enchanted Living Death Cloak of the Grand Dark Lich’s Dominion’s Lesser Beyond 1%
+Arch Lich’s Dark Soul Imbued Grand Dragon Skin Gloves of Absolute Mana Control from the Lesser Beyond 1%
+Arch Lich’s Dark Soul Imbued Grand Dragon Skin Boots of Absolute Dexterity Control 1%
+Arch Lich’s Dark Soul Hidden Mystic Dragon Scale Dagger of the 7th Hell’s Forge from the Lesser Beyond 1%
+Shadow melt runestone 0.1%
+Sylvian leech runestone 0.1%
+Ruler’s reach runestone 0.1%
+Summon demons 0.1%
+Realm of the demons runestone 0.1%
+Darkness burst runestone 0.1%
+
+
+Demon General:
+75000-100000 gold 50%
+Mystic magic core 30%
+Legendary magic core 30%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon Aristocrat Royal Grand Scepter of the 7th Hell 5%
+Demon Aristocrat Royal Infernal Wand of the 7th Hell 5%
+Demon Aristocrat’s Arcane Cursed Earrings of the 7th Hell 5%
+Demon Aristocrat’s Sorcerer’s Cursed Pentagram Pendant of the 7th Hell 1%
+Demon Aristocrat’s Flowing Hexed Cape of Isangril 1%
+Demon Aristocrat Royal Ring of Power 1%
+Demon Aristocrat Royal Ring of Curses 1%
+Demon Aristocrat’s Royal Shortsword of Enchanted Fury 5%
+Demon Aristocrat’s Royal Longsword of Enchanted Destruction 5%
+Demon Aristocrat’s Royal Longbow of Abrasive Sovereignty 5%
+Demon Aristocrat’s Bludgeoning Battleaxe of Hok-Chur the Conqueror 1%
+Demon Aristocrat’s Hellbringer Two-Handed Sword of Infernal Dismemberment 5%
+Demon Aristocrat’s Enchanted Horned Dragon-Plated Helmet of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Body Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Leg Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Dragon Skin Boots of Hell-Walking 5%
+Demon Aristocrat’s Enchanted Dragon Skin Gloves of the High Demon King Baran 1%
+Shadow melt runestone 0.1%
+
+
+Statue:
+75000-100000 gold 10%
+Legendary magic core 10%
+Magical animated stone 30%
+Harden runestone 0.1%
+Regrowth runestone 0.1%
+
+
+The Overlord of the Lower Floors, Volkhan of Avarice:
+75000-100000 gold 100%
+Legendary magic core 100%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon Aristocrat Royal Grand Scepter of the 7th Hell 5%
+Demon Aristocrat Royal Infernal Wand of the 7th Hell 5%
+Demon Aristocrat’s Arcane Cursed Earrings of the 7th Hell 5%
+Demon Aristocrat’s Sorcerer’s Cursed Pentagram Pendant of the 7th Hell 1%
+Demon Aristocrat’s Flowing Hexed Cape of Isangril 1%
+Demon Aristocrat Royal Ring of Power 1%
+Demon Aristocrat Royal Ring of Curses 1%
+Demon Aristocrat’s Royal Shortsword of Enchanted Fury 5%
+Demon Aristocrat’s Royal Longsword of Enchanted Destruction 5%
+Demon Aristocrat’s Royal Longbow of Abrasive Sovereignty 5%
+Demon Aristocrat’s Bludgeoning Battleaxe of Hok-Chur the Conqueror 1%
+Demon Aristocrat’s Hellbringer Two-Handed Sword of Infernal Dismemberment 5%
+Demon Aristocrat’s Enchanted Horned Dragon-Plated Helmet of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Body Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Leg Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Dragon Skin Boots of Hell-Walking 5%
+Demon Aristocrat’s Enchanted Dragon Skin Gloves of the High Demon King Baran 1%
+Shadow melt runestone 0.1%
+The Overlord of the Lower Floors, Volkhan Avarice’s Dimension-Crossing Dark Soul Longbow of the Great Isangril’s Might from the Lesser Beyond 1%
+
+
+S1
+Helf:
+250000-500000 gold 30%
+Legendary magic core 30%
+Elf ears 10%
+Elf hair 1%
+Orb of silence 1%
+Orb of acute aim 1%
+Silent steps runestone 0.1%
+Cone of silence runestone 0.1%
+Stealth runestone 0.1%
+Hell arrows runestone 0.1%
+Hellwind runestone 0.1%
+Ring of hell 1%
+Ring of great dexterity 1%
+Ring of great intelligence 1%
+Aegis’ Corrupt Volcano Pendant of Erupting Magma and Malice 1%
+Aegis’ Deplorable Hell-Infused Power Earrings of the 7th Hell’s Restless Rage 1%
+Hecka Hot Helf Hood of Hellish Hubris 5%
+Helven Magmastone-Trimmed Dragonstone Enchanted Warlock Body Armor of the 7th Hell 1%
+Helven Magmastone-Trimmed Dragonstone Enchanted Warlock Leg Armor of the 7th Hell 1%
+Helven Magmastone-Trimmed Dragonskin Enchanted Warlock Sabatons of the 7th Hell 1%
+Helven Magmastone-Trimmed Dragonstone Enchanted Warlock Gauntlets of the 7th Hell 1%
+Aegis’ Volcano Enchanted Magmastone-Trimmed Dragonscale Hellbow of Conflagration from the 7th Hell 1%
+Helven Jeweled Enchanted Dragonscale-Magmastone Composite Strengthened Shield of Separate Dimensions from the 7th Hell 1%
+Aegis’ Helven Blessed Jeweled-Studded Enchanted Dragonscale-Magmastone Composite Hellforged Dagger of Unyielding Wrath of the 7th Hell 1%
+Aegis’ Helven Blessed Jeweled-Studded Enchanted Dragonscale-Magmastone Composite Hellforged Longsword of Unequaled Fury of the 7th Hell 1%
+Aegis’ Helven Blessed Jewel-Studded Enchanted Dragonscale-Magmastone Composite Hellforged Battleaxe of Unquenchable Bloodlust of the 7th Hell 1%
+The Scourge of Titans Hellforged Dragonscale Serrated Magmastone Enchanted-Jeweled Mystic Whip of Infernal Internal Bleeding of the Beyond’s Great Blacksmith Oaygah the Creator 1%
+
+
+Monolith Demon:
+250000-500000 gold 50%
+Legendary magic core 30%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Ring of death 1%
+Ring of destruction 1%
+Ring of great power 1%
+Orb of destruction 1%
+Shadow melt runestone 0.1%
+Violent smash 0.1%
+Enrage runestone 0.1%
+Summon demon runestone 0.1%
+The Grand Monolith Pendant of Hell’s Circle 1%
+
+
+Rock Giant:
+250000-500000 gold 50%
+Mystic magic core 30%
+Legendary magic core 50%
+Ring of great power 5%
+Ring of annihilation 1%
+Potion of great strength 5%
+Orb of great power 5%
+Violent smash runestone 0.1%
+Enrage runestone 0.1%
+Mach punch runestone 0.1%
+Ring of great defense 5%
+Ring of the colossal 1%
+Inverse speed runestone 0.1%
+Giant muscle 30%
+Giant eyes 5%
+Giant toenails 30%
+Magical rocks 30%
+Rock Giant’s Colossal Galacticus Two-Handed Sword of Gross Malevolence 5%
+Rock Giant’s Colossal Titan Enchanted Bricked Shield of Impregnable Strength 5%
+Enchanted Rock Giant’s Colossal Boots of Girthy Breadth 5%
+Rock Giant’s Colossal Steak Dagger of Eternal RIP 5%
+Rock Giant’s Colossal Body Armor of the Beyond 5%
+Rock Giant’s Colossal Leg Armor of the Beyond 5%
+
+
+Invisimimic:
+250000-500000 gold 30%
+Mystic magic core 10%
+Legendary magic core 50%
+Mimic flesh 20%
+Mimic eye 10%
+Magical mimic gloves 10%
+Magical mimic boots 10%
+Magical invisimimic weapon 1%
+Orb of control 1%
+Imitate runestone 0.1%
+Invisibility runestone 0.1%
+
+
+Razor-Clawed Briga:
+250000-500000 gold 30%
+Mystic magic core 75%
+Legendary magic core 50%
+Ring of power 1%
+Ring of the jungle 1%
+Ring of magical sight 1%
+Ring of effect-resistance 5%
+Orb of great dexterity 1%
+Jaguar claw 30%
+Jaguar hide 30%
+Stealth runestone 0.1%
+Silent steps runestone 0.1%
+Strike of silence runestone 0.1%
+Cone of silence runestone 0.1%
+Violent slash runestone 0.1%
+Aura of the jungle runestone 0.1%
+Ancient Mystic Jungle Jaguar Head Hood of the Beast 5%
+Ancient Mystic Jungle Jaguar Coat of the Beast 5%
+Ancient Mystic Jungle Jaguar Boots of Jungle Poison 5%
+The Beast’s Ancient Jungle Force Pendant of Ivania 5%
+Ancient Mystic Jungle Jaguar Coated Dragonscale Shield of Unrivaled Power 5%
+The Beast’s Jungle Jaguar Dragon Bow of Godly Smite 5%
+Crouching Jaguar, Hidden Dragon Dagger of the Other Dimension 5%
+Jaguar Talon Jungle Enchanted Longsword of Disconfigured Terror 5%
+The Beast’s Resplendent Enchanted Vine Whip of the Great Jungle 5%
+The Ancient Jungle Enchanted Chaos Great Staff of Ivania 5%
+The Ancient Jungle Enchanted Chaos Discord Wand of Ivania 5%
+The Beast’s Wild Chaos Jaguar Flowing Rage Cloak of Camouflage 5%
+Jaguar Jungle Earrings of Ivania 5%
+
+
+Baruka:
+250000-500000 gold 75%
+Legendary magic core 75%
+Elf ears 10%
+Elf hair 1%
+Orb of silence 1%
+Orb of acute aim 1%
+Silent steps runestone 0.1%
+Cone of silence runestone 0.1%
+Ancient Arcane Ice Elf Frostbite Longbow of the Third Wind 5%
+Vehement Strangling Ice Elf Gloves of Gagging 5%
+Snow Floater Ice Elf Boots 5%
+Impervious Ice Elf Magical Ice-Scaled Light-Body Armor of Frost 5%
+Impervious Ice Elf Magical Ice-Scaled Light-Leg Armor of Frost 5%
+Elandrial Illusive Ice Elf Frozen Enchanted Helmet of the Third Wind 5%
+The Great Imputrescible Ice Elf Blizzard Dagger of the Third Wind 5%
+The Great Impetiginous Ice Elf Blizzard Longsword of the Third Wind 5%
+The Great Impermeable Ice Elf Grand Battleaxe of the Third Wind 5%
+Elandrial’s Incarnate Ice Elf Great Staff of Superfluous Malediction 5%
+Elandrial’s Indecorous Ice Elf Enchanted Wand of Pestilent Peril 5%
+Icestorm runestone 0.1%
+Baruka’s Legendary Enchanted Ice Dagger, Tanto 20%
+Baruka’s Legendary Enchanted Ice Bow, Nunbola 20%
+
+
+The Guide of Souls, Metus:
+250000-500000 gold 75%
+Legendary magic core 75%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon Aristocrat Royal Grand Scepter of the 7th Hell 5%
+Demon Aristocrat Royal Infernal Wand of the 7th Hell 5%
+Demon Aristocrat’s Arcane Cursed Earrings of the 7th Hell 5%
+Demon Aristocrat’s Sorcerer’s Cursed Pentagram Pendant of the 7th Hell 1%
+Demon Aristocrat’s Flowing Hexed Cape of Isangril 1%
+Demon Aristocrat Royal Ring of Power 1%
+Demon Aristocrat Royal Ring of Curses 1%
+Demon Aristocrat’s Royal Shortsword of Enchanted Fury 5%
+Demon Aristocrat’s Royal Longsword of Enchanted Destruction 5%
+Demon Aristocrat’s Royal Longbow of Abrasive Sovereignty 5%
+Demon Aristocrat’s Bludgeoning Battleaxe of Hok-Chur the Conqueror 1%
+Demon Aristocrat’s Hellbringer Two-Handed Sword of Infernal Dismemberment 5%
+Demon Aristocrat’s Enchanted Horned Dragon-Plated Helmet of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Body Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Leg Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Dragon Skin Boots of Hell-Walking 5%
+Demon Aristocrat’s Enchanted Dragon Skin Gloves of the High Demon King Baran 1%
+Shadow melt runestone 0.1%
+The Guide of Souls, Metus World-Enveloping Disastrous Soul-Crushing Enchanted Longsword of the Great Isangril’s Rage from the Lesser Beyond 1%
+
+
+Sky Dragon Kaisellin:
+250000-500000 gold 75%
+Legendary magic core 75%
+Dragon scales 50%
+Dragon skin 30%
+Dragon talon 30%
+Dragon teeth 30%
+Dragonstone 30%
+Ruby 50%
+Emerald 100%
+Sapphire 50%
+Diamond 30%
+Opal 30%
+Turquoise 50%
+Obsidian 75%
+Magmastone 30%
+Abernythian mystic metal 30%
+Silver 50%
+Gold 50%
+Platinum 30%
+Ring of great power 10%
+Ring of great dexterity 10%
+Ring of great intelligence 10%
+Ring of the dragon 10%
+Orb of the dragon flame 5%
+Dragon breath runestone 0.1%
+Flight runestone 0.1%
+Healing water runestone 0.1%
+Enchant runestone 0.1%
+Kaisellin’s Dragon Pendant of Many Jewels 5%
+Kaisellin’s Dragon Scale Shield of Relief 5%
+Kaisellin Dragonbow of Flight 5%
+Kaisellin Infinity Stone Dagger of the Beyond 1%
+Kaisellin Dragon Scale Halberd of the Greater Beyond 1%
+Kaisellin Dragon Scale Rainbow Jeweled Enchanted Flame Body Armor of the Great Beyond 1%
+Kaisellin Dragon Scale Rainbow Jeweled Enchanted Flame Leg Armor of the Great Beyond 1%
+Dragonskin Enchanted Boots 5%
+Dragonskin Enchanted Gloves 5%
+
+
+S2
+Black-Shadow Razan:
+300000-700000 gold 75%
+Mystic magic core 75%
+Legendary magic core 50%
+Ring of power 1%
+Ring of the jungle 1%
+Ring of magical sight 1%
+Ring of effect-resistance 5%
+Orb of great dexterity 1%
+Jaguar claw 30%
+Jaguar hide 30%
+Stealth runestone 0.1%
+Silent steps runestone 0.1%
+Strike of silence runestone 0.1%
+Cone of silence runestone 0.1%
+Violent slash runestone 0.1%
+Aura of the jungle runestone 0.1%
+Ancient Mystic Jungle Jaguar Head Hood of the Beast 5%
+Ancient Mystic Jungle Jaguar Coat of the Beast 5%
+Ancient Mystic Jungle Jaguar Boots of Jungle Poison 5%
+The Beast’s Ancient Jungle Force Pendant of Ivania 5%
+Ancient Mystic Jungle Jaguar Coated Dragonscale Shield of Unrivaled Power 5%
+The Beast’s Jungle Jaguar Dragon Bow of Godly Smite 5%
+Crouching Jaguar, Hidden Dragon Dagger of the Other Dimension 5%
+Jaguar Talon Jungle Enchanted Longsword of Disconfigured Terror 5%
+The Beast’s Resplendent Enchanted Vine Whip of the Great Jungle 5%
+The Ancient Jungle Enchanted Chaos Great Staff of Ivania 5%
+The Ancient Jungle Enchanted Chaos Discord Wand of Ivania 5%
+The Beast’s Wild Chaos Jaguar Flowing Rage Cloak of Camouflage 5%
+Jaguar Jungle Earrings of Ivania 5%
+
+
+Demon King Baran:
+300000-700000 gold 100%
+Legendary magic core 100%
+Demon soul 30%
+Demon blood 30%
+Concentrated demon blood shadow 10%
+Demon Aristocrat Royal Grand Scepter of the 7th Hell 5%
+Demon Aristocrat Royal Infernal Wand of the 7th Hell 5%
+Demon Aristocrat’s Arcane Cursed Earrings of the 7th Hell 5%
+Demon Aristocrat’s Sorcerer’s Cursed Pentagram Pendant of the 7th Hell 1%
+Demon Aristocrat’s Flowing Hexed Cape of Isangril 1%
+Demon Aristocrat Royal Ring of Power 1%
+Demon Aristocrat Royal Ring of Curses 1%
+Demon Aristocrat’s Royal Shortsword of Enchanted Fury 5%
+Demon Aristocrat’s Royal Longsword of Enchanted Destruction 5%
+Demon Aristocrat’s Royal Longbow of Abrasive Sovereignty 5%
+Demon Aristocrat’s Bludgeoning Battleaxe of Hok-Chur the Conqueror 1%
+Demon Aristocrat’s Hellbringer Two-Handed Sword of Infernal Dismemberment 5%
+Demon Aristocrat’s Enchanted Horned Dragon-Plated Helmet of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Body Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Engraved Dragon-Plated Battle Leg Armor of the 7th Hell 1%
+Demon Aristocrat’s Enchanted Dragon Skin Boots of Hell-Walking 5%
+Demon Aristocrat’s Enchanted Dragon Skin Gloves of the High Demon King Baran 1%
+Shadow melt runestone 0.1%
+The Demon King Baran’s Controlling Pendant Over the 7th Hell 5%
+Electric slash runestone 0.1%
+The Demon King Baran’s Consummate Jeweled Dragonstone Crown of Absolute Dominion 5%
+The Demon King Baran’s Abernythian Enchanted Sky Piercing Longsword of the 7th Hell 5%
+The Demon King Baran’s Abernythian Enchanted Sky Gutting Dagger of the 7th Hell 5%
+
+
+Beru:
+300000-750000 gold 100%
+Legendary magic core 100%
+Ant mandibles 30%
+Ant exoskeleton 20%
+Ant antennae 20%
+Mighty Ant Helmet of Durability 5%
+Mighty Ant Body Armor of Indestructability 5%
+Mighty Ant Leg Armor of Inconquerability 5%
+Ant Sandals of Speed 5%
+Unchained Mighty Ant Queen Pendant of Reborn of Life 1%
+Ring of constitution 1%
+Ring of power 1%
+Ant Skeleton Shield 5%
+Enhanced Obdurate Ant Leg Longsword of Dissection 1%
+Master crafting runestone 0.1%
+Desire of the weak runestone 0.1%
+
+
+Boss Giant:
+300000-700000 gold 100%
+Legendary magic core 100%
+Ring of great power 5%
+Ring of annihilation 1%
+Potion of great strength 5%
+Orb of great power 5%
+Violent smash runestone 0.1%
+Enrage runestone 0.1%
+Mach punch runestone 0.1%
+Ring of great defense 5%
+Ring of the colossal 1%
+Inverse speed runestone 0.1%
+Giant muscle 30%
+Giant eyes 5%
+Giant toenails 30%
+Magic rock 30%
+Rock Giant’s Colossal Galacticus Two-Handed Sword of Gross Malevolence 5%
+Rock Giant’s Colossal Titan Enchanted Bricked Shield of Impregnable Strength 5%
+Enchanted Rock Giant’s Colossal Boots of Girthy Breadth 5%
+Rock Giant’s Colossal Steak Dagger of Eternal RIP 5%
+Rock Giant’s Colossal Body Armor of the Beyond 5%
+Rock Giant’s Colossal Leg Armor of the Beyond 5%
+
+
+S3
+Statue of God:
+500000-1000000 gold 50%
+Legendary magic core 100%
+Magical animated stone 30%
+Harden runestone 0.1%
+Regrowth runestone 0.1%
+Ray of hell runestone 0.1%
+Ring of the gods 5%
+Pendant of the gods 5%
+
+
+CentipedeS3:
+500000-1000000 gold 50%
+Legendary magic core 100%
+Centipede mandibles 50%
+Sword of centipede slaying 5%
+Sand shield 5%
+Sand burrowing rune 0.1%
+Centipede helm 5%
+Centipede segmented body armor 5%
+Centipede segmented leg armor 5%
+Bug guts 50%
+Conqueror of Penalties Pendant 5%
+
+
+S5
+The Architect:
+Box of Need 100%
+Note 100%

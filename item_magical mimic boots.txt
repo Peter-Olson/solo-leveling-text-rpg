@@ -1,0 +1,12 @@
+﻿Type: boots
+Rank: A2
+Defense: 244
+Effects: none
+BonusStrength: 0
+BonusAgility: 23
+BonusSense: 18
+BonusVitality: 15
+BonusIntelligence: 0
+BonusHP: 15
+BonusMP: 10
+Description: 

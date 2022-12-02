@@ -1,0 +1,5 @@
+﻿Type: dagger
+Rank: E2
+Attack: fastest
+Speed: none
+Effects: 

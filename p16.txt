@@ -1,0 +1,13 @@
+Eerie tendrils of dark energy extend from its sleeves, where the hands should be.\n
+You grimly realize you can’t see them clearly, due to a quickly overtaking darkness.\n
+The air around you gets heavy, reeking of rot. You’re having difficulty getting it into your lungs.\n\n
+The creature grins, seeing you struggle and lose composure.\n\n
+It raises one of its cloaked appendages higher, and a stingingly bright, orange glow\n
+starts consuming your field of view, seemingly in synergy with the darkness.\n
+You can’t focus. You can’t see the mobs.\n\n
+“Goyohan Jeonsa!” You attempt to gather your energy, but nothing comes forth.\n
+The air seems dense and is sizzling in contact with your skin. The taste of metal\n
+makes your mouth fill with bile, and you clench your teeth, still unable to properly fill your lungs.
+@@END
+0,1
+<continue>

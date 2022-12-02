@@ -1,0 +1,13 @@
+﻿Type: club
+Rank: C3
+Attack: 35
+Speed: normal
+Effects: none
+BonusStrength: 11
+BonusAgility: 0
+BonusSense: 7
+BonusVitality: 10
+BonusIntelligence: 0
+BonusHP: 10
+BonusMP: 7
+Description: 

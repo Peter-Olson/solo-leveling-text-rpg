@@ -1,0 +1,12 @@
+﻿Type: tank
+Rank: C4
+Attack: 139
+Defense: 70
+HP: 931
+MP: 367
+Strength: 43
+Agility: 12
+Sense: 21
+Vitality: 129
+Intelligence: 20
+Description: 

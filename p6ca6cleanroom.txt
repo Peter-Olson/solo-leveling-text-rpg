@@ -1,0 +1,7 @@
+You decide to use the newly-obtained crumb of free time to de-clutter your room.\n
+Picking up a third un-paired sock off the floor, you realize the futility of this exercise.\n\n
+“There’s just too much to clean up efficiently, even given an hour of free time.” - you think to yourself,\n
+dropping the socks back down, and looking around the room, as they land in an off-colored pile.
+@@END
+7,9
+<continue>

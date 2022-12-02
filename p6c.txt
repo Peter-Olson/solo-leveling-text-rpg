@@ -1,0 +1,18 @@
+Unwashed clothes litter the floor, you should probably take care of that.\n
+Your backpack, gaping open, as if hungry for the notebooks you usually feed\n
+it sits next to the desk. Some of the previously mentioned notebooks lay open\n
+upon the desk, below a computer screen. You hear the hum of your PC and groan\n
+in frustration. You really should remember to turn it off, before going to bed.\n
+The electricity bill appears before your mind’s eye, longer than usual. You disapprove.\n\n
+Considering that, you don’t really recall doing your homework the evening before,\n
+or anything on the computer, for that matter. You must’ve been really out of it.\n\n
+A glint from the opposite wall catches your eye, it’s your father’s shortsword.\n
+One of the very few pieces of equipment he didn’t take with him into that dungeon\n
+about… How long has it been now?\n\n
+You take out your phone to look at the date. You know it’s tuesday, but the more\n
+nuanced intricacies of the calendar elude you at the moment. Your stare glides lazily\n
+past the system clock..\n\n
+It reads “7:35”
+@@END
+7,9
+<continue>

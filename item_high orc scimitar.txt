@@ -1,0 +1,13 @@
+﻿Type: scimitar
+Rank: A4
+Attack: 73
+Speed: fast
+Effects: none
+BonusStrength: 20
+BonusAgility: 25
+BonusSense: 20
+BonusVitality: 0
+BonusIntelligence: 20
+BonusHP: 18
+BonusMP: 0
+Description: 

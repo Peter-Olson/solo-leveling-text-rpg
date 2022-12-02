@@ -1,0 +1,24 @@
+You open your computer and go to hunterjobs.com. There are more postings today, which is good…\n\n
+\t1-\tHunter’s Guild -- Rank B or higher MAGE needed for rank A gate -- 20m won, cores, drops\n
+\t2-\tChangsega Guild -- @!@! recruiting Rank C or higher healers @!@! pm pls\n
+\t3-\tQT Guild -- LF porter ASAP! call at 002-QT-GUILD -- 500,000 won\n
+\t4-\tBaekho Guild -- need 2 more for B-rank dungeon, D-rank or higher; 1m + drops\n
+\t5-\tJoyong Guild -- LF fill-ins (3) D-rank dungeon -- 300,000 won\n
+\t6-\tHunter’s Guild -- Recruiting Miners for B-rank+ dungeon raids -- (see details)\n
+\t7-\tMyunsung Guild -- S> rank B gate on the corner of Knight Street and Main -- contact\n
+\t\t\tMyujin Soo-Kim 002-MYUNSUN\n
+\t8-\tAssociation Request -- C-rank gate at 14:11 near the airport; looking for 5 more Wed@6:\n
+\t\t\t5m won, cores\n\n
+Do you want to take one of these jobs? (Enter 1-8, or ‘exit’)
+@@END
+7,9
+<textbox>
+choose,pick,select,|1,one,first,top
+choose,pick,select,|2,two,second,Chansega
+choose,pick,select,|3,three,third,QT
+choose,pick,select,|4,four,fourth,Baekho
+choose,pick,select,|5,five,fifth,Joyong
+choose,pick,select,|6,six,sixth
+choose,pick,select,|7,seven,seventh,Myunsung
+choose,pick,select,|8,eight,eighth,Association,last,bottom
+leave,escape,decline,refuse,no,none,nah,|exit,quit,offers,jobs,gates,guilds,

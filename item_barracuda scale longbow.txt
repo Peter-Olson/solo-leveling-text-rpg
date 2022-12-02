@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: D4
+Attack: 27
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 9
+BonusSense: 8
+BonusVitality: 0
+BonusIntelligence: 7
+BonusHP: 0
+BonusMP: 0
+Description: 

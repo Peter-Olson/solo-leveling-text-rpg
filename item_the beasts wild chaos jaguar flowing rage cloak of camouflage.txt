@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: S1
+Defense: 972
+Effects: none
+BonusStrength: 18
+BonusAgility: 106
+BonusSense: 81
+BonusVitality: 68
+BonusIntelligence: 93
+BonusHP: 18
+BonusMP: 81
+Description: 

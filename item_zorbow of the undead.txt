@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: D5
+Attack: 36
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 8
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

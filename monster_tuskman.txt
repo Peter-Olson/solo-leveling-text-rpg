@@ -1,0 +1,12 @@
+﻿Type: fighter
+Rank: D3
+Attack: 22
+Defense: 5
+HP: 213
+MP: 99
+Strength: 35
+Agility: 35
+Sense: 24
+Vitality: 31
+Intelligence: 27
+Description: 

@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: E3
+Effects: HasNightVision:true
+Duration: 30 minutes
+Description: 

@@ -1,0 +1,13 @@
+Jin-Ah really keeps you going. The funds your mom had stashed are running low,\n
+and it doesn’t seem like she’ll be waking up anytime soon, so it’s up to you to\n
+keep the lights on and provide for your sister and yourself.\n\n
+You remember the mortgage is due soon. You’re not pleased.\n\n
+“Hey, Oppa! Don’t forget to breathe out!” You realize you’ve been holding your\n
+breath for a while. Jin-Ah playfully shakes you out of the web of worries you’ve\n
+found yourself trapped in yet again.\n\n
+The half-smile on your face widens, your dreary expression fades. You give your\n
+sister a small, but honest laugh, and she skips away satisfied.\n\n
+You go back to scrubbing dishes.
+@@END
+7,9
+<continue>

@@ -1,0 +1,4 @@
+Type: orb
+Rank: A1
+Effects: ReductionMagicMod:2.0,ReductionFireMod:2.0,AttackMod:1.5
+Description: 

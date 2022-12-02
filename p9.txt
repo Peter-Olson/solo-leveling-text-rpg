@@ -1,0 +1,12 @@
+You take a quick, cautious look at what’s around. The vast marsh that surrounds you is thick with\n
+partially-congealed blood and various, unidentifiable bundles of viscera. You shift your weight,\n
+as you take in the actions of your enemies.\n\n
+While the two scaled-mammoths saddled with forest elves on your left are approaching with bloodlust\n
+in their glossy eyes, the zorcs you chucked that hellboar at on your right flank are slowly, but\n
+surely getting back up on their feet. Can’t say the same about the hellboar itself, as you already\n
+smashed its skull very thoroughly. That’s a plus.\n\n
+You look back to the elves, your keen eyes clearly identifying the boss, a fair distance\n
+behind them. Now’s the proper time to strike.
+@@END
+0,1
+<continue>

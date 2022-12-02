@@ -1,0 +1,12 @@
+﻿Type: archer
+Rank: C3
+Attack: 73
+Defense: 17
+HP: 750
+MP: 829
+Strength: 48
+Agility: 66
+Sense: 51
+Vitality: 34
+Intelligence: 53
+Description: 

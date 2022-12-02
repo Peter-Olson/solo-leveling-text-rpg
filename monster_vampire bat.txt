@@ -1,0 +1,12 @@
+﻿Type: normal
+Rank: E4
+Attack: 4
+Defense: 1
+HP: 33
+MP: 40
+Strength: 18
+Agility: 18
+Sense: 19
+Vitality: 16
+Intelligence: 18
+Description: 

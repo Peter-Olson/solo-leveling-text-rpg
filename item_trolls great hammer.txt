@@ -1,0 +1,13 @@
+﻿Type: hammer
+Rank: B2
+Attack: 75
+Speed: slowest
+Effects: none
+BonusStrength: 0
+BonusAgility: 3
+BonusSense: 5
+BonusVitality: 17
+BonusIntelligence: 0
+BonusHP: 17
+BonusMP: 0
+Description: 

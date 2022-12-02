@@ -1,0 +1,9 @@
+You look at the computer screen again, trying to decide if you should keep browsing\n
+hunterjobs.com, or do something else entirely.\n\n
+What do you do?
+@@END
+7,9
+Refresh posting site
+Leave room
+Observe room
+Examine self

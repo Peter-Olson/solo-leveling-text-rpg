@@ -1,0 +1,12 @@
+﻿Type: normal
+Rank: C1
+Attack: 26
+Defense: 16
+HP: 288
+MP: 261
+Strength: 27
+Agility: 24
+Sense: 33
+Vitality: 31
+Intelligence: 31
+Description: 

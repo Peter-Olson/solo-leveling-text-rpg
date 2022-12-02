@@ -1,0 +1,5 @@
+﻿Type: whip
+Rank: E5
+Attack: fastest
+Speed: none
+Effects: 

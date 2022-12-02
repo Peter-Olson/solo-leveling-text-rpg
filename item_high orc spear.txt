@@ -1,0 +1,13 @@
+﻿Type: spear
+Rank: A4
+Attack: 113
+Speed: slow
+Effects: none
+BonusStrength: 21
+BonusAgility: 20
+BonusSense: 8
+BonusVitality: 20
+BonusIntelligence: 0
+BonusHP: 20
+BonusMP: 13
+Description: 

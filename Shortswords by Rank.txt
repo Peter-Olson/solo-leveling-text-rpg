@@ -1,0 +1,36 @@
+﻿Woodboar sword E4
+Ivory Shortsword E5
+Orc shortsword D1
+Gnomestone Shortsword D1
+Hobgoblin shortsword C1
+Bronze Shortsword C2
+Iron Shortsword C2
+Silver Shortsword C2
+Gold Shortsword C2
+Steel Shortsword C2
+Jade Shortsword C2
+Obsidian Shortsword C2
+Platinum Shortsword C2
+Mammoth tusk shortsword C3
+Magma Rock Shortsword C3
+Enchanted singing shortsword C4
+Enchanted Obsidian Shortsword C4
+Enchanted Jade Shortsword C4
+Jagged Merscale Shortsword of Pain C5
+Tarantzilla Spider Leg Shortsword C5
+Elven Mystic Forest Shortsword of the Leaf B1
+Cobra scaled shining-poisoned shortsword B1
+Mystic Stinging Hyper Poison Basilisk Shortsword of Blood-Curdling B3
+Magic Iron Shortsword B3
+Dragonstone Shortsword B3
+Enchanted Dragonstone Shortsword B3
+Enchanted Magmastone Shortsword B3
+Waterlord’s Incumbent Royal Shortsword of Violent Disintegration A1
+Hell’s Gate Burning Demon Shortsword of Pulsing Blood A1
+Demon multifarious edged shortsword A1
+Magic Steel Shortsword A1
+Demon multifarious edged shortsword A2
+Vylandrial’s Death-Crimson Soul Slicing Shortsword of the Great Shadow Forest A4
+Demon Aristocrat’s Royal Shortsword of Enchanted Fury A4
+Magmastone Shortsword A4
+Abernythian Mystic Metal Shortsword A4

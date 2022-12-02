@@ -1,0 +1,5 @@
+﻿Type: wand
+Rank: E4
+Attack: fast
+Speed: none
+Effects: 

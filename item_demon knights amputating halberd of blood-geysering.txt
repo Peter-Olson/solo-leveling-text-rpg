@@ -1,0 +1,13 @@
+﻿Type: halberd
+Rank: A3
+Attack: 214
+Speed: slowest
+Effects: none
+BonusStrength: 48
+BonusAgility: 35
+BonusSense: 32
+BonusVitality: 0
+BonusIntelligence: 16
+BonusHP: 41
+BonusMP: 0
+Description: 

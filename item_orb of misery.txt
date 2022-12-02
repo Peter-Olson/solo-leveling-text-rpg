@@ -1,0 +1,4 @@
+Type: orb
+Rank: B4
+Effects: AttackMod:2.0,DefenseMod:2.0,StrengthMod:1.5,AgilityMod:1.5,SenseMod:1.5,VitalityMod:0.5,IntelligenceMod:1.5,HPMod:0.5,ReputationMod:0.1,LuckMod:0.5,RegenerationMod:0.1
+Description: 

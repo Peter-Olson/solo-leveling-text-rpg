@@ -1,0 +1,13 @@
+﻿Type: battleaxe
+Rank: S1
+Attack: 1440
+Speed: slowest
+Effects: none
+BonusStrength: 291
+BonusAgility: 145
+BonusSense: 208
+BonusVitality: 0
+BonusIntelligence: 208
+BonusHP: 249
+BonusMP: 187
+Description: 

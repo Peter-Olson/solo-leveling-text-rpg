@@ -1,0 +1,8 @@
+You stand up and grab your backpack and make your way to the door. Might as well try and\n
+get there on time for once. As you swing into the kitchen, you see Jin-Ah sitting on a chair,\n
+happily drinking some banana milk.\n\n
+“Have a good day at school, Oppa!” she squeals out. You smile at her and\n
+wave your hand as you step out the door.
+@@END
+7,9
+<continue>

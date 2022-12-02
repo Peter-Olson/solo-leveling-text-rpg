@@ -1,0 +1,13 @@
+﻿Type: battleaxe
+Rank: B3
+Attack: 140
+Speed: slowest
+Effects: none
+BonusStrength: 0
+BonusAgility: 15
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 21
+BonusHP: 25
+BonusMP: 19
+Description: 

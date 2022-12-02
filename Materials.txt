@@ -1,0 +1,201 @@
+﻿Abernythian mystic metal A4,S1
+Abernythian Stone A4
+Ant antennae A2,A3,S2
+Ant exoskeleton A2,A3,S2
+Ant mandibles A2,A3,S2
+Banana E2
+Barracuda eye D4
+Barracuda fin D4
+Barracuda scales D4
+Barracuda teeth D4
+Basilisk fang B3
+Basilisk scales B3
+Bat blood E4
+Bat fangs E1,E4
+Bat hide E1,E4
+Bat wings E1,E4
+Bee wings D1
+Bill D1
+Blue jelly E3
+Bronze C2
+Bug guts E1,D1,C3
+Centipede mandibles C3,A3,S3
+Cereberus claw A1
+Cereberus demon fur A1
+Cereberus diamond collar A1
+Clammer shell D2
+Clam tongue D2
+Cobra scales B1
+Cobra tongue B1
+Concentrated cobra poison B1
+Concentrated demon blood shadow A1,A2,A3,A4,A5,S1,S2
+Concentrated dread essence B4,A4
+Concentrated hyper-poison B3
+Concentrated mervenom C4,C5
+Concentrated poison E2,D1,D3
+Concentrated super-poison E5
+Demon blood E5,B4,A1,A2,A3,A4,A5,S1,S2
+Demon gas A2
+Demon soul A1,A2,A3,A4,A5,S1,S2
+Demon tentacle B4
+Diamond E5,B1,C1,C2,A1,A4,S1
+Dragon Scales C2,A5,S1
+Dragon Skin A5,S1
+Dragonstone B1,A1,A4,S1
+Dragon talon S1
+Dragon teeth S1
+Droolung poisonous tongue E5
+Elf ears B1,A3,A4,S1
+Elf hair B1,A3,A4,S1
+Emblem of darkness C2
+Emerald E5,C1,C2,B1,A1,A4,S1
+Enchanted diamond C4
+Enchanted dragonstone C4
+Enchanted drowbark A4
+Enchanted emerald C4
+Enchanted jade C4
+Enchanted magmastone C4
+Enchanted moonstone C4
+Enchanted obsidian C4
+Enchanted opal C4
+Enchanted ruby C4
+Enchanted sapphire C4
+Enchanted turquoise C4
+Entwood B3,A1,A2
+Essence of darkness C2
+Essence of death A4
+Essence of undead D3,D5
+Eyeball D3,D5
+Frigate timberock C4
+Frog legs D3
+Fur E4
+Gaseous dark mana B4,A4
+Gasilisk silk A2
+Giant eye A3,S1,S2
+Giant muscle A3,S1,S2
+Giant toenails A3,S1,S2
+Gnat wings D1
+Gnomestone D1
+Goblin gruel jelly D1,D2
+Gold C2,S1
+Gold teeth D1,D2
+Green jelly E2
+High orc fang A4
+High orc flesh A4
+Hobgoblin heart C1
+Hobgoblin horns C1
+Honey D1
+Horseman hide C3
+Horseshoe C3
+Horsetail C3
+Ice bear claws B3
+Ice bear fang B3
+Ice bear meat B3
+Iron C2
+Ivory E5
+Jackal claws D2
+Jackal hide D2
+Jade C2,B1,A1,A4
+Jaguar claw S1,S2
+Jaguar hide S1,S2
+Jawleaf E5
+Jellyhide E5
+Kobold fang E3,D5
+Kobold hide E3,D5
+Kobold tail E3,D5
+Legendary magic core S1,S2,S3,S4,S5
+Lizard tail C1
+Lizard teeth C1
+Lung E5,E2
+Lungwood E2
+Magical animated stone A5,S3
+Magical lava C3
+Magical leaves B3,A1,A2
+Magic dirt D4
+Magic iron B1,A1
+Magic iron weed A1
+Magic paste E3,E2
+Magic pumpkin B2
+Magic rock C1,B1,A1,S1
+Magic silk C3,B4,B2
+Magic steel A1
+Magic string C4
+Magic vine D1
+Magma rock C3
+Magmastone A4,S1
+Mammoth fur C3
+Mammoth meat C3
+Mammoth tusk C3
+Mandibles E1
+Medium magic core D1,D2,D3,D4,D5
+Mermaid hair C5
+Merscales C4,C5
+Mersnake fangs C4
+Mersnake guts C4
+Mimic eye A2,S1
+Mimic flesh A2,S1
+Minor magic core E1,E2,E3,E4,E5
+Molten lava C3
+Monkey tail E2
+Morphstone C4
+Mystic magic core A1,A2,A3,A4,A5
+Naga emerald teeth A1
+Naga scales A1
+Naga whisker A1
+Obsidian C2,B1,A1,A4,S1
+Opal B1,A1,A4,S1
+Pearl D2
+Platinum C2,S1
+Plush puppet C4
+Poison scales E5
+Powerful magic core B1,B2,B3,B4,B5
+Powerstone A1
+Puppetter buttons C4
+Pure mana essence A4
+Red-cap D2
+Rope E4
+Rotten flesh D1,D3,D5,C1,B1,B5,A1
+Rotting ogre molars B1,A1
+Rotting troll molars B2
+Ruby E5,C1,C2,B1,A1,A4,S1
+Sapphire C1,C2,B1,A1,A4,S1
+Shadow horse B2
+Silk D2,D1
+Silver C2,S1
+Silver cereberus teeth A1
+Soul stone A1
+Spider eye E2
+Spider leg E2
+Spider stinger E2
+Spider webbing E2
+Steel C2
+Steel teeth E3,E5,D3,D4
+Stinger D1
+Stone statue B3
+Strong magic core C1,C2,C3,C4,C5
+Sylvian darkness charm B4,A4
+Tarantzilla concentrated poison C5
+Tarantzilla concentrated stickum C5
+Tarantzilla eye C5
+Tarantzilla leg C5
+Tarantzilla mandibles C5
+Tarantzilla spines C5
+Tarantzilla web C5
+Telekinetic essence B2,A3
+Telekinter head B2,A3
+Troll foot B2
+Turquoise B1,A1,A4,S1
+Tusk D3
+Vegetables D1
+Wasp stinger E2
+Wasp wing E2
+White mask acid B2
+Wolf hide E3,E5,D3,D4
+Woodboar hide E4
+Wood E4
+Wood tusks E4
+Worm hide E3,D3,D4
+Worm poop E3
+Worm tooth E3
+Yeti fur A3
+Yeti magical dung A3

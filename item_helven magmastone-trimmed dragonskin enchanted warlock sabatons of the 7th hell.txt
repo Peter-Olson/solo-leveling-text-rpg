@@ -1,0 +1,12 @@
+﻿Type: boots
+Rank: S1
+Defense: 2645
+Effects: none
+BonusStrength: 87
+BonusAgility: 109
+BonusSense: 0
+BonusVitality: 72
+BonusIntelligence: 50
+BonusHP: 72
+BonusMP: 50
+Description: 

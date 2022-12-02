@@ -1,0 +1,13 @@
+You vaguely remember these words being followed by a brief talk about the importance of standing back up,\n
+when life gets you down, but that doesn’t really register with you at the moment. These words however,\n
+they seem to ring true more than they ever had, or even could.\n\n
+You’re lost in thought when receiving your badge and license. You try to ignore the stares from various\n
+people around you. The curious, the vaguely mocking, the sympathetic. E-rank is the lowest possible one\n
+can get. While it’s true that even the lowest rank hunter can get some better jobs, gather up magic cores,\n
+maybe even items - the path to real success is all but open for them. No recruiter worth their salt in any\n
+self-respecting guild will give you much more than a cursory glance, and even if it somehow comes to it,\n
+you’ll probably be relegated to an easier, less important and less paying job. You could also get a normal\n
+construction job, but you really don’t like that thought, since from what you’ve heard - they tend to really underpay hunters.
+@@END
+5,2
+<continue>

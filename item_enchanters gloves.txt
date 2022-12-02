@@ -1,0 +1,12 @@
+﻿Type: gloves
+Rank: C4
+Defense: 12
+Effects: none
+BonusStrength: 10
+BonusAgility: 0
+BonusSense: 12
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 8
+BonusMP: 0
+Description: 

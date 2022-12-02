@@ -1,0 +1,12 @@
+﻿Type: specialty weapon
+Rank: S1
+Attack: 70
+Speed: none
+Effects: 18
+BonusStrength: 18
+BonusAgility: 18
+BonusSense: 18
+BonusVitality: 18
+BonusIntelligence: 0
+BonusHP: 18
+BonusMP: 

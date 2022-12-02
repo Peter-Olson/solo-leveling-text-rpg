@@ -1,0 +1,13 @@
+﻿Type: cannon
+Rank: A3
+Attack: 144
+Speed: slowest
+Effects: none
+BonusStrength: 0
+BonusAgility: 1
+BonusSense: 12
+BonusVitality: 18
+BonusIntelligence: 12
+BonusHP: 0
+BonusMP: 9
+Description: 

@@ -1,0 +1,13 @@
+The rest of the class is a blur. The fatigue that’s been accumulating in your body seems gone now.\n
+News of your awakening is sure to spread quickly throughout the entire campus, as people are already\n
+giving you weird looks, unsure of how to react, since they don’t even know your rank yet.\n\n
+You shiver with anticipation. Eager to savor the flavor of the best day you’ve ever lived… You feel anxious,\n
+waiting to know the proper extent of your newfound power.\n\n
+Even a C-rank would be life-changing. All bills, mortgage, groceries - instantly taken care of.\n
+B-rank would put you on the radar of many guilds, and practically guarantee you a steady income,\n
+enough to live *very* comfortably and make progress with getting your mom back.. A-rank.. this would make you\n
+a POI for the most prestigious guilds in the whole country. You’d be able to quickly amass a small fortune,\n
+enough to pay for mom’s treatments many times over...
+@@END
+0,1
+<continue>

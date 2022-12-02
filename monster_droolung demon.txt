@@ -1,0 +1,12 @@
+﻿Type: dark
+Rank: E5
+Attack: 7
+Defense: 3
+HP: 69
+MP: 80
+Strength: 32
+Agility: 52
+Sense: 28
+Vitality: 22
+Intelligence: 37
+Description: 

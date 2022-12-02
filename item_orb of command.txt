@@ -1,0 +1,4 @@
+Type: orb
+Rank: B5
+Effects: ReputationMod:3.0,AttackMod:1.2
+Description: 

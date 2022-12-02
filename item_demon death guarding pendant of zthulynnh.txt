@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: A1
+Effects: HPMod:1.5,DefenseMod:1.3,RegenerationMod:1.5
+Bonus Attack: 0
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 0
+Bonus Agility: 30
+Bonus Sense: 0
+Bonus Vitality: 30
+Bonus Intelligence: 0
+Description: 

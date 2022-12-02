@@ -1,0 +1,12 @@
+﻿Type: robe
+Rank: B4
+Defense: 140
+Effects: none
+BonusStrength: 0
+BonusAgility: 45
+BonusSense: 53
+BonusVitality: 18
+BonusIntelligence: 53
+BonusHP: 13
+BonusMP: 0
+Description: 

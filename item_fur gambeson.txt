@@ -1,0 +1,4 @@
+﻿Type: platebody
+Rank: E4
+Defense: none
+Effects: 

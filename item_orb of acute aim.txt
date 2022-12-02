@@ -1,0 +1,4 @@
+Type: orb
+Rank: B1
+Effects: AgilityMod:1.5,SenseMod:1.5
+Description: 

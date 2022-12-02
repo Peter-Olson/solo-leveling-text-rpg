@@ -1,0 +1,16 @@
+You decide to head to your sister’s room to check on her. The door to her room is open,\n
+and she doesn’t appear to be there. You figure she’s probably already enjoying breakfast.\n
+You head to the kitchen, but she’s not there either. Nervous, you call out her name and\n
+briskly walk to the living room. Nothing. You run to check the bathroom. Nothing.\n
+You begin to properly freak out and decide to check the front door.\n\n
+“Boo!”\n\n
+You hear a tiny voice yell out behind you, and all the panic that’s been bubbling up\n
+inside you explodes briefly. You let out a sound of surprise, and quickly realize that\n
+your sister is, in fact, behind you.\n\n
+“Hehehe! Did I get you, Oppa?” She asks, as if the sound you’ve just made weren’t any indication.\n\n
+You turn around, your heart still pounding in your head, only to see her, posing like\n
+a cat ready to pounce. One hand like an outstretched paw, the other holding\n
+a carton of banana milk.
+@@END
+7,9
+<continue>

@@ -1,0 +1,12 @@
+﻿Type: tank
+Rank: S1
+Attack: 5395
+Defense: 1899
+HP: 30989
+MP: 13781
+Strength: 99
+Agility: 20
+Sense: 36
+Vitality: 264
+Intelligence: 56
+Description: 

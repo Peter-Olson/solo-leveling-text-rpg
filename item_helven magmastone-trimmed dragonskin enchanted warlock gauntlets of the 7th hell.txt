@@ -1,0 +1,12 @@
+﻿Type: gloves
+Rank: S1
+Defense: 1889
+Effects: none
+BonusStrength: 87
+BonusAgility: 0
+BonusSense: 109
+BonusVitality: 72
+BonusIntelligence: 94
+BonusHP: 72
+BonusMP: 94
+Description: 

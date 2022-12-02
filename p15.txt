@@ -1,0 +1,11 @@
+Getting closer to the tall, hooded figure you notice its front guard is not advancing\n
+towards you. A wise decision - the wide grin finally leaves your face, replaced with an\n
+expression of focus. You remain cautious. You can’t really make out any features of the boss,\n
+due to how absurdly long its hood is, although you think you saw a row of sharp teeth\n
+give of a frustrated glint. Oh, you’re right - it’s scowling.\n\n
+Good.\n\n
+Your mood shifts however, as the figure begins raising its arms. You ready your longsword,\n
+trying to prepare for anything that this caster will undoubtedly hail upon you.
+@@END
+0,1
+<continue>

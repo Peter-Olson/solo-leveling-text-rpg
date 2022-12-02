@@ -1,0 +1,3 @@
+Type: runestone
+Rank: D5
+Description: 

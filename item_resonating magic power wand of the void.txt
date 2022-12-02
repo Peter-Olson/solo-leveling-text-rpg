@@ -1,0 +1,13 @@
+﻿Type: wand
+Rank: A5
+Attack: 112
+Speed: fast
+Effects: none
+BonusStrength: 28
+BonusAgility: 59
+BonusSense: 59
+BonusVitality: 0
+BonusIntelligence: 62
+BonusHP: 0
+BonusMP: 77
+Description: 

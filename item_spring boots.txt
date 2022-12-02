@@ -1,0 +1,12 @@
+﻿Type: boots
+Rank: D3
+Defense: 2
+Effects: none
+BonusStrength: 5
+BonusAgility: 0
+BonusSense: 5
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

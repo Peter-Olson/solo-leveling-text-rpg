@@ -1,0 +1,7 @@
+﻿Aegis’ Deplorable Hell-Infused Power Earrings of the 7th Hell’s Restless Rage@AttackMod:1.2|@S1
+Demon Aristocrat’s Arcane Cursed Earrings of the 7th Hell@GoldMod:1.2,RegenerationMod:0.8|BonusStrength:20,BonusAttack:20@A4
+Frog earrings@|BonusAgility:10@D3
+Imp earrings@|BonusDefense:5@E2
+Jaguar Jungle Earrings of Ivania@AgilityMod:1.2|BonusStrength:30,BonusSense:30@S1
+Mystic Arch Lich Earrings of the Grand Arch Lich Dominion’s Lesser Beyond Blessed by Isangril@IntelligenceMod:1.2|BonusStrength:30,BonusAgility:30@A5
+Yeti snowball earrings@|BonusStrength:10@A3

@@ -1,0 +1,12 @@
+﻿Type: weak
+Rank: E3
+Attack: 1
+Defense: 0
+HP: 12
+MP: 24
+Strength: 6
+Agility: 8
+Sense: 5
+Vitality: 13
+Intelligence: 8
+Description: 

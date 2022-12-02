@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: B3
+Effects: AttackMod:1.3,AgilityMod:1.2,ReductionPoisonMod:5.0
+Bonus Attack: 20
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 0
+Bonus Agility: 0
+Bonus Sense: 0
+Bonus Vitality: 0
+Bonus Intelligence: 0
+Description: 

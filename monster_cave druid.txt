@@ -1,0 +1,12 @@
+﻿Type: mage
+Rank: D1
+Attack: 2
+Defense: 1
+HP: 56
+MP: 126
+Strength: 13
+Agility: 12
+Sense: 34
+Vitality: 13
+Intelligence: 51
+Description: 

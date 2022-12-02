@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: D1
+Defense: 2
+Effects: none
+BonusStrength: 5
+BonusAgility: 0
+BonusSense: 3
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 5
+BonusMP: 4
+Description: 

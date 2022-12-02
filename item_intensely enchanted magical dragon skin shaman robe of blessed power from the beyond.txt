@@ -1,0 +1,12 @@
+﻿Type: robe
+Rank: A5
+Defense: 2375
+Effects: none
+BonusStrength: 66
+BonusAgility: 161
+BonusSense: 190
+BonusVitality: 66
+BonusIntelligence: 190
+BonusHP: 47
+BonusMP: 0
+Description: 

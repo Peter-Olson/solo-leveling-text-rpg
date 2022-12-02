@@ -1,0 +1,13 @@
+The sound of your sister giggling alerts you to the fact that there’s a world\n
+outside the dishes you’re currently washing.\n\n
+Jin-Ah looks up at you, a wide smile on her face. You always wonder where she\n
+gets the energy to bounce around after a long day of school. Or the joyfulness.\n
+You’re glad she’s here.\n\n
+Sending her a half-smile, you strain to appear jolly yourself.\n
+The long 8:00 to 1:30 school day sapped your spirits already. Then there was\n
+work for another five and a half hours. Then looking for a better job.\n
+And now chores. You’re utterly drained.\n\n
+Her beaming smile gives you strength.
+@@END
+7,9
+<continue>

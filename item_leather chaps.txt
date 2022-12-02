@@ -1,0 +1,12 @@
+﻿Type: platelegs
+Rank: D3
+Defense: 7
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 3
+BonusVitality: 7
+BonusIntelligence: 0
+BonusHP: 7
+BonusMP: 2
+Description: 

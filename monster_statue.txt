@@ -1,0 +1,12 @@
+﻿Type: normal
+Rank: A5
+Attack: 3872
+Defense: 916
+HP: 23352
+MP: 21889
+Strength: 91
+Agility: 68
+Sense: 84
+Vitality: 94
+Intelligence: 70
+Description: 

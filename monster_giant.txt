@@ -1,0 +1,12 @@
+﻿Type: tank
+Rank: A3
+Attack: 3186
+Defense: 914
+HP: 15790
+MP: 6590
+Strength: 67
+Agility: 21
+Sense: 30
+Vitality: 174
+Intelligence: 41
+Description: 

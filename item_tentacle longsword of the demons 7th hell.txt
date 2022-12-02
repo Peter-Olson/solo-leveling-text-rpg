@@ -1,0 +1,13 @@
+﻿Type: longsword
+Rank: B4
+Attack: 127
+Speed: normal
+Effects: none
+BonusStrength: 31
+BonusAgility: 29
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 26
+BonusMP: 0
+Description: 

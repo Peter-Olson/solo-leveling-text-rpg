@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: C4
+Defense: 7
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 12
+BonusHP: 2
+BonusMP: 0
+Description: 

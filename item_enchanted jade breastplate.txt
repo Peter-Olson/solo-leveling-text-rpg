@@ -1,0 +1,12 @@
+﻿Type: platebody
+Rank: C4
+Defense: 57
+Effects: none
+BonusStrength: 16
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 2
+BonusHP: 14
+BonusMP: 2
+Description: 

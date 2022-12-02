@@ -1,0 +1,13 @@
+﻿Type: dagger
+Rank: D5
+Attack: 8
+Speed: fastest
+Effects: none
+BonusStrength: 2
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 5
+BonusIntelligence: 0
+BonusHP: 5
+BonusMP: 0
+Description: 

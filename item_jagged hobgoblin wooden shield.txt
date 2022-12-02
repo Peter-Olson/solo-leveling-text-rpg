@@ -1,0 +1,12 @@
+﻿Type: shield
+Rank: C1
+Defense: 15
+Effects: none
+BonusStrength: 14
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 10
+BonusMP: 0
+Description: 

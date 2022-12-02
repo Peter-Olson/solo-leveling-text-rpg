@@ -1,0 +1,4 @@
+Type: orb
+Rank: D3
+Effects: MPMod:1.5
+Description: 

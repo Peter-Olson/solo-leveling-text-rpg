@@ -1,0 +1,12 @@
+﻿Type: defensive
+Rank: E2
+Attack: 1
+Defense: 3
+HP: 29
+MP: 9
+Strength: 4
+Agility: 6
+Sense: 6
+Vitality: 13
+Intelligence: 6
+Description: 

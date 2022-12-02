@@ -1,0 +1,12 @@
+﻿Type: fighter
+Rank: C1
+Attack: 45
+Defense: 12
+HP: 416
+MP: 147
+Strength: 38
+Agility: 46
+Sense: 30
+Vitality: 33
+Intelligence: 27
+Description: 

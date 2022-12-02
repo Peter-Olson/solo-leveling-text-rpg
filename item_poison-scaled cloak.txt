@@ -1,0 +1,4 @@
+﻿Type: cape
+Rank: E5
+Defense: none
+Effects: 

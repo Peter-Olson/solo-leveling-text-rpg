@@ -1,0 +1,12 @@
+﻿Type: defensive
+Rank: C1
+Attack: 17
+Defense: 39
+HP: 360
+MP: 161
+Strength: 14
+Agility: 20
+Sense: 22
+Vitality: 43
+Intelligence: 20
+Description: 

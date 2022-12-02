@@ -1,0 +1,13 @@
+﻿Type: dagger
+Rank: C3
+Attack: 15
+Speed: fastest
+Effects: none
+BonusStrength: 4
+BonusAgility: 13
+BonusSense: 0
+BonusVitality: 9
+BonusIntelligence: 9
+BonusHP: 9
+BonusMP: 0
+Description: 

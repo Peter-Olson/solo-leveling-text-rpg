@@ -1,0 +1,13 @@
+Oh well. You have your own grand adventures planned for tomorrow. Another snooze-fest\n
+of classes followed by work. Exciting as always.\n\n
+You finish up the dishes and head to your room, making sure to say “goodnight” to your\n
+sister on the way there. She chirps you a “goodnight” back.\n\n
+Not caring about taking off your clothes you collapse onto the bed.\n
+The mattress is so inviting... The fatigue of the entire day catches up with you once again,\n
+and leads you to sleep with great ease.\n\n
+You toss and turn in your bedsheets, haunted by the dreams of becoming Korea’s first\n
+nerd Hunter. Slaying monsters with algebra, various assorted formulas and equations.\n\n
+You feel sick.
+@@END
+7,9
+<continue>

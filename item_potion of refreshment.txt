@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: B3
+Effects: Fatigue:100%
+Duration: permanent
+Description: 

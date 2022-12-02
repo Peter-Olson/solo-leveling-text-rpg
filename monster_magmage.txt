@@ -1,0 +1,12 @@
+﻿Type: mage
+Rank: C3
+Attack: 42
+Defense: 12
+HP: 556
+MP: 1594
+Strength: 25
+Agility: 24
+Sense: 57
+Vitality: 20
+Intelligence: 90
+Description: 

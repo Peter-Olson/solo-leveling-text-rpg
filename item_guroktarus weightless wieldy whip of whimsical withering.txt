@@ -1,0 +1,13 @@
+﻿Type: whip
+Rank: B5
+Attack: 125
+Speed: fastest
+Effects: none
+BonusStrength: 33
+BonusAgility: 47
+BonusSense: 42
+BonusVitality: 0
+BonusIntelligence: 42
+BonusHP: 28
+BonusMP: 0
+Description: 

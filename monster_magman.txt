@@ -1,0 +1,12 @@
+﻿Type: normal
+Rank: C3
+Attack: 75
+Defense: 22
+HP: 525
+MP: 773
+Strength: 36
+Agility: 36
+Sense: 29
+Vitality: 37
+Intelligence: 31
+Description: 

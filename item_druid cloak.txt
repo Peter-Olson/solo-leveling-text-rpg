@@ -1,0 +1,12 @@
+﻿Type: cape
+Rank: D1
+Defense: 0
+Effects: none
+BonusStrength: 1
+BonusAgility: 6
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 0
+Description: 

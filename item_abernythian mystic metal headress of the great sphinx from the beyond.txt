@@ -1,0 +1,12 @@
+﻿Type: helmet
+Rank: A4
+Defense: 2800
+Effects: none
+BonusStrength: 80
+BonusAgility: 0
+BonusSense: 53
+BonusVitality: 100
+BonusIntelligence: 80
+BonusHP: 87
+BonusMP: 67
+Description: 

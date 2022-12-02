@@ -1,0 +1,4 @@
+﻿Type: robe
+Rank: E2
+Defense: none
+Effects: 

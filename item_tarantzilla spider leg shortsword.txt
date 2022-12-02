@@ -1,0 +1,13 @@
+﻿Type: shortsword
+Rank: C5
+Attack: 30
+Speed: fast
+Effects: none
+BonusStrength: 8
+BonusAgility: 0
+BonusSense: 12
+BonusVitality: 12
+BonusIntelligence: 0
+BonusHP: 12
+BonusMP: 0
+Description: 

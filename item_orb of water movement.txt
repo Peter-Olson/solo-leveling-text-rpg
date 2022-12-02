@@ -1,0 +1,4 @@
+Type: orb
+Rank: C5
+Effects: SwimmingSpeedMod:3.0
+Description: 

@@ -1,0 +1,6 @@
+You grab your jacket and hurry out your room. Jin-Ah greets you on your way past the kitchen,\n
+happily drinking banana milk, smiling ear to ear. “Don’t forget your backpack, Oppa!” Right.\n
+You run back, grab your backpack, and pause to thank and pat Jin-Ah on the head before heading out the door.
+@@END
+0,1
+<continue>

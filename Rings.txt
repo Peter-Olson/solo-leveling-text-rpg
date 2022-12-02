@@ -1,0 +1,67 @@
+﻿Archer’s ring@|BonusAgility:30@C3
+Cursed ring@ReputationMod:0.5|BonusAttack:10@E5
+Demon Aristocrat’s Royal Ring of Curses@GoldMod:1.5,RegenerationMod:0.1,VitalityMod:0.5,StrengthMod:1.5,IntelligenceMod:1.5|@A4
+Demon Aristocrat’s Royal Ring of Power@GoldMod:1.5,StrengthMod:2.0|@A4
+Diamond Ring@|BonusAttack:5,BonusDefense:10,BonusHP:100@C2
+Emerald Ring@|BonusAgility:20@C2
+Enchanted Diamond Ring@|BonusAttack:10,BonusDefense:20,BonusHP:1000@C4
+Enchanted Emerald Ring@|BonusAgility:35@C4
+Enchanted Moonstone Ring@|BonusVitality:30,BonusMP:300@C4
+Enchanted Opal Ring@|BonusHP:500,BonusIntelligence:20@C4
+Enchanted Ruby Ring@|BonusStrength:35@C4
+Enchanted Sapphire Ring@|BonusMP:500@C4
+Enchanted Turquoise Ring@|BonusIntelligence:30,BonusMP:300@C4
+Guroktaru’s Rapacious Ruminating Ring of Revelatory Reticence@StrengthMod:1.2|BonusStrength:30,BonusIntelligence:30@B5
+Jungle ring@|BonusAgility:15@D2
+Molten ring@ReductionFireMod:2.0|BonusDefense:20,BonusVitality:10@C3
+Opal Ring@|BonusIntelligence:20@C2
+Pearl Ring@|BonusDefense:20@C2
+Ring of annihilation@AttackMod:2.0,StrengthMod:2.0,DefenseMod:0.3|@S1
+Ring of cold@ReductionIceMod:3.0|BonusVitality:30,BonusHP:3000@A3
+Ring of confusion@HPMod:2.0,VitalityMod:0.5,SenseMod:0.1,AgilityMod:3.0|@A5
+Ring of constitution@HPMod:1.2|BonusHP:10@E5,A1,A2,A3
+Ring of control@SenseMod:1.2,AgilityMod:1.2|@C4,B2,B4,A3
+Ring of cruelty@AttackMod:1.2,ReputationMod:0.8|@C5
+Ring of darksight@SenseMod:1.2|BonusSense:40@C5
+Ring of dark souls@VitalityMod:0.7,RegenerationMod:0.1,StrengthMod:1.5,AgilityMod:1.5|@A1,A2,A3
+Ring of death@RegenerationMod:0.01,StrengthMod:1.2|BonusStrength:15@D5,A1,A2,A3,A4,A5,S1
+Ring of defense@|BonusDefense:100@A1,A3
+Ring of destruction@StrengthMod:1.5,AttackMod:1.3|@A4,S1
+Ring of dexterity@AgilityMod:1.2|BonusAgility:10@D3,C5,B1,B3
+Ring of dystopia@StrengthMod:0.3,AgilityMod:1.7|@B4,A4
+Ring of effect-resistance@ReductionPiercingMod:1.5,ReductionSlashingMod:1.5,ReductionBluntMod:1.5,ReductionMagicMod:3.0,ReductionFireMod:10.0,ReductionPoisonMod:10.0,ReductionIceMod:10.0|@S1
+Ring of fear@AttackMod:1.1|BonusAgility:30@B3
+Ring of great defense@DefenseMod:2.0|BonusDefense:50@S1
+Ring of great dexterity@AgilityMod:2.0|BonusAgility:50@S1
+Ring of great intelligence@IntelligenceMod:2.0|BonusIntelligence:30@A5,S1
+Ring of great mana@MPMod:1.5|BonusMP:2000@A3
+Ring of great power@StrengthMod:1.5|@B1,B2,A3,A5,S1
+Ring of hate@HPMod:0.5,AttackMod:1.3|@A4
+Ring of hell@ReductionFireMod:5.0,StrengthMod:2.0,AgilityMod:0.5,RegenerationMod:1.3|@S1
+Ring of illusion@LuckMod:1.2|BonusAgility:40@C4
+Ring of intelligence@|BonusIntelligence:30@C4
+Ring of jewels@|BonusStrength:10,BonusAgility:10,BonusSense:10,BonusVitality:10,BonusIntelligence:10,BonusAttack:5@C2
+Ring of luck@LuckMod:2.0|@B2
+Ring of magical sight@IntelligenceMod:1.3,MPMod:1.3,SenseMod:1.5|@S1
+Ring of magic@MPMod:1.2,IntelligenceMod:1.2|@B3
+Ring of mana@MPMod:1.5|BonusMP:500@B2
+Ring of perception@SenseMod:1.3|BonusSense:30@B2,A3
+Ring of power@StrengthMod:1.3|@C1,C4,C5,A2,A3,S1
+Ring of recoil@HPMod:0.7|BonusAttack:20@C3,A4
+Ring of regeneration@RegenerationMod:2.5|@A4
+Ring of royalty@GoldMod:1.5|@C5
+Ring of speed@|BonusAgility:30@C5,B2
+Ring of strength@|BonusStrength:30@C4
+Ring of sturdiness@|BonusDefense:30@C3
+Ring of the colossal@|BonusDefense:50,BonusVitality:30@A1,A3,S1
+Ring of the dragon@ReductionMagicMod:2.0,ReductionFireMod:10.0,StrengthMod:2.0,DefenseMod:1.5,VitalityMod:1.5,IntelligenceMod:2.0|@S1
+Ring of the forest@AgilityMod:1.3,SenseMod:1.3|BonusIntelligence:10@B1
+Ring of the gods@StrengthMod:3.0,DefenseMod:3.0,AttackMod:2.0,VitalityMod:2.0,HPMod:2.0|@S3
+Ring of the jungle@AgilityMod:3.0|BonusStrength:100@S1
+Ring of toughness@|BonusDefense:10@E5
+Royal ring@GoldMod:1.5|@C2
+Ruby Ring@|BonusStrength:20@C2
+Sapphire Ring@|BonusMP:100@C2
+Soul ring@VitalityMod:0.1,StrengthMod:2.0|@C2
+Soul Stone Ring@VitalityMod:0.1,StrengthMod:2.0,HPMod:0.5,AttackMod:2.0|@A4
+Turquoise Ring@|BonusIntelligence:30,BonusSense:30@B1

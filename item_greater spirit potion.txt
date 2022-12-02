@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: S1
+Effects: HP:50%,MP:50%
+Duration: permanent
+Description: 

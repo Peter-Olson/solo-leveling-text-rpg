@@ -1,0 +1,12 @@
+As the first rays of sunlight force your eyes open, you let out a groan.\n
+You try to stretch… must’ve slept weird. A long yawn stretches your face as\n
+you try to recall what day of the week it is.\n\n
+Right.. Tuesday.\n\n
+You’re quite aware you have class at 8:00, so you probably should get\n
+your ass in gear. You…\n\n
+@@END
+7,9
+Go get breakfast
+Check in on Jin-Ah
+Observe room
+Observe Self

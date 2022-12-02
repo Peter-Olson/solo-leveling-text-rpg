@@ -1,0 +1,9 @@
+You pick up your alarm clock and throw it against the wall. KA-THUNK. It harmlessly falls\n
+to the ground, but you wince at the loud sound it makes slamming into the wall. You go to\n
+lay back down, but Jin-Ah appears in the doorway with her hands on her hips, frowning disapprovingly\n
+at you. “Oppa!” You lift your head and dazedly force a weak smile. “You have to get to school! No time to sleep!”\n
+Jin-Ah grabs you by your arm and tries to pull you to your feet. You relent and grab your\n
+backpack as Jin-Ah pushes you out the door.
+@@END
+0,1
+<continue>

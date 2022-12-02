@@ -1,0 +1,13 @@
+﻿Type: dagger
+Rank: A5
+Attack: 400
+Speed: fastest
+Effects: none
+BonusStrength: 100
+BonusAgility: 300
+BonusSense: 200
+BonusVitality: 200
+BonusIntelligence: 0
+BonusHP: 200
+BonusMP: 0
+Description: 

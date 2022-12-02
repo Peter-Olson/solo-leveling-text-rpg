@@ -1,0 +1,12 @@
+﻿Type: platebody
+Rank: B1
+Defense: 102
+Effects: none
+BonusStrength: 27
+BonusAgility: 4
+BonusSense: 8
+BonusVitality: 24
+BonusIntelligence: 0
+BonusHP: 24
+BonusMP: 4
+Description: 

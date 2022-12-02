@@ -1,0 +1,12 @@
+﻿Type: boss
+Rank: C5
+Attack: 294
+Defense: 56
+HP: 3256
+MP: 1459
+Strength: 82
+Agility: 54
+Sense: 51
+Vitality: 85
+Intelligence: 61
+Description: 

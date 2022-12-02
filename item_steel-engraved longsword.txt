@@ -1,0 +1,13 @@
+﻿Type: longsword
+Rank: C2
+Attack: 36
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 9
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 8
+BonusMP: 0
+Description: 

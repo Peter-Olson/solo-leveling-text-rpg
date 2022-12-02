@@ -1,0 +1,12 @@
+﻿Type: gloves
+Rank: D1
+Defense: 0
+Effects: none
+BonusStrength: 4
+BonusAgility: 4
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 4
+Description: 

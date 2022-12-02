@@ -1,0 +1,13 @@
+﻿Type: lance
+Rank: D1
+Attack: 18
+Speed: slow
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 0
+BonusHP: 6
+BonusMP: 0
+Description: 

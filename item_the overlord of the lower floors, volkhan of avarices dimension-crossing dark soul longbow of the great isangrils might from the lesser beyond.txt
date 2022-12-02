@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: A5
+Attack: 1690
+Speed: normal
+Effects: none
+BonusStrength: 292
+BonusAgility: 487
+BonusSense: 0
+BonusVitality: 325
+BonusIntelligence: 390
+BonusHP: 227
+BonusMP: 357
+Description: 

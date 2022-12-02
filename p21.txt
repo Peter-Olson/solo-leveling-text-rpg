@@ -1,0 +1,13 @@
+Along the way you inquire to her about the rest of the classes and your job. She responds that\n
+you’re excused for today, your workplace has been already notified, and that you will receive a\n
+fully paid day off. You smile. Perks of being a newly-minted hunter.\n\n
+You’re not surprised that the school has an internal system to deal with freshly-awakened hunters,\n
+you’ve managed to get in here on reasonably good grades, after all. You wouldn’t call the\n
+institution prestigious, that’d be stretching it - but you certainly wouldn’t turn away someone\n
+from here if you were looking to hire a well-mannered, educated worker.\n\n
+The SUV’s door opening brings you back down from the cloud you were on, walking with the lady agent\n
+and pondering your future. You get in, noting how the car very much fits the stereotype of what you\n
+expected the Korean Hunters Association to show up in.
+@@END
+3,2
+<continue>

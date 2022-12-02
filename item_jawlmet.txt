@@ -1,0 +1,4 @@
+﻿Type: helmet
+Rank: E5
+Defense: none
+Effects: 

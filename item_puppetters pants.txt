@@ -1,0 +1,12 @@
+﻿Type: pants
+Rank: C4
+Defense: 7
+Effects: none
+BonusStrength: 0
+BonusAgility: 14
+BonusSense: 0
+BonusVitality: 4
+BonusIntelligence: 0
+BonusHP: 0
+BonusMP: 14
+Description: 

@@ -1,0 +1,4 @@
+Type: orb
+Rank: A2
+Effects: AttackMod:2.0,StrengthMod:2.0,VitalityMod:0.1,HPMod:0.5
+Description: 

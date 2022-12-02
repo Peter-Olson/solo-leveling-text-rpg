@@ -1,0 +1,13 @@
+﻿Type: wand
+Rank: C2
+Attack: 19
+Speed: fast
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 7
+BonusIntelligence: 12
+BonusHP: 0
+BonusMP: 0
+Description: 

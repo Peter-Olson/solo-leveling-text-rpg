@@ -1,0 +1,13 @@
+﻿Type: bow
+Rank: C3
+Attack: 40
+Speed: normal
+Effects: none
+BonusStrength: 0
+BonusAgility: 13
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 10
+BonusHP: 0
+BonusMP: 10
+Description: 

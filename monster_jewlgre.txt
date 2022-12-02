@@ -1,0 +1,12 @@
+﻿Type: boss
+Rank: C2
+Attack: 96
+Defense: 31
+HP: 1210
+MP: 812
+Strength: 70
+Agility: 53
+Sense: 51
+Vitality: 56
+Intelligence: 54
+Description: 

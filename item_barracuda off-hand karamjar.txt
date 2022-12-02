@@ -1,0 +1,12 @@
+﻿Type: karamjar
+Rank: D4
+Defense: 5
+Effects: none
+BonusStrength: 9
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 3
+BonusIntelligence: 0
+BonusHP: 3
+BonusMP: 0
+Description: 

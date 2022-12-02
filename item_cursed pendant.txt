@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: E5
+Effects: LuckMod:0.5,RegenerationMod:0.7
+Bonus Attack: 10
+Bonus Defense: 10
+Bonus HP: 10
+Bonus MP: 10
+Bonus Strength: 0
+Bonus Agility: 0
+Bonus Sense: 0
+Bonus Vitality: 0
+Bonus Intelligence: 0
+Description: 

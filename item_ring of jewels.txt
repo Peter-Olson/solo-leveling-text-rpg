@@ -1,0 +1,13 @@
+﻿Type: ring
+Rank: C2
+Effects: none
+Bonus Attack: 5
+Bonus Defense: 0
+Bonus HP: 0
+Bonus MP: 0
+Bonus Strength: 10
+Bonus Agility: 10
+Bonus Sense: 10
+Bonus Vitality: 10
+Bonus Intelligence: 10
+Description: 

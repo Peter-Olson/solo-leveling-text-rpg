@@ -1,0 +1,13 @@
+﻿Type: pendant
+Rank: C2
+Effects: none
+Bonus Attack: 20
+Bonus Defense: 20
+Bonus HP: 20
+Bonus MP: 20
+Bonus Strength: 20
+Bonus Agility: 20
+Bonus Sense: 20
+Bonus Vitality: 20
+Bonus Intelligence: 20
+Description: 

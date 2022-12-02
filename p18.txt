@@ -1,0 +1,17 @@
+You take in your surroundings. You’re in the classroom, there’s no doubt about that.\n
+Every set of eyes in the room is pointed towards you. Frantic whispers shoot through the\n
+clean air, leaving you with the feeling that you’ve done something that will land you in trouble.\n
+You focus your stare on the desk that served as your bed up until moments ago. It’s unrecognizable.\n
+The cracked wood seems ripped apart and scorched where your hands rested just moments ago,\n
+and the ever-present splinters are singed to a rich black. The metal frame is bent, as if a very\n
+heavy weight has been pressing on it for quite some time.\n\n
+“Sung Jin-Woo? Are you okay?” You can’t help but nod reflexively, still surveying the damage.\n
+You’re glad you hadn’t laid out your notebook, as it’d be utterly ruined, beyond any hopes of saving\n
+the pages upon pages of notes you have in there.\n\n
+“What... happened?” You ask your professor hoarsely, surprised to hear your voice escape your lips.\n\n
+“Um, Sung Jin-Woo..” She replies, visibly shaken. Her stern glare from before now gone completely,\n
+replaced with a look of concern - \n\n
+“I believe you’ve just had an awakening.”
+@@END
+0,1
+<continue>

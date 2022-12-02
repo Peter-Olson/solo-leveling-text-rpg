@@ -1,0 +1,13 @@
+﻿Type: staff
+Rank: C5
+Attack: 84
+Speed: slow
+Effects: none
+BonusStrength: 0
+BonusAgility: 0
+BonusSense: 0
+BonusVitality: 0
+BonusIntelligence: 42
+BonusHP: 21
+BonusMP: 35
+Description: 

@@ -1,0 +1,395 @@
+﻿Lesser Healing Potion:C1:100%
+Greater Healing Potion:B1:100%
+Lesser Spirit Potion:A1:25%
+Greater Spirit Potion:S1:25%
+Minor Rejuvenation Potion:C1:100%
+Major Rejuvenation Potion:A1:100%
+Potion of Strength:B3:5%
+Potion of Dexterity:B3:5%
+Potion of Intelligence:B3:5%
+Potion of Perception:B3:5%
+Potion of Great Strength:A3:1%
+Potion of Great Dexterity:A3:1%
+Potion of Great Intelligence:A3:1%
+Potion of Great Perception:A3:1%
+Night Vision Potion:D3:5%
+Effect Resistance Potion:A1:1%
+Honey Potion:D1:5%
+Potion of Malice:D1:5%
+Potion of Defense:D1:5%
+Monster Sight Potion:C3:1%
+Invisibility Potion:A3:0.1%
+Potion of Fire Resistance:C3:1%
+Potion of Poison Resistance:C3:1%
+Potion of Refreshment:A3:1%
+Flight Potion:S1:0.1%
+Ivory Helmet:E5:5%
+Ivory Breastplate:E5:5%
+Ivory Platelegs:E5:5%
+Ivory Shield:E5:5%
+Ivory Dagger:E5:5%
+Ivory Shortsword:E5:5%
+Ivory Longsword:E5:5%
+Ivory Battleaxe:E5:5%
+Ivory Two-Handed Sword:E5:5%
+Ivory Spear:E5:5%
+Ivory Halberd:E5:5%
+Ivory Whip:D1:1%
+Gnomestone Helmet:D1:5%
+Gnomestone Breastplate:D1:5%
+Gnomestone Platelegs:D1:5%
+Gnomestone Shield:D1:5%
+Gnomestone Dagger:D1:5%
+Gnomestone Shortsword:D1:5%
+Gnomestone Longsword:D1:5%
+Gnomestone Battleaxe:D1:5%
+Gnomestone Two-Handed Sword:D1:5%
+Gnomestone Spear:D1:5%
+Gnomestone Halberd:D1:5%
+Gnomestone Whip:D1:1%
+Bronze Helmet:C2:5%
+Bronze Breastplate:C2:5%
+Bronze Platelegs:C2:5%
+Bronze Shield:C2:5%
+Bronze Dagger:C2:5%
+Bronze Shortsword:C2:5%
+Bronze Longsword:C2:5%
+Bronze Battleaxe:C2:5%
+Bronze Two-Handed Sword:C2:5%
+Bronze Spear:C2:5%
+Bronze Halberd:C2:5%
+Bronze Whip:C2:1%
+Iron Helmet:C2:5%
+Iron Breastplate:C2:5%
+Iron Platelegs:C2:5%
+Iron Shield:C2:5%
+Iron Dagger:C2:5%
+Iron Shortsword:C2:5%
+Iron Longsword:C2:5%
+Iron Battleaxe:C2:5%
+Iron Two-Handed Sword:C2:5%
+Iron Spear:C2:5%
+Iron Halberd:C2:5%
+Iron Whip:C2:1%
+Silver Helmet:C2:5%
+Silver Breastplate:C2:5%
+Silver Platelegs:C2:5%
+Silver Shield:C2:5%
+Silver Dagger:C2:5%
+Silver Shortsword:C2:5%
+Silver Longsword:C2:5%
+Silver Battleaxe:C2:5%
+Silver Two-Handed Sword:C2:5%
+Silver Spear:C2:5%
+Silver Halberd:C2:5%
+Silver Whip:C2:1%
+Gold Helmet:C2:5%
+Gold Breastplate:C2:5%
+Gold Platelegs:C2:5%
+Gold Shield:C2:5%
+Gold Dagger:C2:5%
+Gold Shortsword:C2:5%
+Gold Longsword:C2:5%
+Gold Battleaxe:C2:5%
+Gold Two-Handed Sword:C2:5%
+Gold Spear:C2:5%
+Gold Halberd:C2:5%
+Gold Whip:C2:1%
+Steel Helmet:C2:5%
+Steel Breastplate:C2:5%
+Steel Platelegs:C2:5%
+Steel Shield:C2:5%
+Steel Dagger:C2:5%
+Steel Shortsword:C2:5%
+Steel Longsword:C2:5%
+Steel Battleaxe:C2:5%
+Steel Two-Handed Sword:C2:5%
+Steel Spear:C2:5%
+Steel Halberd:C2:5%
+Steel Whip:C2:1%
+Magic Rock Helmet:C1:5%
+Magic Rock Breastplate:C1:5%
+Magic Rock Platelegs:C1:5%
+Magic Rock Shield:C1:5%
+Jade Helmet:C2:5%
+Jade Breastplate:C2:5%
+Jade Platelegs:C2:5%
+Jade Shield:C2:5%
+Jade Dagger:C2:5%
+Jade Shortsword:C2:5%
+Jade Longsword:C2:5%
+Jade Battleaxe:C2:5%
+Jade Two-Handed Sword:C2:5%
+Jade Spear:C2:5%
+Jade Halberd:C2:5%
+Jade Whip:C2:1%
+Obsidian Helmet:C2:5%
+Obsidian Breastplate:C2:5%
+Obsidian Platelegs:C2:5%
+Obsidian Shield:C2:5%
+Obsidian Dagger:C2:5%
+Obsidian Shortsword:C2:5%
+Obsidian Longsword:C2:5%
+Obsidian Battleaxe:C2:5%
+Obsidian Two-Handed Sword:C2:5%
+Obsidian Spear:C2:5%
+Obsidian Halberd:C2:5%
+Obsidian Whip:C2:1%
+Platinum Helmet:C2:5%
+Platinum Breastplate:C2:5%
+Platinum Platelegs:C2:5%
+Platinum Shield:C2:5%
+Platinum Dagger:C2:5%
+Platinum Shortsword:C2:5%
+Platinum Longsword:C2:5%
+Platinum Battleaxe:C2:5%
+Platinum Two-Handed Sword:C2:5%
+Platinum Spear:C2:5%
+Platinum Halberd:C2:5%
+Platinum Whip:C2:1%
+Magma Rock Helmet:C3:5%
+Magma Rock Breastplate:C3:5%
+Magma Rock Platelegs:C3:5%
+Magma Rock Shield:C3:5%
+Magma Rock Dagger:C3:5%
+Magma Rock Shortsword:C3:5%
+Magma Rock Longsword:C3:5%
+Magma Rock Battleaxe:C3:5%
+Magma Rock Two-Handed Sword:C3:5%
+Magma Rock Spear:C3:5%
+Magma Rock Halberd:C3:5%
+Magma Rock Whip:C3:1%
+Enchanted Obsidian Helmet:C4:5%
+Enchanted Obsidian Breastplate:C4:5%
+Enchanted Obsidian Platelegs:C4:5%
+Enchanted Obsidian Shield:C4:5%
+Enchanted Obsidian Dagger:C4:5%
+Enchanted Obsidian Shortsword:C4:5%
+Enchanted Obsidian Longsword:C4:5%
+Enchanted Obsidian Battleaxe:C4:5%
+Enchanted Obsidian Two-Handed Sword:C4:5%
+Enchanted Obsidian Spear:C4:5%
+Enchanted Obsidian Halberd:C4:5%
+Enchanted Obsidian Whip:C4:1%
+Enchanted Jade Helmet:C4:1%
+Enchanted Jade Breastplate:C4:1%
+Enchanted Jade Platelegs:C4:1%
+Enchanted Jade Shield:C4:1%
+Enchanted Jade Dagger:C4:1%
+Enchanted Jade Shortsword:C4:1%
+Enchanted Jade Longsword:C4:1%
+Enchanted Jade Battleaxe:C4:1%
+Enchanted Jade Two-Handed Sword:C4:1%
+Enchanted Jade Spear:C4:1%
+Enchanted Jade Halberd:C4:1%
+Enchanted Jade Whip:C4:0.1%
+Frigate Timberock Helmet:C4:5%
+Frigate Timberock Breastplate:C4:5%
+Frigate Timberock Platelegs:C4:5%
+Frigate Timberock Shield:C4:5%
+Magic Iron Helmet:B3:5%
+Magic Iron Breastplate:B3:5%
+Magic Iron Platelegs:B3:5%
+Magic Iron Shield:B3:5%
+Magic Iron Dagger:B3:5%
+Magic Iron Shortsword:B3:5%
+Magic Iron Longsword:B3:5%
+Magic Iron Battleaxe:B3:5%
+Magic Iron Two-Handed Sword:B3:5%
+Magic Iron Spear:B3:5%
+Magic Iron Halberd:B3:5%
+Magic Iron Whip:B3:1%
+Magic Steel Helmet:A1:5%
+Magic Steel Breastplate:A1:5%
+Magic Steel Platelegs:A1:5%
+Magic Steel Shield:A1:5%
+Magic Steel Dagger:A1:5%
+Magic Steel Shortsword:A1:5%
+Magic Steel Longsword:A1:5%
+Magic Steel Battleaxe:A1:5%
+Magic Steel Two-Handed Sword:A1:5%
+Magic Steel Spear:A1:5%
+Magic Steel Halberd:A1:5%
+Magic Steel Whip:A1:1%
+Magmastone Helmet:A4:5%
+Magmastone Breastplate:A4:5%
+Magmastone Platelegs:A4:5%
+Magmastone Shield:A4:5%
+Magmastone Dagger:A4:5%
+Magmastone Shortsword:A4:5%
+Magmastone Longsword:A4:5%
+Magmastone Battleaxe:A4:5%
+Magmastone Two-Handed Sword:A4:5%
+Magmastone Spear:A4:5%
+Magmastone Halberd:A4:5%
+Magmastone Whip:A4:1%
+Dragonstone Helmet:B3:1%
+Dragonstone Breastplate:B3:1%
+Dragonstone Platelegs:B3:1%
+Dragonstone Shield:B3:1%
+Dragonstone Dagger:B3:1%
+Dragonstone Shortsword:B3:1%
+Dragonstone Longsword:B3:1%
+Dragonstone Battleaxe:B3:1%
+Dragonstone Two-Handed Sword:B3:1%
+Dragonstone Spear:B3:1%
+Dragonstone Halberd:B3:1%
+Dragonstone Whip:B3:0.1%
+Enchanted Magmastone Helmet:B3:1%
+Enchanted Magmastone Breastplate:B3:1%
+Enchanted Magmastone Platelegs:B3:1%
+Enchanted Magmastone Shield:B3:1%
+Enchanted Magmastone Dagger:B3:1%
+Enchanted Magmastone Shortsword:B3:1%
+Enchanted Magmastone Longsword:B3:1%
+Enchanted Magmastone Battleaxe:B3:1%
+Enchanted Magmastone Two-Handed Sword:B3:1%
+Enchanted Magmastone Spear:B3:1%
+Enchanted Magmastone Halberd:B3:1%
+Enchanted Magmastone Whip:B3:0.1%
+Enchanted Dragonstone Helmet:B3:1%
+Enchanted Dragonstone Breastplate:B3:1%
+Enchanted Dragonstone Platelegs:B3:1%
+Enchanted Dragonstone Shield:B3:1%
+Enchanted Dragonstone Dagger:B3:1%
+Enchanted Dragonstone Shortsword:B3:1%
+Enchanted Dragonstone Longsword:B3:1%
+Enchanted Dragonstone Battleaxe:B3:1%
+Enchanted Dragonstone Two-Handed Sword:B3:1%
+Enchanted Dragonstone Spear:B3:1%
+Enchanted Dragonstone Halberd:B3:1%
+Enchanted Dragonstone Whip:B3:0.1%
+Abernythian Stone Helmet:A4:1%
+Abernythian Stone Breastplate:A4:1%
+Abernythian Stone Platelegs:A4:1%
+Abernythian Stone Shield:A4:1%
+Abernythian Mystic Metal Helmet:A4:1%
+Abernythian Mystic Metal Breastplate:A4:1%
+Abernythian Mystic Metal Platelegs:A4:1%
+Abernythian Mystic Metal Shield:A4:1%
+Abernythian Mystic Metal Dagger:A4:1%
+Abernythian Mystic Metal Shortsword:A4:1%
+Abernythian Mystic Metal Longsword:A4:1%
+Abernythian Mystic Metal Battleaxe:A4:1%
+Abernythian Mystic Metal Two-Handed Sword:A4:1%
+Abernythian Mystic Metal Spear:A4:1%
+Abernythian Mystic Metal Halberd:A4:1%
+Abernythian Mystic Metal Whip:A4:0.1%
+Magical Animated Stone Helmet:A5:0.1%
+Magical Animated Stone Breastplate:A5:0.1%
+Magical Animated Stone Platelegs:A5:0.1%
+Magical Animated Stone Shield:A5:0.1%
+Bat Hide Coif:E1:5%
+Bat Hide Gambeson:E1:5%
+Bat Hide Cuisse:E1:5%
+Bat Hide Gloves:E1:5%
+Bat Hide Boots:E1:5%
+Kobold Hide Coif:E3:5%
+Kobold Hide Gambeson:E3:5%
+Kobold Hide Cuisse:E3:5%
+Kobold Hide Gloves:E3:5%
+Kobold Hide Boots:E3:5%
+Woodboar Hide Coif:E3:5%
+Woodboar Hide Gambeson:E3:5%
+Woodboar Hide Cuisse:E3:5%
+Woodboar Hide Gloves:E3:5%
+Woodboar Hide Boots:E3:5%
+Fur Coif:E4:5%
+Fur Gambeson:E4:5%
+Fur Cuisse:E4:5%
+Fur Gloves:E4:5%
+Fur Boots:E4:5%
+Wolf Hide Coif:E3:5%
+Wolf Hide Gambeson:E3:5%
+Wolf Hide Cuisse:E3:5%
+Wolf Hide Gloves:E3:5%
+Wolf Hide Boots:E3:5%
+Jellyhide Coif:E5:5%
+Jellyhide Gambeson:E5:5%
+Jellyhide Cuisse:E5:5%
+Jellyhide Gloves:E5:5%
+Jellyhide Boots:E5:5%
+Jackal Hide Coif:D2:5%
+Jackal Hide Gambeson:D2:5%
+Jackal Hide Cuisse:D2:5%
+Jackal Hide Gloves:D2:5%
+Jackal Hide Boots:D2:5%
+Horseman Hide Coif:C3:5%
+Horseman Hide Gambeson:C3:5%
+Horseman Hide Cuisse:C3:5%
+Horseman Hide Gloves:C3:5%
+Horseman Hide Boots:C3:5%
+Mammoth Fur Coif:C3:5%
+Mammoth Fur Gambeson:C3:5%
+Mammoth Fur Cuisse:C3:5%
+Mammoth Fur Gloves:C3:5%
+Mammoth Fur Boots:C3:5%
+Cereberus Demon Fur Coif:A1:5%
+Cereberus Demon Fur Gambeson:A1:5%
+Cereberus Demon Fur Cuisse:A1:5%
+Cereberus Demon Fur Gloves:A1:5%
+Cereberus Demon Fur Boots:A1:5%
+Yeti Fur Coif:A3:5%
+Yeti Fur Gambeson:A3:5%
+Yeti Fur Cuisse:A3:5%
+Yeti Fur Gloves:A3:5%
+Yeti Fur Boots:A3:5%
+Jaguar Hide Coif:S1:5%
+Jaguar Hide Gambeson:S1:5%
+Jaguar Hide Cuisse:S1:5%
+Jaguar Hide Gloves:S1:5%
+Jaguar Hide Boots:S1:5%
+Lungwood Staff:E2:5%
+Lungwood Wand:E2:5%
+Wood Staff:E4:5%
+Wood Wand:E4:5%
+Gnomestone Staff:D1:5%
+Gnomestone Wand:D1:5%
+Jade Staff:C2:5%
+Jade Wand:C2:5%
+Enchanted Jade Staff:C4:1%
+Enchanted Jade Wand:C4:1%
+Entwood Staff:B3:5%
+Entwood Wand:B3:5%
+Enchanted Drowbark Staff:A4:5%
+Enchanted Drowbark Wand:A4:5%
+Lungwood Longbow:E2:5%
+Wood Longbow:E2:5%
+Barracuda Scale Longbow:D4:5%
+Merscale Longbow:C4:5%
+Cobra Scale Longbow:B1:5%
+Basilisk Scale Longbow:B3:5%
+Entwood Longbow:B3:5%
+Naga Scale Longbow:A1:5%
+Enchanted Drowbark Longbow:A4:5%
+Dragon Scale Longbow:A5:1%
+Pearl Ring:C2:5%
+Sapphire Ring:C2:5%
+Ruby Ring:C2:5%
+Emerald Ring:C2:5%
+Opal Ring:C2:5%
+Turquoise Ring:B1:5%
+Diamond Ring:C2:5%
+Enchanted Sapphire Ring:C4:1%
+Enchanted Ruby Ring:C4:1%
+Enchanted Emerald Ring:C4:1%
+Enchanted Opal Ring:C4:1%
+Enchanted Turquoise Ring:C4:1%
+Enchanted Moonstone Ring:C4:1%
+Enchanted Diamond Ring:C4:1%
+Soul Stone Ring:A4:0.1%
+Pearl Pendant:C2:5%
+Sapphire Pendant:C2:5%
+Ruby Pendant:C2:5%
+Emerald Pendant:C2:5%
+Opal Pendant:C2:5%
+Turquoise Pendant:B1:5%
+Diamond Pendant:C2:5%
+Enchanted Sapphire Pendant:C4:1%
+Enchanted Ruby Pendant:C4:1%
+Enchanted Emerald Pendant:C4:1%
+Enchanted Opal Pendant:C4:1%
+Enchanted Turquoise Pendant:C4:1%
+Enchanted Moonstone Pendant:C4:1%
+Enchanted Diamond Pendant:C4:1%
+Soul Stone Pendant:A4:0.1%

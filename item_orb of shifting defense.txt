@@ -1,0 +1,4 @@
+Type: orb
+Rank: B3
+Effects: DefenseMod:2.5,IntelligenceMod:2.0,AgilityMod:1.5
+Description: 

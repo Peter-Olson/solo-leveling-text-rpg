@@ -1,0 +1,5 @@
+﻿Type: longsword
+Rank: E5
+Attack: normal
+Speed: none
+Effects: 

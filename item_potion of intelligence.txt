@@ -1,0 +1,5 @@
+﻿Type: potion
+Rank: C1
+Effects: Intelligence:30%
+Duration: 30 minutes
+Description: 
